@@ -1,0 +1,11 @@
+<resources language="ru">
+  <group>Групповой</group>
+  <group_description>Вы видите всех участников группы на единой карте, они также видят вас, когда у вас активна передача местоположений.<br />
+  Можно планировать поездки, накладывать точки и треки для удобной одновременной навигации множества устройств.</group_description>
+  <with_osmodroid>Наблюдайте через OsMoDroid</with_osmodroid>
+  <with_osmodroid_description>Наш официальный клиент даёт максимум возможностей по работе с сервисом</with_osmodroid_description>
+  <with_osmand>Используйте OsmAnd</with_osmand>
+  <with_osmand_description>Для навигационной программы OsmAnd есть свой плагин OsMo, позволяющий работать с функциями сервиса внутри удобной навигационной оболочки</with_osmand_description>
+  <with_website>Работайте через сайт</with_website>
+  <with_website_description>Это легкий и простой доступ для просмотра и управления, через любой удобный вам интернет-браузер</with_website_description>
+</resources>
