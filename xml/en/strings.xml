@@ -1,10 +1,10 @@
 <resources language="ru">
-  <language>Язык</language>
-  <signin>Войти</signin>
-  <signout>Выйти</signout>
-  <more_info>Подробнее</more_info>
-  <register_button>Как зарегистрироваться?</register_button>
-  <thisistest>Этот сайт тестовый, может быть нестабилен</thisistest>
+  <language>Language</language>
+  <signin>Sign in</signin>
+  <signout>Sign out</signout>
+  <more_info>More info</more_info>
+  <register_button>How to register?</register_button>
+  <thisistest>This site test, may be unstable</thisistest>
   <email>E-mail</email>
-  <password>Пароль</password>
+  <password>Password</password>
 </resources>
