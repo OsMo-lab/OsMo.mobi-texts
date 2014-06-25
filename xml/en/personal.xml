@@ -1,8 +1,8 @@
-<resources language="ru">
-  <personal>Персональный</personal>
+<resources language="en">
+  <personal>Personal</personal>
   <personal_description>Для тех кто хочет поведать о том, где он сейчас</personal_description>
-  <share_location>Делитесь</share_location>
+  <share_location>Share</share_location>
   <share_location_description>Отправьте персональную ссылку или свой ID, чтобы за вами могли наблюдать, пока вы этого хотите</share_location_description>
-  <communicate>Общение</communicate>
+  <communicate>Communicate</communicate>
   <communicate_description>Общайтесь с любым, чей "Персональный ID" вы знаете</communicate_description>
 </resources>
