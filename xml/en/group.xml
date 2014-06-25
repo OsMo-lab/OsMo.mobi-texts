@@ -5,7 +5,7 @@
   <with_osmodroid>Monitor via OsMoDroid</with_osmodroid>
   <with_osmodroid_description>Our official client gives maximum possibilities to work with service</with_osmodroid_description>
   <with_osmand>Use OsmAnd</with_osmand>
-  <with_osmand_description>Для навигационной программы OsmAnd есть свой плагин OsMo, позволяющий работать с функциями сервиса внутри удобной навигационной оболочки</with_osmand_description>
+  <with_osmand_description>Navigation Software OsmAnd has a special OsMo plugin, that could fully function and provide navigational facilities</with_osmand_description>
   <with_website>Access through on the website</with_website>
-  <with_website_description>Это легкий и простой доступ для просмотра и управления, через любой удобный вам интернет-браузер</with_website_description>
+  <with_website_description>This is an easy and simple way to view and manage via any convenient internet browser</with_website_description>
 </resources>
