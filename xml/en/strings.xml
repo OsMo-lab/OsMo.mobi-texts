@@ -10,4 +10,5 @@
   <pnf_title>Error 404</pnf_title>
   <pnf_description>Page not found</pnf_description>
   <pnf_link>Browse from main page</pnf_link>
+  <error>Some error</error>
 </resources>
