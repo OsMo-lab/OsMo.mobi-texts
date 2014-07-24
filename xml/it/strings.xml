@@ -1,0 +1,13 @@
+<resources language="it">
+  <language>Lingua</language>
+  <signin>Autenticati</signin>
+  <signout>Esci</signout>
+  <more_info>Più informazioni</more_info>
+  <register_button>Come registrarsi?</register_button>
+  <thisistest>Questo sito è in test, potrebbe essere instabile</thisistest>
+  <email>E-mail</email>
+  <password>Password</password>
+  <pnf_title>Error 404</pnf_title>
+  <pnf_description>Pagina non trovata</pnf_description>
+  <pnf_link>Naviga dalla pagina principale</pnf_link>
+</resources>
