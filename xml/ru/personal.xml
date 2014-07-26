@@ -2,7 +2,7 @@
   <personal>Персональный</personal>
   <personal_description>Для тех кто хочет поведать о том, где он сейчас</personal_description>
   <share_location>Делитесь</share_location>
-  <share_location_description>Отправьте персональную ссылку или свой ID, чтобы за вами могли наблюдать, пока вы этого хотите</share_location_description>
+  <share_location_description>Отправьте персональную ссылку, чтобы за вами могли наблюдать, пока идёт сеанс мониторинга или создайте постоянную ссылку</share_location_description>
   <communicate>Общение</communicate>
   <communicate_description>Общайтесь с любым, чей "Персональный ID" вы знаете</communicate_description>
 </resources>
