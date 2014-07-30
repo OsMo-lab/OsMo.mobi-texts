@@ -1,0 +1,8 @@
+<resources language="en">
+  <personal>Personal</personal>
+  <personal_description>For all who want to broadcast his location now</personal_description>
+  <share_location>Share</share_location>
+  <share_location_description>Send your personal url or your Personal ID, that your friends could monitor your location</share_location_description>
+  <communicate>Communicate</communicate>
+  <communicate_description>Communicate with anyone, which "Personal ID" you know</communicate_description>
+</resources>
