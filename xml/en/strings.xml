@@ -12,4 +12,7 @@
   <pnf_link>Browse from main page</pnf_link>
   <error>Some error</error>
   <coming>Coming soon</coming>
+  <properties>Properties</properties>
+  <devices>Devices</devices>
+  <groups>Grops</groups>
 </resources>

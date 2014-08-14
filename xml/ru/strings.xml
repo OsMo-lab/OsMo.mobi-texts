@@ -12,4 +12,7 @@
   <pnf_link>Попробуйте начать с главной страницы</pnf_link>
   <error>Произошла ошибка</error>
   <coming>Скоро</coming>
+  <properties>Свойства</properties>
+  <devices>Устройства</devices>
+  <groups>Группы</groups>
 </resources>
