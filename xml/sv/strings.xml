@@ -1,4 +1,4 @@
-<resources language="en">
+<resources language="sv">
   <language>Language</language>
   <signin>Sign in</signin>
   <signout>Sign out</signout>
@@ -12,4 +12,9 @@
   <pnf_link>Browse from main page</pnf_link>
   <error>Some error</error>
   <coming>Coming soon</coming>
+  <properties>Properties</properties>
+  <devices>Devices</devices>
+  <groups>Grops</groups>
+  <links>Links</links>
+  <unknown>Unknown</unknown>
 </resources>

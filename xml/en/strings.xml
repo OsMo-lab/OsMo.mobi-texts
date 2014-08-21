@@ -15,4 +15,6 @@
   <properties>Properties</properties>
   <devices>Devices</devices>
   <groups>Grops</groups>
+  <links>Links</links>
+  <unknown>Unknown</unknown>
 </resources>
