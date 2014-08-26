@@ -17,4 +17,7 @@
   <groups>Группы</groups>
   <links>Ссылки</links>
   <unknown>Неизвестно</unknown>
+  <add>Добавить</add>
+  <edit>Редактировать</edit>
+  <delete>Удалить</delete>
 </resources>

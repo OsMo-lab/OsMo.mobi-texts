@@ -17,4 +17,7 @@
   <groups>Grops</groups>
   <links>Links</links>
   <unknown>Unknown</unknown>
+  <add>Add</add>
+  <edit>Edit</edit>
+  <delete>Delete</delete>
 </resources>
