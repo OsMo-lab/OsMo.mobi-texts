@@ -21,4 +21,5 @@
   <edit>Edit</edit>
   <delete>Delete</delete>
   <reset>Reset</reset>
+  <name>Название</name>
 </resources>
