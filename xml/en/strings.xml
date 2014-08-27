@@ -20,4 +20,5 @@
   <add>Add</add>
   <edit>Edit</edit>
   <delete>Delete</delete>
+  <reset>Reset</reset>
 </resources>
