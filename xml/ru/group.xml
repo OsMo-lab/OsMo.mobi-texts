@@ -2,6 +2,7 @@
   <group>Групповой</group>
   <group_description>Вы видите всех участников группы на единой карте, они также видят вас, когда у вас активна передача местоположений.<br />
   Можно планировать поездки, накладывать точки и треки для удобной одновременной навигации множества устройств.</group_description>
+  <group_catalog>Каталог групп</group_catalog>
   <with_osmodroid>Наблюдайте через OsMoDroid</with_osmodroid>
   <with_osmodroid_description>Наш официальный клиент даёт максимум возможностей по работе с сервисом</with_osmodroid_description>
   <with_osmand>Используйте OsmAnd</with_osmand>

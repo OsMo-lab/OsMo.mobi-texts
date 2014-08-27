@@ -2,6 +2,7 @@
   <group>Group</group>
   <group_description>You can see all group participants on the map, at the same time they could also see you, if you have enabled option 'Sending my locations'.<br />
   You can plan trips, prepare route points and route tracks, you can have live navigation on many devices.</group_description>
+  <group_catalog>List of groups</group_catalog>
   <with_osmodroid>Monitor via OsMoDroid</with_osmodroid>
   <with_osmodroid_description>Our official client gives maximum possibilities to work with service</with_osmodroid_description>
   <with_osmand>Use OsmAnd</with_osmand>
