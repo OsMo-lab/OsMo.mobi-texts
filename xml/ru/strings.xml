@@ -22,4 +22,5 @@
   <delete>Удалить</delete>
   <reset>Сбросить</reset>
   <name>Название</name>
+  <updated>Обновлено</updated>
 </resources>
