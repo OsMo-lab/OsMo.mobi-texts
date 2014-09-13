@@ -3,18 +3,18 @@
   <signin>Sign in</signin>
   <signout>Sign out</signout>
   <more_info>More info</more_info>
-  <register_button>How to register?</register_button>
-  <thisistest>This site test, may be unstable</thisistest>
+  <register_button>How to register</register_button>
+  <thisistest>This site is a test, and may be unstable</thisistest>
   <email>Email</email>
   <password>Password</password>
   <pnf_title>Error 404</pnf_title>
   <pnf_description>Page not found</pnf_description>
-  <pnf_link>Browse from main page</pnf_link>
-  <error>Some error</error>
+  <pnf_link>Return to the home page</pnf_link>
+  <error>There has been an error</error>
   <coming>Coming soon</coming>
   <properties>Properties</properties>
   <devices>Devices</devices>
-  <groups>Grops</groups>
+  <groups>Groups</groups>
   <links>Links</links>
   <unknown>Unknown</unknown>
   <add>Add</add>

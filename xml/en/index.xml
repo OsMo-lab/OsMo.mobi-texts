@@ -1,7 +1,7 @@
 <resources language="en">
-  <index_description>Welcome to OsMo, here is all about how to create and manage GPS-monitoring using your smartphone</index_description>
+  <index_description>Welcome to OsMo, the GPS location monitoring and sharing solution for your smartphone</index_description>
   <personal>Personal</personal>
-  <personal_description>You can share your location with anyone and do it in a simple and anonymous way</personal_description>
+  <personal_description>Share your location with anyone, simply and anonymously</personal_description>
   <group>Group</group>
-  <group_description>Create and join groups, to see each other on the map</group_description>
+  <group_description>Create and join groups, to see (and be seen) by other group members on the map</group_description>
 </resources>
