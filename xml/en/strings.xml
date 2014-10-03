@@ -23,4 +23,5 @@
   <reset>Reset</reset>
   <name>Name</name>
   <updated>Updated</updated>
+  <actions>Actions</actions>
 </resources>

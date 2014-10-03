@@ -1,4 +1,8 @@
 <resources language="en">
   <last_auth>Last login</last_auth>
   <last_point>The last point</last_point>
+  <members>Members</members>
+  <nick>Nick</nick>
+  <joined>Joined</joined>
+  <online>Was online</online>
 </resources>
