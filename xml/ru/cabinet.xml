@@ -5,4 +5,5 @@
   <nick>Ник</nick>
   <joined>Присоединился</joined>
   <online>Был в сети</online>
+  <connected_devices>Подключенные устройства</connected_devices>
 </resources>

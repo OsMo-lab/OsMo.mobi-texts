@@ -5,4 +5,5 @@
   <nick>Nick</nick>
   <joined>Joined</joined>
   <online>Was online</online>
+  <connected_devices>Connected devices</connected_devices>
 </resources>
