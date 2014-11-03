@@ -6,4 +6,13 @@
   <joined>Joined</joined>
   <online>Was online</online>
   <connected_devices>Connected devices</connected_devices>
+  <tracks>Track`s</tracks>
+  <no_tracks>No track`s today</no_tracks>
+  <points>Point`s</points>
+  <statistics>Statistics</statistics>
+  <description>Description</description>
+  <policy>Policy</policy>
+  <group_delete>Delete a group</group_delete>
+  <danger_zone>Danger zone</danger_zone>
+  <add_track>Adding a track</add_track>
 </resources>

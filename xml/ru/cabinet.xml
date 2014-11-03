@@ -6,4 +6,13 @@
   <joined>Присоединился</joined>
   <online>Был в сети</online>
   <connected_devices>Подключенные устройства</connected_devices>
+  <tracks>Треки</tracks>
+  <no_tracks>Пока нет треков</no_tracks>
+  <points>Точки</points>
+  <statistics>Статистика</statistics>
+  <description>Описание</description>
+  <policy>Правила</policy>
+  <group_delete>Удалить группу</group_delete>
+  <danger_zone>Опасная зона</danger_zone>
+  <add_track>Добавление трека</add_track>
 </resources>

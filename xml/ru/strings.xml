@@ -25,4 +25,12 @@
   <updated>Обновлено</updated>
   <actions>Действия</actions>
   <view>Просмотр</view>
+  <save>Сохранить</save>
+  <leave>Покинуть</leave>
+  <access>Доступ</access>
+  <access_free>Свободный</access_free>
+  <upload>Загрузить</upload>
+  <download>Скачать</download>
+  <gpx_track>GPX-трек</gpx_track>
+  <color>Цвет</color>
 </resources>
