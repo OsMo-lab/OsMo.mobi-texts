@@ -15,4 +15,5 @@
   <group_delete>Удалить группу</group_delete>
   <danger_zone>Опасная зона</danger_zone>
   <add_track>Добавление трека</add_track>
+  <add_point>Добавление точки</add_point>
 </resources>

@@ -8,7 +8,7 @@
   <email>Email</email>
   <password>Пароль</password>
   <pnf_title>Ошибка 404</pnf_title>
-  <pnf_description>К сожалению страница не найдена =(</pnf_description>
+  <pnf_description>К сожалению страница не найдена</pnf_description>
   <pnf_link>Попробуйте начать с главной страницы</pnf_link>
   <error>Произошла ошибка</error>
   <coming>Скоро</coming>
@@ -33,4 +33,7 @@
   <download>Скачать</download>
   <gpx_track>GPX-трек</gpx_track>
   <color>Цвет</color>
+  <lat>Широта</lat>
+  <lon>Долгота</lon>
+  <submit>Отправить</submit>
 </resources>

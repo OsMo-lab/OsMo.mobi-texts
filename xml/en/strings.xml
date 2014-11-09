@@ -33,4 +33,7 @@
   <download>Download</download>
   <gpx_track>GPX-track</gpx_track>
   <color>Color</color>
+  <lat>Latitude</lat>
+  <lon>Lontitude</lon>
+  <submit>Submit</submit>
 </resources>

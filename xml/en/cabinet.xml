@@ -15,4 +15,5 @@
   <group_delete>Delete a group</group_delete>
   <danger_zone>Danger zone</danger_zone>
   <add_track>Adding a track</add_track>
+  <add_point>Adding a point</add_point>
 </resources>
