@@ -36,4 +36,6 @@
   <lat>Широта</lat>
   <lon>Долгота</lon>
   <submit>Отправить</submit>
+  <set>Задать</set>
+  <register_message>Зарегистрируйтесь через любое мобильное приложение в разделе "Авторизация"</register_message>
 </resources>

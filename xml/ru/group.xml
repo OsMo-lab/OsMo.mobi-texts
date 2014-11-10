@@ -9,4 +9,5 @@
   <with_osmand_description>Для навигационной программы OsmAnd есть свой плагин OsMo, позволяющий работать с функциями сервиса внутри удобной навигационной оболочки</with_osmand_description>
   <with_website>Работайте через сайт</with_website>
   <with_website_description>Это легкий и простой доступ для просмотра и управления, через любой удобный вам интернет-браузер</with_website_description>
+  <group_no_latlon>Не заданы начальные координаты группы</group_no_latlon>
 </resources>

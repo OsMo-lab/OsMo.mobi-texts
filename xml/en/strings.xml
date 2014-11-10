@@ -36,4 +36,6 @@
   <lat>Latitude</lat>
   <lon>Lontitude</lon>
   <submit>Submit</submit>
+  <set>Set</set>
+  <register_message>Register your account via the mobile application in the authorization!</register_message>
 </resources>
