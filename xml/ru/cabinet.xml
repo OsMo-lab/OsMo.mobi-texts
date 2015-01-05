@@ -4,7 +4,8 @@
   <members>Участники</members>
   <nick>Ник</nick>
   <joined>Присоединился</joined>
-  <online>Был в сети</online>
+  <online>В сети</online>
+  <was_online>Был в сети</was_online>
   <connected_devices>Подключенные устройства</connected_devices>
   <tracks>Треки</tracks>
   <no_tracks>Пока нет треков</no_tracks>
@@ -16,4 +17,5 @@
   <danger_zone>Опасная зона</danger_zone>
   <add_track>Добавление трека</add_track>
   <add_point>Добавление точки</add_point>
+  <session_started>Сессия началась</session_started>
 </resources>

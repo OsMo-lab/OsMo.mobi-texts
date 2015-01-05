@@ -4,7 +4,8 @@
   <members>Members</members>
   <nick>Nick</nick>
   <joined>Joined</joined>
-  <online>Was online</online>
+  <online>Online</online>
+  <was_online>Was online</was_online>
   <connected_devices>Connected devices</connected_devices>
   <tracks>Track`s</tracks>
   <no_tracks>No track`s today</no_tracks>
@@ -16,4 +17,5 @@
   <danger_zone>Danger zone</danger_zone>
   <add_track>Adding a track</add_track>
   <add_point>Adding a point</add_point>
+  <session_started>Session started</session_started>
 </resources>
