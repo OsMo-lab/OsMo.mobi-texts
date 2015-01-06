@@ -1,4 +1,5 @@
 <resources language="ru">
+  <project>OpenStreetMap Мониторинг</project>
   <language>Язык</language>
   <signin>Войти</signin>
   <signout>Выйти</signout>

@@ -1,4 +1,5 @@
 <resources language="en">
+  <project>OpenStreetMap Monitoring</project>
   <language>Language</language>
   <signin>Sign in</signin>
   <signout>Sign out</signout>
