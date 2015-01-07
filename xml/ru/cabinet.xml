@@ -18,4 +18,6 @@
   <add_track>Добавление трека</add_track>
   <add_point>Добавление точки</add_point>
   <session_started>Сессия началась</session_started>
+  <mymap>Персональная карта</mymap>
+  <mymap_description>Данная карта показывает передвижения ваших устройств, ваших подписок и устройств из созданных вами групп</mymap_description>
 </resources>

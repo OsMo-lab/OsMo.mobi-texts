@@ -18,4 +18,6 @@
   <add_track>Adding a track</add_track>
   <add_point>Adding a point</add_point>
   <session_started>Session started</session_started>
+  <mymap>Personal map</mymap>
+  <mymap_description>This map shows the movement of your devices, your subscriptions and devices from the groups you have created</mymap_description>
 </resources>
