@@ -20,4 +20,5 @@
   <session_started>Session started</session_started>
   <mymap>Personal map</mymap>
   <mymap_description>This map shows the movement of your devices, your subscriptions and devices from the groups you have created</mymap_description>
+  <group_access_description>Private may be a group which has at least 8 units. Privacy lies in the fact that through the site will not be able to find a group, and it will not be able to see the users did not take place in the group.</group_access_description>
 </resources>

@@ -30,6 +30,7 @@
   <leave>Покинуть</leave>
   <access>Доступ</access>
   <access_free>Свободный</access_free>
+  <access_private>Ограниченный</access_private>
   <upload>Загрузить</upload>
   <download>Скачать</download>
   <gpx_track>GPX-трек</gpx_track>

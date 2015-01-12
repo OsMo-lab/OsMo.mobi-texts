@@ -30,6 +30,7 @@
   <leave>Leave</leave>
   <access>Access</access>
   <access_free>Free</access_free>
+  <access_private>Private</access_private>
   <upload>Upload</upload>
   <download>Download</download>
   <gpx_track>GPX-track</gpx_track>
