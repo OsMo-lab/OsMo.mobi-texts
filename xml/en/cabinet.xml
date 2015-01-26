@@ -23,4 +23,10 @@
   <mymap_description>This map shows the movement of your devices, your subscriptions and devices from the groups you have created</mymap_description>
   <group_access_description>Private may be a group which has at least 8 devices. Privacy lies in the fact that through the site will not be able to find a group, and it will not be able to see the users did not take place in the group.</group_access_description>
   <group_id>Group ID</group_id>
+  <group_stat>Statistics about the group</group_stat>
+  <group_stat_all>Total</group_stat_all>
+  <group_stat_active>Active</group_stat_active>
+  <group_stat_normal>Regular</group_stat_normal>
+  <group_stat_inactive>Inactive</group_stat_inactive>
+  <group_stat_registered>Registered</group_stat_registered>
 </resources>
