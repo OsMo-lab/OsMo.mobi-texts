@@ -8,8 +8,9 @@
   <was_online>Was online</was_online>
   <connected_devices>Connected devices</connected_devices>
   <tracks>Track`s</tracks>
-  <no_tracks>No track`s today</no_tracks>
+  <no_tracks>No tracks added</no_tracks>
   <points>Point`s</points>
+  <no_points>No points added</no_points>
   <statistics>Statistics</statistics>
   <description>Description</description>
   <policy>Policy</policy>

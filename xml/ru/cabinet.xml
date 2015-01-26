@@ -8,8 +8,9 @@
   <was_online>Был в сети</was_online>
   <connected_devices>Подключенные устройства</connected_devices>
   <tracks>Треки</tracks>
-  <no_tracks>Пока нет треков</no_tracks>
+  <no_tracks>Нет загруженных треков</no_tracks>
   <points>Точки</points>
+  <no_points>Нет добавленных точек</no_points>
   <statistics>Статистика</statistics>
   <description>Описание</description>
   <policy>Правила</policy>
