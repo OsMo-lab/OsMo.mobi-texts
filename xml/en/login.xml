@@ -1,0 +1,14 @@
+<resources language="en">
+  <nick>Nick</nick>
+  <signup_and_agree>I agree all terms, do register</signup_and_agree>
+  <email>E-mail</email>
+  <password>Password</password>
+  <retry_password>Retry password</retry_password>
+  <remember>Remember me</remember>
+  <forgot>Forgot?</forgot>
+  <terms>Terms</terms>
+  <privacy>Privacy</privacy>
+  <gender>Gender</gender>
+  <gender_male>Male</gender_male>
+  <gender_female>Female</gender_female>
+</resources>

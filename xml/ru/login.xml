@@ -1,0 +1,14 @@
+<resources language="ru">
+  <nick>Ник</nick>
+  <signup_and_agree>Я принимаю условия, регистрация</signup_and_agree>
+  <email>E-mail</email>
+  <password>Пароль</password>
+  <retry_password>Повторите пароль</retry_password>
+  <remember>Запомнить меня</remember>
+  <forgot>Забыли?</forgot>
+  <terms>Условия</terms>
+  <privacy>Конфиденциальность</privacy>
+  <gender>Пол</gender>
+  <gender_male>Мужской</gender_male>
+  <gender_female>Женский</gender_female>
+</resources>
