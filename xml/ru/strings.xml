@@ -45,4 +45,15 @@
   <menu>Меню</menu>
   <news>Новости проекта</news>
   <view_website>Перейти на сайт</view_website>
+  <tm_apps>Приложения</tm_apps>
+  <tm_personal>Персонально</tm_personal>
+  <tm_group>Группы</tm_group>
+  <tm_meet>Встречи</tm_meet>
+  <tm_community>Сообщества</tm_community>
+  <bm_about>О проекте</bm_about>
+  <bm_customization>Модификация сервиса</bm_customization>
+  <bm_donate>Помочь проекту</bm_donate>
+  <bm_privacy>Политика конфиденциальности</bm_privacy>
+  <bm_terms>Условия использования</bm_terms>
+  <bm_feedback>Обратная связь</bm_feedback>
 </resources>

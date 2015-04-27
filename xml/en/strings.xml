@@ -45,4 +45,15 @@
   <menu>Menu</menu>
   <news>News</news>
   <view_website>Go to the website</view_website>
+  <tm_apps>Apps</tm_apps>
+  <tm_personal>Personal</tm_personal>
+  <tm_group>Group</tm_group>
+  <tm_meet>Meet</tm_meet>
+  <tm_community>Community</tm_community>
+  <bm_about>About</bm_about>
+  <bm_customization>Customization</bm_customization>
+  <bm_donate>Donate</bm_donate>
+  <bm_privacy>Privacy policy</bm_privacy>
+  <bm_terms>Terms of use</bm_terms>
+  <bm_feedback>Feedback</bm_feedback>
 </resources>
