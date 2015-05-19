@@ -1,9 +1,9 @@
 <resources language="ru">
-  <index_description>Добро пожаловать в сервис GPS-мониторинга ОсМо, и обмена местоположением для вашего смартфона</index_description>
-  <personal>Персональный</personal>
-  <personal_description>Вы можете поделиться своим местоположением с кем угодно, при этом просто и анонимно</personal_description>
-  <group>Групповой</group>
-  <group_description>Обьединяйтесь в группы, чтобы видеть друг друга на карте</group_description>
+  <index_description>Добро пожаловать в сервис GPS-мониторинга ОсМо</index_description>
+  <personal>Личный</personal>
+  <personal_description>Вы можете поделиться своим местоположением с кем угодно, при этом быстро, просто и анонимно</personal_description>
+  <group>Группы</group>
+  <group_description>Обьединяйтесь в группы, чтобы видеть друг друга на карте всегда и везде. У нас не ограничено количество участников.</group_description>
   <together>Совмещайте!</together>
   <together_description>Вы можете совмещать отправку по множеству персональных ссылок и для множества групп, которые будут видеть вас</together_description>
 </resources>
