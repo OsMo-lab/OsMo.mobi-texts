@@ -26,6 +26,7 @@
   <group_stat>Statistics about the group</group_stat>
   <group_stat_all>Total</group_stat_all>
   <group_stat_active>Active</group_stat_active>
+  <group_stat_online>Online</group_stat_online>
   <group_stat_normal>Regular</group_stat_normal>
   <group_stat_inactive>Inactive</group_stat_inactive>
   <group_stat_registered>Registered</group_stat_registered>

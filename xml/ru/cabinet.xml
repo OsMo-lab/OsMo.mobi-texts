@@ -26,6 +26,7 @@
   <group_stat>Статистика о группе</group_stat>
   <group_stat_all>Всего</group_stat_all>
   <group_stat_active>Активных</group_stat_active>
+  <group_stat_online>Онлайн</group_stat_online>
   <group_stat_normal>Обычных</group_stat_normal>
   <group_stat_inactive>Неактивных</group_stat_inactive>
   <group_stat_registered>Зарегистрированных</group_stat_registered>
