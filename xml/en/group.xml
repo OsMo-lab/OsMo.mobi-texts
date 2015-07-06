@@ -12,4 +12,5 @@
   <group_catalog>List of groups</group_catalog>
   <group_catalog_description>Here are collected large and open groups from our site. You can find a suitable for you and watch her.</group_catalog_description>  
   <group_no_latlon>Do not set the initial coordinates of the group</group_no_latlon>
+  <activity>Last activity</activity>
 </resources>
