@@ -32,4 +32,9 @@
   <group_stat_registered>Registered</group_stat_registered>
   <remote_control>Remote control</remote_control>
   <manage>Manage</manage>
+  <session>Session</session>
+  <preview>Preview</preview>
+  <distance>Distance</distance>
+  <start>Start time</start>
+  <finish>End time</finish>
 </resources>

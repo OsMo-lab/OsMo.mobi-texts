@@ -32,4 +32,9 @@
   <group_stat_registered>Зарегистрированных</group_stat_registered>
   <remote_control>Удалённое управление</remote_control>
   <manage>Управление</manage>
+  <session>Сессия</session>
+  <preview>Превью</preview>
+  <distance>Дистанция</distance>
+  <start>Начало</start>
+  <finish>Окончание</finish>
 </resources>
