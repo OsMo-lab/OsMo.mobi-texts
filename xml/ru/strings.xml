@@ -63,4 +63,9 @@
   <history>История</history>
   <share>Поделиться</share>
   <contact>Контакт</contact>
+  <chat>Чат</chat>
+  <users_online>Пользователи онлайн</users_online>
+  <send_link>Вы можете отправить ссылку на это</send_link>
+  <insert_frame>Или вставить фрейм в свой сайт или блог</insert_frame>
+  <text>Текст</text>
 </resources>
