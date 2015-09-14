@@ -57,7 +57,7 @@
   <bm_donate>Помочь проекту</bm_donate>
   <bm_privacy>Политика конфиденциальности</bm_privacy>
   <bm_terms>Условия использования</bm_terms>
-  <bm_feedback>Обратная связь</bm_feedback>
+  <bm_feedback>Служба поддержки</bm_feedback>
   <begin>Начало</begin>
   <map>Карта</map>
   <history>История</history>
@@ -65,7 +65,7 @@
   <contact>Контакт</contact>
   <chat>Чат</chat>
   <users_online>Пользователи онлайн</users_online>
-  <send_link>Вы можете отправить ссылку на это</send_link>
+  <send_link>Вы можете вручную отправить ссылку</send_link>
   <insert_frame>Или вставить фрейм в свой сайт или блог</insert_frame>
   <text>Текст</text>
 </resources>

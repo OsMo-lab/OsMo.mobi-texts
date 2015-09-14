@@ -57,7 +57,7 @@
   <bm_donate>Donate</bm_donate>
   <bm_privacy>Privacy policy</bm_privacy>
   <bm_terms>Terms of use</bm_terms>
-  <bm_feedback>Feedback</bm_feedback>
+  <bm_feedback>Contact support</bm_feedback>
   <begin>Begin</begin>
   <map>Map</map>
   <history>History</history>
@@ -65,7 +65,7 @@
   <contact>Contact</contact>
   <chat>Chat</chat>
   <users_online>Users online</users_online>
-  <send_link>You can send link to this</send_link>
+  <send_link>You can manually send the link</send_link>
   <insert_frame>Or insert a frame into your website or blog</insert_frame>
   <text>Text</text>
 </resources>
