@@ -13,4 +13,9 @@
   <group_catalog_description>Здесь собраны крупные и открытые группы с нашего сайта. Вы можете найти подходящую вам и понаблюдать за ней.</group_catalog_description>  
   <group_no_latlon>Не заданы начальные координаты группы</group_no_latlon>
   <activity>Последняя активность</activity>
+  <join_group>Вступить в группу</join_group>
+  <join_note>Пожалуйста авторизуйтесь, чтобы вступать в группы через веб-сайт</join_note>
+  <join_note_byid>Без авторизации вы можете присоединиться к группе через любое наше приложение по ID</join_note_byid>
+  <you_in_group>Вы в группе</you_in_group>
+  <you_joined>Вы в группе</you_joined>
 </resources>

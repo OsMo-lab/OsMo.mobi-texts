@@ -38,4 +38,5 @@
   <distance>Дистанция</distance>
   <start>Начало</start>
   <finish>Окончание</finish>
+  <active_session>Текущая сесссия</active_session>
 </resources>

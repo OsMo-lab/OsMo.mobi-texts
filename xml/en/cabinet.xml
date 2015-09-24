@@ -38,4 +38,5 @@
   <distance>Distance</distance>
   <start>Start time</start>
   <finish>End time</finish>
+  <active_session>Current session</active_session>
 </resources>

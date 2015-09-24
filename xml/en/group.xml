@@ -13,4 +13,9 @@
   <group_catalog_description>Here are collected large and open groups from our site. You can find a suitable for you and watch her.</group_catalog_description>  
   <group_no_latlon>Do not set the initial coordinates of the group</group_no_latlon>
   <activity>Last activity</activity>
+  <join_group>Join group</join_group>
+  <join_note>Please log in to join the group through the website</join_note>
+  <join_note_byid>Without authorization, you can join the group via any of our app by ID</join_note_byid>
+  <you_in_group>Are you in the group</you_in_group>
+  <you_joined>You joined</you_joined>
 </resources>
