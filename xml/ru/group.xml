@@ -17,5 +17,5 @@
   <join_note>Пожалуйста авторизуйтесь, чтобы вступать в группы через веб-сайт</join_note>
   <join_note_byid>Без авторизации вы можете присоединиться к группе через любое наше приложение по ID</join_note_byid>
   <you_in_group>Вы в группе</you_in_group>
-  <you_joined>Вы в группе</you_joined>
+  <you_joined>Дата вступления</you_joined>
 </resources>
