@@ -22,6 +22,7 @@
   <session_started>Session started</session_started>
   <mymap>Personal map</mymap>
   <mymap_description>This map shows all the data from active groups in your account</mymap_description>
+  <group_type>Group type</group_type>
   <group_access_description>Private may be a group which has at least 8 devices. Privacy lies in the fact that through the site will not be able to find a group, and it will not be able to see the users did not take place in the group.</group_access_description>
   <group_id>Group ID</group_id>
   <group_stat>Statistics about the group</group_stat>
@@ -39,4 +40,10 @@
   <start>Start time</start>
   <finish>End time</finish>
   <active_session>Current session</active_session>
+  <group_creating>Create a group</group_creating>
+  <group_rules_warn>Please carefully read the rules of creating groups:</group_rules_warn>
+  <group_rules_1>The group name should be descriptive (recommended English)</group_rules_1>
+  <group_rules_2>If the name is an acronym or a group such as the name of the organization please complete description so that you can understand who and what created the group</group_rules_2>
+  <group_rules_3>Be sure to fill out the contact email group, it we can send the verification email. Keep this address is always relevant, in the case of not receiving a response to our request to this email, the group may be blocked.</group_rules_3>
+  <group_rules_4>We do not approve of round the clock monitoring stationary most of the time, objects in groups</group_rules_4>
 </resources>
