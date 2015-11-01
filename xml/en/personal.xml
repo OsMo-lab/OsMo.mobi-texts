@@ -7,16 +7,21 @@
   <b1d>By installing the application, working with OsMo, share your location easily</b1d>
   
   <b2t>Share it session</b2t>
-  <b2d>When you start the transmission of the coordinates generated links of the form https://osmo.mobi/s/**_***_** it works until you stop the session or 7 days (if the session is not stopped)</b2d>
+  <b2d>When you start the transmission of the coordinates generated links of the form https://osmo.mobi/s/**_***_** it works until you stop the session</b2d>
   
   <b3t>Permalink</b3t>
   <b3d>If you need to give the opportunity to have constant access to your location to someone - create a permanent link, it will always show your location while sending coordinates. She works forever, as long as it does not remove.</b3d>
   
   <good_to_know>Good to know</good_to_know>
+  <gtk0>Every time you start and stop monitoring in our system submitted in a separate trip "session"</gtk0>
   <gtk1>At the same time not one authorized device or one account can have only one running session monitoring</gtk1>
   <gtk2>During the session, within 24 hours after its inception, should be sent at least one coordinate, otherwise it is considered empty and will be removed</gtk2>
   <gtk3>The maximum number of points per session ~200 000, then the session is forcibly terminated by the system</gtk3>
   <gtk4>If not authorized, the device does not send coordinates within 12 hours, session monitoring is automatically closed</gtk4>
   <gtk5>If the account is not received coordinate within 36 hours, the monitoring session is automatically closed.</gtk5>
+  <gtk6>If the majority of the points sent in the last 24 hours with zero speed - the session is considered useless, and the device can be locked
+  
+  <session_ended>The session had already ended</session_ended>
+  <session_ended_description>To continue to observe this unit you can ask for a link to a new session, the permanent link or log in with a user in one group</session_ended_description>
   
 </resources>
