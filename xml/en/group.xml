@@ -9,7 +9,7 @@ You can plan a trip, add points and tracks for easy simultaneous navigation of m
   <with_website>Access via the website</with_website>
   <with_website_description>This is an easy and a simple way to view, monitor and manage groups conveniently via any web browser</with_website_description>
   <group_add>Create group</group_add>
-  <group_find>Find group</group_add>
+  <group_find>Find group</group_find>
   <group_no_latlon>Do not set the initial coordinates of the group</group_no_latlon>
   <activity>Last activity</activity>
   <join_group>Join group</join_group>
