@@ -1,7 +1,7 @@
 <resources language="en">
     
   <personal>Monitoring</personal>
-  <personal_description>For those who want to tell about where he is now</personal_description>
+  <personal_description>Shows your location</personal_description>
   
   <b1t>Easy and simple</b1t>
   <b1d>By installing the application, working with OsMo, share your location easily</b1d>
@@ -19,7 +19,7 @@
   <gtk3>The maximum number of points per session ~200 000, then the session is forcibly terminated by the system</gtk3>
   <gtk4>If not authorized, the device does not send coordinates within 12 hours, session monitoring is automatically closed</gtk4>
   <gtk5>If the account is not received coordinate within 36 hours, the monitoring session is automatically closed.</gtk5>
-  <gtk6>If the majority of the points sent in the last 24 hours with zero speed - the session is considered useless, and the device can be locked
+  <gtk6>If the majority of the points sent in the last 24 hours with zero speed - the session is considered useless, and the device can be locked</gtk6>
   
   <session_ended>The session had already ended</session_ended>
   <session_ended_description>To continue to observe this unit you can ask for a link to a new session, the permanent link or log in with a user in one group</session_ended_description>
