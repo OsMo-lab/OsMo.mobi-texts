@@ -4,13 +4,13 @@
   <personal_description>Shows your current location</personal_description>
   
   <b1t>Easy and simple</b1t>
-  <b1d>By installing the application, working with OsMo, share your location easily</b1d>
+  <b1d>By installing the application working with OsMo, share your location easily</b1d>
   
   <b2t>Share it session</b2t>
-  <b2d>When you start the transmission of the coordinates generated links of the form https://osmo.mobi/s/**_***_** it works until you stop the session</b2d>
+  <b2d>When you start sending coordinates, generated links of the form https://osmo.mobi/s/**_***_** it operates until you stop the session</b2d>
   
   <b3t>Permalink</b3t>
-  <b3d>If you need to give the opportunity to have constant access to your location to someone - create a permanent link, it will always show your location while sending coordinates. She works forever, as long as it does not remove.</b3d>
+  <b3d>If you need to give permanent access to your location, you can create a Permalink, it will always show your location. The current or saved if you shut down sending coordinates. The link works forever until it is deleted.</b3d>
   
   <good_to_know>Good to know</good_to_know>
   <gtk0>Every time you start and stop monitoring in our system submitted in a separate trip "session"</gtk0>
@@ -23,5 +23,8 @@
   
   <session_ended>The session had already ended</session_ended>
   <session_ended_description>To continue to observe this unit you can ask for a link to a new session, the permanent link or log in with a user in one group</session_ended_description>
+  
+  <personal_not_found>This link leads nowhere</personal_not_found>
+  <personal_not_found_description>You may ask whoever you sent it new</personal_not_found_description>
   
 </resources>
