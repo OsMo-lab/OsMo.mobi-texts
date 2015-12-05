@@ -17,7 +17,7 @@
   <devices>Устройства</devices>
   <groups>Группы</groups>
   <links>Ссылки</links>
-  <sessions>Сессии</sessions>
+  <sessions>Поездки</sessions>
   <unknown>Неизвестно</unknown>
   <add>Добавить</add>
   <edit>Редактировать</edit>
@@ -45,6 +45,7 @@
   <menu>Меню</menu>
   <news>Новости проекта</news>
   <view_website>Перейти на сайт</view_website>
+  <website>Cайт</website>
   <limit>Ограничение</limit>
   <created>Дата создания</created>
   <tm_apps>Приложения</tm_apps>

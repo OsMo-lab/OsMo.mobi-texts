@@ -17,7 +17,7 @@
   <devices>Devices</devices>
   <groups>Groups</groups>
   <links>Links</links>
-  <sessions>Sessions</sessions>
+  <sessions>Trips</sessions>
   <unknown>Unknown</unknown>
   <add>Add</add>
   <edit>Edit</edit>
@@ -45,6 +45,7 @@
   <menu>Menu</menu>
   <news>News</news>
   <view_website>Go to the website</view_website>
+  <website>Go to the website</website>
   <limit>Limit</limit>
   <created>Date of creation</created>
   <tm_apps>Apps</tm_apps>

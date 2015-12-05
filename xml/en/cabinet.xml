@@ -19,7 +19,7 @@
   <danger_zone>Danger zone</danger_zone>
   <add_track>Adding a track</add_track>
   <add_point>Adding a point</add_point>
-  <session_started>Session started</session_started>
+  <session_started>Trip started</session_started>
   <mymap>Personal map</mymap>
   <mymap_description>This map shows all the data from active groups in your account</mymap_description>
   <group_type>Group type</group_type>
@@ -34,12 +34,12 @@
   <group_stat_registered>Registered</group_stat_registered>
   <remote_control>Remote control</remote_control>
   <manage>Manage</manage>
-  <session>Session</session>
+  <session>Trip</session>
   <preview>Preview</preview>
   <distance>Distance</distance>
   <start>Start time</start>
   <finish>End time</finish>
-  <active_session>Current session</active_session>
+  <active_session>Current trip</active_session>
   <group_creating>Create a group</group_creating>
   <group_rules_warn>Please carefully read the rules of creating groups:</group_rules_warn>
   <group_rules_1>The group name should be descriptive (recommended English)</group_rules_1>
