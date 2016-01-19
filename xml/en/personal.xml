@@ -10,15 +10,15 @@
   <b2d>When you start sending coordinates, generated links of the form https://osmo.mobi/s/**_***_** it is valid until you complete the trip</b2d>
   
   <b3t>Permalink</b3t>
-  <b3d>If you need to give permanent access to your location, you can create a Permalink, it will always show your location. The current or saved if you shut down sending coordinates. The link works forever until it is deleted.</b3d>
+  <b3d>If you need to give permanent access to your location, you can create a Permalink. The link will always show your location (current or saved)</b3d>
   
   <good_to_know>Good to know</good_to_know>
-  <gtk0>Every time you start and stop monitoring in our system submitted in a separate "trip"</gtk0>
+  <gtk0>Every time you start and stop monitoring creates a "trip", which is then stored in history</gtk0>
   <gtk1>At the same time not one authorized device or one account can have only one trip</gtk1>
-  <gtk2>After the trip started, for 24 hours, must be sent at least one coordinate, otherwise it is deemed null and will be removed</gtk2>
-  <gtk3>The maximum number of points per trip ~200 000, then it can be forcibly terminated</gtk3>
-  <gtk4>If not authorized, the device does not send coordinates within 12 hours, the trip is automatically terminated</gtk4>
-  <gtk5>If the account is not received coordinate within 36 hours, the trip is automatically terminated</gtk5>
+  <gtk2>Once travel has commenced, within 6 hours, should be sent at least one coordinate, otherwise it is considered empty and will be removed</gtk2>
+  <gtk3>The maximum number of the sent coordinates for the trip ~200 000, then it can be forcibly terminated</gtk3>
+  <gtk4>If not authorized, the device does not send coordinates within 4 hours, the trip will automatically end</gtk4>
+  <gtk5>If the account is not received coordinate within 8 hours, the trip will automatically end</gtk5>
   <gtk6>If the majority of the points sent in the last 24 hours will be with zero speed - the drive is considered useless, and the device can be locked</gtk6>
   
   <session_ended>The trip has already ended</session_ended>
