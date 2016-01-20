@@ -1,7 +1,8 @@
 <resources language="en">
   <group>Group</group>
-  <group_description>You see all group members on a single map, they also see you when you have an active sending of locations.
-You can plan a trip, add points and tracks for easy simultaneous navigation of multiple devices.</group_description>
+  <group_description>You see all group members on a single map, they also see you when you have enabled the tracking.<br />
+You can plan a trip with the whole group: place in group points and tracks for easy simultaneous navigation of multiple devices.</group_description>
+  <group_problem>It is impossible to get access to the group</group_problem>
   <with_osmodroid>Monitor via OsMoDroid</with_osmodroid>
   <with_osmodroid_description>Our official client uses the widest range of the service's features</with_osmodroid_description>
   <with_osmand>Use OsmAnd</with_osmand>
@@ -24,4 +25,9 @@ You can plan a trip, add points and tracks for easy simultaneous navigation of m
   <b2d2>If you have registered, you can join the group via the website</b2d2>
   <b3t>Plan your trip</b3t>
   <b3d>You can add gpx tracks or waypoints - they will be available to all members of the group automatically even after disconnecting it connection</b3d>
+  <tips>Short instruction</tips>
+  <tips1>Suppose you want to monitor for 5 people</tips1>
+  <tips2>Download for all devices OsMoDroid</tips2>
+  <tips3>One person registers and creates a group (via the app or website)</tips3>
+  <tips4>The creator of the group passes to other people group ID, and they come into it</tips4>
 </resources>
