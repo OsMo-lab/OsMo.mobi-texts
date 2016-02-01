@@ -6,6 +6,7 @@
   <joined>Присоединился</joined>
   <online>В сети</online>
   <was_online>Был в сети</was_online>
+  <last_sending>Последняя координата</last_sending>
   <connected_devices>Подключенные устройства</connected_devices>
   <tracks>Треки</tracks>
   <no_tracks>Нет загруженных треков</no_tracks>
