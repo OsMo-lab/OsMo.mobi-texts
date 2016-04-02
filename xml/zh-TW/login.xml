@@ -1,0 +1,14 @@
+<resources language="zh-TW">
+  <nick>暱稱</nick>
+  <signup_and_agree>我同意所有條款，繼續註冊</signup_and_agree>
+  <email>電子郵件</email>
+  <password>密碼</password>
+  <retry_password>重複密碼</retry_password>
+  <remember>記住我</remember>
+  <forgot>忘記了？</forgot>
+  <terms>條款</terms>
+  <privacy>隱私</privacy>
+  <gender>性別</gender>
+  <gender_male>男</gender_male>
+  <gender_female>女</gender_female>
+</resources>
