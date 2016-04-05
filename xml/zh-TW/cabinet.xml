@@ -1,0 +1,50 @@
+<resources language="zh-TW">
+  <last_auth>最後登入</last_auth>
+  <last_point>最後位置</last_point>
+  <members>成員</members>
+  <nick>暱稱</nick>
+  <joined>已加入</joined>
+  <online>上線</online>
+  <was_online>曾上線</was_online>
+  <last_sending>最後已傳送位置</last_sending>
+  <connected_devices>已連接裝置</connected_devices>
+  <tracks>所有軌跡</tracks>
+  <no_tracks>尚未新增軌跡</no_tracks>
+  <points>所有位置</points>
+  <no_points>尚未新增位置</no_points>
+  <statistics>統計資料</statistics>
+  <description>描述</description>
+  <policy>原則</policy>
+  <group_delete>刪除群組</group_delete>
+  <danger_zone>危險區域</danger_zone>
+  <add_track>新增軌跡</add_track>
+  <add_point>新增位置</add_point>
+  <session_started>旅程已啟動</session_started>
+  <mymap>我的 OsMo</mymap>
+  <mymap_description>地圖顯示從帳戶中活躍群組取得的所有資料 (與你在行動裝置看到的相同)</mymap_description>
+  <group_access_description>私密群組必須少於 8 個裝置或高級帳號。私密群組只能找到 ID 且不能被不在群組裡使用者看到。僅提供給已授權使用者瀏覽頁面。</group_access_description>
+  <group_id>群組 ID</group_id>
+  <group_stat>群組統計資料</group_stat>
+  <group_stat_all>總計</group_stat_all>
+  <group_stat_active>使用中</group_stat_active>
+  <group_stat_online>線上</group_stat_online>
+  <group_stat_normal>正常</group_stat_normal>
+  <group_stat_inactive>非使用中</group_stat_inactive>
+  <group_stat_registered>已註冊</group_stat_registered>
+  <remote_control>遠端控制</remote_control>
+  <manage>管理</manage>
+  <session>旅程</session>
+  <preview>預覽</preview>
+  <distance>距離</distance>
+  <start>起始時間</start>
+  <finish>結束時間</finish>
+  <active_session>目前旅程</active_session>
+  <group_creating>建立群組</group_creating>
+  <group_rules_warn>請注意這些建立群組的規則：</group_rules_warn>
+  <group_rules_1>群組名稱應是易懂的</group_rules_1>
+  <group_rules_2>如果群組名稱是一個組織名稱的簡寫，請完整填寫描述，以得知誰或為何要用這群組</group_rules_2>
+  <group_rules_3>確保已填寫群組電子郵件，使我們能寄送測試郵件。並請保持更新，若沒辦法收到此電子郵件位址的回應，此群組會被鎖定</group_rules_3>
+  <group_rules_4>我們不接受大部分的時間一直停止不動的物件在群組裡</group_rules_4>
+  <group_rules_5>不要在單一活動中長時間使用群組 (除了興趣點群組和活動以外)</group_rules_5>
+  <group_rules_6>禁止建立假的群組用來散播垃圾訊息</group_rules_6>
+</resources>

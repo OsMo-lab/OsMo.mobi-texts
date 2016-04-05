@@ -1,0 +1,30 @@
+<resources language="zh-TW">
+    
+  <personal>監控</personal>
+  <personal_description>顯示你的目前位置</personal_description>
+  
+  <b1t>輕鬆且簡單</b1t>
+  <b1d>安裝與 OsMo 作用的應用程式，輕鬆地分享你的位置</b1d>
+  
+  <b2t>分享旅程</b2t>
+  <b2d>當你開始分享座標，以 https://osmo.mobi/s/**_***_** 格式生成的連結將有效直到你完成旅程</b2d>
+  
+  <b3t>永久連結</b3t>
+  <b3d>若你需要永久存取你的位置，你可以建立一個永久連結。該連結將永遠顯示你的位置 (目前或已儲存的)</b3d>
+  
+  <good_to_know>不可不知</good_to_know>
+  <gtk0>每次你開始和結束監控會建立一個「旅程」存在記錄裡</gtk0>
+  <gtk1>同一時間不只有一個裝置或帳號能有一個旅程</gtk1>
+  <gtk2>當旅程一開始的 6 小時之內應發送至少一個座標，否則將被視為空的且被刪除</gtk2>
+  <gtk3>每個旅程最多只能有 200000 個座標，超過將強制終止</gtk3>
+  <gtk4>若裝置尚未授權且在 4 小時內沒發送座標，旅程將自動結束</gtk4>
+  <gtk5>若帳號在 8 小時內沒收到座標，旅程將自動結束</gtk5>
+  <gtk6>若在最近 24 小時內發送的點大部分都是無速度的，將被視為無用的，裝置可被鎖定</gtk6>
+  
+  <session_ended>旅程已經結束</session_ended>
+  <session_ended_description>若要繼續察看此單位，你可以要求新作業階段的連結、永久連結或用群組中的使用者登入</session_ended_description>
+  
+  <personal_not_found>找不到連結</personal_not_found>
+  <personal_not_found_description>你能向發給你的人要求新的</personal_not_found_description>
+  
+</resources>

@@ -1,0 +1,33 @@
+<resources language="zh-TW">
+  <group>群組</group>
+  <group_description>你能在單一地圖中看到所有群組成員，他們也能在你啟用追蹤時看到你。<br />
+你可以和整個群組計畫一個旅程：群組裡的地點能單一記錄或合成軌跡，用於數個裝置同時導航。</group_description>
+  <group_problem>無法存取群組</group_problem>
+  <with_osmodroid>經由 OsMoDroid 監控</with_osmodroid>
+  <with_osmodroid_description>我們的官方用戶端涵蓋了本服務的最多功能</with_osmodroid_description>
+  <with_osmand>用 OsmAnd</with_osmand>
+  <with_osmand_description>OsmAnd 是個強大的導航程式，有 OsMo 的專用擴充功能。用它來與其他使用者溝通、分享軌跡和使用導航功能。</with_osmand_description>
+  <with_website>經由網頁存取</with_website>
+  <with_website_description>經由任何網頁瀏覽器來檢視、監控和方便地管理群組是個簡單的方式</with_website_description>
+  <group_add>建立群組</group_add>
+  <group_find>尋找群組</group_find>
+  <group_no_latlon>不要設定群組的初始座標</group_no_latlon>
+  <activity>最後活動</activity>
+  <join_group>加入群組</join_group>
+  <join_note>請登入以經由網頁加入群組</join_note>
+  <join_note_byid>你能用 ID 在未經授權的情況下用我們的任何應用程式加入群組</join_note_byid>
+  <you_in_group>你是否在群組裡</you_in_group>
+  <you_joined>你已加入</you_joined>
+  <b1t>你要看見對方嗎？建立個群組！</b1t>
+  <b1d>為了知道誰在哪特地建立的群組</b1d>
+  <b2t>你的社群已經有一個群組了嗎？加入！</b2t>
+  <b2d1>在你使用的行動應用程式中，在 ID 欄位找到「加入群組」並輸入群組 U 或群組 URL (不需註冊)</b2d1>
+  <b2d2>若你已經註冊，你能從網頁加入群組</b2d2>
+  <b3t>計畫你的旅程</b3t>
+  <b3d>你可以增加 gpx 軌跡或航點 - 它們會自動提供給所由群組裡的成員，就算是在中斷連接之後</b3d>
+  <tips>簡單指示</tips>
+  <tips1>假設你要監控 5 個人</tips1>
+  <tips2>為每個裝置下載 OsMoDroid</tips2>
+  <tips3>一個人註冊並建立群組 (經由應用程式或網站)</tips3>
+  <tips4>群組建立者把群組 ID 傳給其他人，他們再加入</tips4>
+</resources>
