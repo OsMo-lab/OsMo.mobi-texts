@@ -20,8 +20,6 @@
   <add_track>Adding a track</add_track>
   <add_point>Adding a point</add_point>
   <session_started>Trip started</session_started>
-  <mymap>My OsMo</mymap>
-  <mymap_description>Map shows all data from active groups of the account (the same you see with a mobile device)</mymap_description>
   <group_access_description>Private may be the group with less than 8 devices or Premium. Privacy is that such a group can only find ID and it will not be able to see users not part of the group. Browsing through the site will be available only to authorized users.</group_access_description>
   <group_id>Group ID</group_id>
   <group_stat>Statistics about the group</group_stat>

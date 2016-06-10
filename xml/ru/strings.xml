@@ -111,4 +111,7 @@
   <members_new>Новые участники</members_new>
   <group_view>Просмотры группы</group_view>
   <counts>Показатели</counts>
+  <mymap>Мой OsMo</mymap>
+  <family>Семья</family>
+  <last_update>Последнее обновление</last_update>
 </resources>
