@@ -22,7 +22,7 @@
   <session_started>Поездка началась</session_started>
   <mymap>Мой OsMo</mymap>
   <mymap_description>Карта показывает все данные из активных групп вашего аккаунта (это же вы видите с мобильного устройства)</mymap_description>
-  <group_access_description>Приватной может быть группа у которой менее 8 устройств или PRO. Приватность заключается в том, что такую группу можно найти только по ID и её не смогут видеть пользователи не состоящие в группе. Просмотр через сайт будет доступен только авторизованным участникам.</group_access_description>
+  <group_access_description>Приватной может быть группа у которой менее 8 устройств или Premium. Приватность заключается в том, что такую группу можно найти только по ID и её не смогут видеть пользователи не состоящие в группе. Просмотр через сайт будет доступен только авторизованным участникам.</group_access_description>
   <group_id>ID группы</group_id>
   <group_stat>Статистика о группе</group_stat>
   <group_stat_all>Всего</group_stat_all>
@@ -31,7 +31,6 @@
   <group_stat_normal>Обычных</group_stat_normal>
   <group_stat_inactive>Неактивных</group_stat_inactive>
   <group_stat_registered>Зарегистрированных</group_stat_registered>
-  <remote_control>Удалённое управление</remote_control>
   <manage>Управление</manage>
   <session>Поездка</session>
   <preview>Превью</preview>
@@ -47,4 +46,5 @@
   <group_rules_4>Мы не одобряем круглосуточный мониторинг неподвижных, большую часть времени, обьектов через группы</group_rules_4>
   <group_rules_5>Недопускается использование группы только одним участником длительное время (кроме групп POI и Event)</group_rules_5>
   <group_rules_6>Запрещается создавать группы дубли, поддельные группы и распространять спам через группы</group_rules_6>
+  <battery>Аккумулятор</battery>
 </resources>

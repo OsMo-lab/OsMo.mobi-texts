@@ -18,6 +18,7 @@
   <groups>Groups</groups>
   <links>Links</links>
   <sessions>Trips</sessions>
+  <trip>Trip</trip>
   <unknown>Unknown</unknown>
   <add>Add</add>
   <edit>Edit</edit>
@@ -61,6 +62,9 @@
   <bm_feedback>Contact support</bm_feedback>
   <begin>Begin</begin>
   <map>Map</map>
+  <admins>Admins</admins>
+  <tuning>Tuning</tuning>
+  <announcement>Announcement</announcement>
   <history>History</history>
   <share>Share</share>
   <contact>Contact</contact>
@@ -72,4 +76,39 @@
   <apply>Apply</apply>
   <need_register>Registration required</need_register>
   <find>Find</find>
+  <settings>Settings</settings>
+  <control>Remote control</control>
+  <remote_control>Remote control</remote_control>
+  <need_pro>Need PRO</need_pro>
+  <only_for_you>Only for you</only_for_you>
+  <and>and</and>
+  <online>Online</online>
+  <active>Active</active>
+  <auth>Authorization</auth>
+  <rc_01>Start tracker</rc_01>
+  <rc_02>Stop tracker</rc_02>
+  <rc_11>Battery info</rc_11>
+  <rc_12>Where you are?</rc_12>
+  <rc_13>Satelites information</rc_13>
+  <rc_14>System information</rc_14>
+  <rc_20>Wifi status</rc_20>
+  <rc_21>Wifi Enable</rc_21>
+  <rc_22>Wifi Disable</rc_22>
+  <rc_30>Alarm status</rc_30>
+  <rc_31>Alarm Enable</rc_31>
+  <rc_32>Alarm Disable</rc_32>
+  <rc_33>Alert Enable</rc_33>
+  <rc_34>Alert Disable</rc_34>
+  <rc_41>Vibrate</rc_41>
+  <rc_42>Kill app</rc_42>
+  <rc_990>"Answer to call"</rc_990>
+  <rc_991>Test SOS signal</rc_991>
+  <day>Day</day>
+  <week>Week</week>
+  <month>Month</month>
+  <type>Type</type>
+  <members>Members</members>
+  <members_new>New members</members_new>
+  <group_view>Group view</group_view>
+  <counts>Counts</counts>
 </resources>

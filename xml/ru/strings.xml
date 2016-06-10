@@ -18,6 +18,7 @@
   <groups>Группы</groups>
   <links>Ссылки</links>
   <sessions>Поездки</sessions>
+  <trip>Поездка</trip>
   <unknown>Неизвестно</unknown>
   <add>Добавить</add>
   <edit>Редактировать</edit>
@@ -61,6 +62,9 @@
   <bm_feedback>Служба поддержки</bm_feedback>
   <begin>Начало</begin>
   <map>Карта</map>
+  <admins>Администраторы</admins>
+  <tuning>Тонкая настройка</tuning>
+  <announcement>Объявления</announcement>
   <history>История</history>
   <share>Поделиться</share>
   <contact>Контакт</contact>
@@ -72,4 +76,39 @@
   <apply>Применить</apply>
   <need_register>Требуется регистрация</need_register>
   <find>Найти</find>
+  <settings>Настройки</settings>
+  <control>Управление</control>
+  <remote_control>Удалённое управление</remote_control>
+  <need_pro>Нужен PRO</need_pro>
+  <only_for_you>Только для вас</only_for_you>
+  <and>и</and>
+  <online>Онлайн</online>
+  <active>Активен</active>
+  <auth>Авторизация</auth>
+  <rc_01>Запустить трекер</rc_01>
+  <rc_02>Остановить трекер</rc_02>
+  <rc_11>Информация о питании</rc_11>
+  <rc_12>Где ты?</rc_12>
+  <rc_13>Информация о спутниках</rc_13>
+  <rc_14>Системная информация</rc_14>
+  <rc_20>Статус Wifi</rc_20>
+  <rc_21>Включить Wifi</rc_21>
+  <rc_22>Выключить Wifi</rc_22>
+  <rc_30>Статус сигнализации</rc_30>
+  <rc_31>Включить сирену</rc_31>
+  <rc_32>Выключить сирену</rc_32>
+  <rc_33>Включить сигнализацию</rc_33>
+  <rc_34>Выключить сигнализацию</rc_34>
+  <rc_41>Вибрировать</rc_41>
+  <rc_42>Закрыть приложение</rc_42>
+  <rc_990>"Ответь на звонок"</rc_990>
+  <rc_991>Проверить сигнал SOS</rc_991>
+  <day>День</day>
+  <week>Неделя</week>
+  <month>Месяц</month>
+  <type>Тип</type>
+  <members>Участники</members>
+  <members_new>Новые участники</members_new>
+  <group_view>Просмотры группы</group_view>
+  <counts>Показатели</counts>
 </resources>

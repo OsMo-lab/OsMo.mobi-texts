@@ -22,7 +22,7 @@
   <session_started>Trip started</session_started>
   <mymap>My OsMo</mymap>
   <mymap_description>Map shows all data from active groups of the account (the same you see with a mobile device)</mymap_description>
-  <group_access_description>Private may be the group with less than 8 devices or PRO. Privacy is that such a group can only find ID and it will not be able to see users not part of the group. Browsing through the site will be available only to authorized users.</group_access_description>
+  <group_access_description>Private may be the group with less than 8 devices or Premium. Privacy is that such a group can only find ID and it will not be able to see users not part of the group. Browsing through the site will be available only to authorized users.</group_access_description>
   <group_id>Group ID</group_id>
   <group_stat>Statistics about the group</group_stat>
   <group_stat_all>Total</group_stat_all>
@@ -31,7 +31,6 @@
   <group_stat_normal>Regular</group_stat_normal>
   <group_stat_inactive>Inactive</group_stat_inactive>
   <group_stat_registered>Registered</group_stat_registered>
-  <remote_control>Remote control</remote_control>
   <manage>Manage</manage>
   <session>Trip</session>
   <preview>Preview</preview>
@@ -47,4 +46,5 @@
   <group_rules_4>We do not approve of round the clock monitoring stationary most of the time, objects in groups</group_rules_4>
   <group_rules_5>Do not use group by only one party for a long time (except for the POI group and Event)</group_rules_5>
   <group_rules_6>It is forbidden to create groups takes and create fake groups and spread spam through groups</group_rules_6>
+  <battery>Battery</battery>
 </resources>
