@@ -44,5 +44,5 @@
   <group_rules_4>We do not approve of round the clock monitoring stationary most of the time, objects in groups</group_rules_4>
   <group_rules_5>Do not use group by only one party for a long time (except for the POI group and Event)</group_rules_5>
   <group_rules_6>It is forbidden to create groups takes and create fake groups and spread spam through groups</group_rules_6>
-  <battery>Battery</battery>
+  <group_user_add_tip>To add a user to a group, you must fill in all fields: user name, tracker ID from the device and url of monitoring (at the time of addition should be active)</group_user_add_tip> 
 </resources>

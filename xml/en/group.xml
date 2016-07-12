@@ -30,4 +30,5 @@ You can plan a trip with the whole group: place in group points and tracks for e
   <tips2>Download for all devices OsMoDroid</tips2>
   <tips3>One person registers and creates a group (via the app or website)</tips3>
   <tips4>The creator of the group passes to other people group ID, and they come into it</tips4>
+  <group_is_frozen>Group is frozen by owner</group_is_frozen>
 </resources>
