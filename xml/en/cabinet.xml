@@ -12,6 +12,7 @@
   <no_tracks>No tracks added</no_tracks>
   <points>Point`s</points>
   <no_points>No points added</no_points>
+  <geozones>Geozone`s</geozones>
   <statistics>Statistics</statistics>
   <description>Description</description>
   <policy>Policy</policy>
@@ -45,4 +46,9 @@
   <group_rules_5>Do not use group by only one party for a long time (except for the POI group and Event)</group_rules_5>
   <group_rules_6>It is forbidden to create groups takes and create fake groups and spread spam through groups</group_rules_6>
   <group_user_add_tip>To add a user to a group, you must fill in all fields: user name, tracker ID from the device and url of monitoring (at the time of addition should be active)</group_user_add_tip> 
+  <map_center>The center of the map for the site</map_center>
+  <editable_for_public>Editable only for public group</editable_for_public>
+  <warning_id_change>Warning! When you change this option - ID was changed!</warning_id_change>
+  <startfinish>Start-Finish</startfinish>
+  <events>Events</events>
 </resources>

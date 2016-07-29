@@ -64,6 +64,7 @@
   <map>Map</map>
   <admins>Admins</admins>
   <tuning>Tuning</tuning>
+  <scenario>Scenario</scenario>
   <announcement>Announcement</announcement>
   <history>History</history>
   <share>Share</share>
@@ -118,4 +119,10 @@
   <back>Back</back>
   <have_question>If you have question</have_question>
   <contact_us>contact us</contact_us>
+  <device>Device</device>
+  <site>Site</site>
+  <guest>Guest</guest>
+  <user>User</user>
+  <ws>ws</ws>
+  <show>Show</show>
 </resources>

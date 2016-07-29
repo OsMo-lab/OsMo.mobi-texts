@@ -64,6 +64,7 @@
   <map>Карта</map>
   <admins>Администраторы</admins>
   <tuning>Тонкая настройка</tuning>
+  <scenario>Сценарии</scenario>
   <announcement>Объявления</announcement>
   <history>История</history>
   <share>Поделиться</share>
@@ -118,4 +119,10 @@
   <back>Назад</back>
   <have_question>Если у вас есть вопросы</have_question>
   <contact_us>свяжитесь с нами</contact_us>
+  <device>Устройство</device>
+  <site>Сайт</site>
+  <guest>Гость</guest>
+  <user>Пользователь</user>
+  <ws>Против</ws>
+  <show>Показать</show>
 </resources>
