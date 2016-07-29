@@ -20,6 +20,7 @@
   <danger_zone>Опасная зона</danger_zone>
   <add_track>Добавление трека</add_track>
   <add_point>Добавление точки</add_point>
+  <add_geozone>Добавление геозоны</add_geozone>
   <session_started>Поездка началась</session_started>
   <group_access_description>Приватной может быть группа у которой менее 8 устройств или Premium. Приватность заключается в том, что такую группу можно найти только по ID и её не смогут видеть пользователи не состоящие в группе. Просмотр через сайт будет доступен только авторизованным участникам.</group_access_description>
   <group_id>ID группы</group_id>
@@ -56,4 +57,5 @@
   <trigger_in>Вход в зону</trigger_in>
   <trigger_out>Выход из зоны</trigger_out>
   <trigger_any>Любой</trigger_any>
+  <geozone_events>События геозоны</geozone_events>
 </resources>
