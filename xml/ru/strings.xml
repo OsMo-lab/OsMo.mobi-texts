@@ -116,5 +116,6 @@
   <last_update>Последнее обновление</last_update>
   <battery>Аккумулятор</battery>
   <back>Назад</back>
-  <have_question>Если у вас есть вопросы <a href="mailto:osmo.mobi@gmail.com">свяжитесь с нами</a></have_question>
+  <have_question>Если у вас есть вопросы</have_question>
+  <contact_us>свяжитесь с нами</contact_us>
 </resources>
