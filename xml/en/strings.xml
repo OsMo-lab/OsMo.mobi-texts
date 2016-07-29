@@ -115,4 +115,6 @@
   <family>Family</family>
   <last_update>Last update</last_update>
   <battery>Battery</battery>
+  <back>Back</back>
+  <have_question>If you have question <a href="mailto:osmo.mobi@gmail.com">contact us</a></have_question>
 </resources>

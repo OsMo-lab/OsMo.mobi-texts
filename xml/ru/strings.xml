@@ -57,9 +57,9 @@
   <bm_about>О проекте</bm_about>
   <bm_customization>Доработка</bm_customization>
   <bm_donate>Помочь проекту</bm_donate>
-  <bm_privacy>Политика конфиденциальности</bm_privacy>
-  <bm_terms>Условия использования</bm_terms>
-  <bm_feedback>Служба поддержки</bm_feedback>
+  <bm_privacy>Конфиденциальность</bm_privacy>
+  <bm_terms>Условия</bm_terms>
+  <bm_feedback>Поддержка</bm_feedback>
   <begin>Начало</begin>
   <map>Карта</map>
   <admins>Администраторы</admins>
@@ -115,4 +115,6 @@
   <family>Семья</family>
   <last_update>Последнее обновление</last_update>
   <battery>Аккумулятор</battery>
+  <back>Назад</back>
+  <have_question>Если у вас есть вопросы <a href="mailto:osmo.mobi@gmail.com">свяжитесь с нами</a></have_question>
 </resources>
