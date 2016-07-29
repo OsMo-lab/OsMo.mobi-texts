@@ -51,4 +51,9 @@
   <warning_id_change>Warning! When you change this option - ID was changed!</warning_id_change>
   <startfinish>Start-Finish</startfinish>
   <events>Events</events>
+  <event_add>Event add</event_add>
+  <trigger_type>Trigger type</trigger_type>
+  <trigger_in>Enter to zone</trigger_in>
+  <trigger_out>Get out from zone</trigger_out>
+  <trigger_any>Any</trigger_any>
 </resources>

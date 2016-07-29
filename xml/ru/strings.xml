@@ -27,6 +27,7 @@
   <name>Название</name>
   <updated>Обновлено</updated>
   <actions>Действия</actions>
+  <action>Действие</action>
   <view>Просмотр</view>
   <save>Сохранить</save>
   <leave>Покинуть</leave>

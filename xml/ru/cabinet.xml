@@ -51,4 +51,9 @@
   <warning_id_change>Предупреждение! Когда вы изменяете этот параметр - ID был изменен!</warning_id_change>
   <startfinish>Старт-Финиш</startfinish>
   <events>События</events>
+  <event_add>Добавление события</event_add>
+  <trigger_type>Тип триггера</trigger_type>
+  <trigger_in>Вход в зону</trigger_in>
+  <trigger_out>Выход из зоны</trigger_out>
+  <trigger_any>Любой</trigger_any>
 </resources>

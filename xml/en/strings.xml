@@ -27,6 +27,7 @@
   <name>Name</name>
   <updated>Updated</updated>
   <actions>Actions</actions>
+  <action>Action</action>
   <view>View</view>
   <save>Save</save>
   <leave>Leave</leave>
