@@ -49,7 +49,7 @@
   <group_user_add_tip>To add a user to a group, you must fill in all fields: user name, tracker ID from the device and url of monitoring (at the time of addition should be active)</group_user_add_tip> 
   <map_center>The center of the map for the site</map_center>
   <editable_for_public>Editable only for public group</editable_for_public>
-  <warning_id_change>Warning! When you change this option - ID was changed!</warning_id_change>
+  <warning_id_change>Warning! When you change this option - ID of group was changed!</warning_id_change>
   <startfinish>Start-Finish</startfinish>
   <events>Events</events>
   <event_add>Event add</event_add>

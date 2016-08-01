@@ -49,7 +49,7 @@
   <group_user_add_tip>Чтобы добавить пользователя в группу, необходимо заполнить все поля: ник, tracker id с устройства и url мониторинга (на момент добавления должен быть включен)</group_user_add_tip> 
   <map_center>Центр карты для сайта</map_center>
   <editable_for_public>Доступно только для открытой группы</editable_for_public>
-  <warning_id_change>Предупреждение! Когда вы изменяете этот параметр - ID был изменен!</warning_id_change>
+  <warning_id_change>Предупреждение! Когда вы изменяете этот параметр - ID группы будет изменен!</warning_id_change>
   <startfinish>Старт-Финиш</startfinish>
   <events>События</events>
   <event_add>Добавление события</event_add>
