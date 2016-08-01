@@ -34,6 +34,7 @@
   <access>Access</access>
   <access_free>Free</access_free>
   <access_private>Private</access_private>
+  <access_restricted>Restricted</access_restricted>
   <upload>Upload</upload>
   <download>Download</download>
   <gpx_track>GPX-track</gpx_track>
@@ -126,4 +127,5 @@
   <user>User</user>
   <ws>ws</ws>
   <show>Show</show>
+  <group_type>Type of group</group_type>
 </resources>
