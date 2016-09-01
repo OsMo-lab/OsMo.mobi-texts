@@ -3,12 +3,6 @@
   <group_description>You see all group members on a single map, they also see you when you have enabled the tracking.<br />
 You can plan a trip with the whole group: place in group points and tracks for easy simultaneous navigation of multiple devices.</group_description>
   <group_problem>It is impossible to get access to the group</group_problem>
-  <with_osmodroid>Monitor via OsMoDroid</with_osmodroid>
-  <with_osmodroid_description>Our official client uses the widest range of the service's features</with_osmodroid_description>
-  <with_osmand>Use OsmAnd</with_osmand>
-  <with_osmand_description>OsmAnd is a powerful navigation program with a dedicated plugin for OsMo. Use it to communicate with other users, share tracks and use navigation functions.</with_osmand_description>
-  <with_website>Access via the website</with_website>
-  <with_website_description>This is an easy and a simple way to view, monitor and manage groups conveniently via any web browser</with_website_description>
   <group_add>Create group</group_add>
   <group_find>Find group</group_find>
   <group_no_latlon>Do not set the initial coordinates of the group</group_no_latlon>
@@ -18,18 +12,26 @@ You can plan a trip with the whole group: place in group points and tracks for e
   <join_note_byid>Without authorization, you can join the group via any of our app by ID</join_note_byid>
   <you_in_group>Are you in the group</you_in_group>
   <you_joined>You joined</you_joined>
-  <b1t>You need to see each other? Create a group!</b1t>
-  <b1d>Group specially created in order to be aware of who is where</b1d>
-  <b2t>Does your community already have a group? Join!</b2t>
+  <b1t>Create a group</b1t>
+  <b1d>The group is a great way of sharing your location</b1d>
+  <b2t>Join the group</b2t>
   <b2d1>In mobile application you are using, look for "Join group" in the ID field enter U or ID or URL of the group (no registration required)</b2d1>
   <b2d2>If you have registered, you can join the group via the website</b2d2>
-  <b3t>Plan your trip</b3t>
-  <b3d>You can add gpx tracks or waypoints - they will be available to all members of the group automatically even after disconnecting it connection</b3d>
+  <bd1t>Map</bd1t>
+  <bd1d>You can add to the group map gpx-tracks or waypoints, they will be downloaded to all group members automatically</bd1d>
+  <bd2t>Control</bd2t>
+  <bd2d>If the group type allows allows it, you can control the monitoring on the devices in the group. All at once or individually.</bd2d>
+  <bd3t>Geofence</bd3t>
+  <bd3d>You can add a map of the area, at the entrance and exit system will notify the members of the group, and you can also assign additional scripts</bd3d>
+  <bd4t>Scenario</bd4t>
+  <bd4d>The ability to specify different actions in the group are bound to different events: such as time, connect to a specific Wifi-network or enter to a geofence</bd4d>
   <tips>Short instruction</tips>
   <tips1>Suppose you want to monitor for 5 people</tips1>
   <tips2>Download for all devices OsMoDroid</tips2>
   <tips3>One person registers and creates a group (via the app or website)</tips3>
   <tips4>The creator of the group passes to other people group ID, and they come into it</tips4>
+  <tips5>Ready! Now, when need be, to enable monitoring!</tips5>
+  <tips6>Learn the answers to frequently asked questions</tips6>
   <group_is_frozen>Group is frozen by owner</group_is_frozen>
   <group_private_warn>Do not distribute this ID without the consent of the members of the group</group_private_warn>
 </resources>
