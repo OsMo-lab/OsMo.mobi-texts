@@ -8,6 +8,7 @@ You can plan a trip with the whole group: place in group points and tracks for e
   <group_no_latlon>Do not set the initial coordinates of the group</group_no_latlon>
   <activity>Last activity</activity>
   <join_group>Join group</join_group>
+  <leave_group>Leave group</leave_group>
   <join_note>Please log in to join the group through the website</join_note>
   <join_note_byid>Without authorization, you can join the group via any of our app by ID</join_note_byid>
   <you_in_group>Are you in the group</you_in_group>
@@ -34,4 +35,7 @@ You can plan a trip with the whole group: place in group points and tracks for e
   <tips6>Learn the answers to frequently asked questions</tips6>
   <group_is_frozen>Group is frozen by owner</group_is_frozen>
   <group_private_warn>Do not distribute this ID without the consent of the members of the group</group_private_warn>
+  <group_restricted>Participants in this group, only administrators can add</group_private_warn>
+  <users_active>Active</users_active>
+  <users_viewers>Audience</users_viewers>
 </resources>

@@ -58,4 +58,5 @@
   <trigger_out>Get out from zone</trigger_out>
   <trigger_any>Any</trigger_any>
   <geozone_events>Geozone event`s</geozone_events>
+  <first_group>Create your first group or join an existing</first_group>
 </resources>
