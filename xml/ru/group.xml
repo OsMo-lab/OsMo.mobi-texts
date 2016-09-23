@@ -35,7 +35,7 @@
   <tips6>Изучите ответы на часто задаваемые вопросы</tips6>
   <group_is_frozen>Группа отключена её создателем</group_is_frozen>
   <group_private_warn>Не распространяйте ID без согласия участников группы</group_private_warn>
-  <group_restricted>Участников в данную группу могут добавлять только администраторы</group_private_warn>
+  <group_restricted>Участников в данную группу могут добавлять только администраторы</group_restricted>
   <users_active>Активные</users_active>
   <users_viewers>Зрители</users_viewers>
 </resources>

@@ -35,7 +35,7 @@ You can plan a trip with the whole group: place in group points and tracks for e
   <tips6>Learn the answers to frequently asked questions</tips6>
   <group_is_frozen>Group is frozen by owner</group_is_frozen>
   <group_private_warn>Do not distribute this ID without the consent of the members of the group</group_private_warn>
-  <group_restricted>Participants in this group, only administrators can add</group_private_warn>
+  <group_restricted>Participants in this group, only administrators can add</group_restricted>
   <users_active>Active</users_active>
   <users_viewers>Audience</users_viewers>
 </resources>
