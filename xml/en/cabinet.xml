@@ -59,4 +59,6 @@
   <trigger_any>Any</trigger_any>
   <geozone_events>Geozone event`s</geozone_events>
   <first_group>Create your first group or join an existing</first_group>
+  <join_group>Join group</join_group>
+  <leave_group>Leave the group</leave_group>
 </resources>

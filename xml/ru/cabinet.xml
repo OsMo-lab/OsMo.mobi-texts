@@ -59,4 +59,6 @@
   <trigger_any>Любой</trigger_any>
   <geozone_events>События геозоны</geozone_events>
   <first_group>Создайте свою первую группу или вступите в уже существующую</first_group>
+  <join_group>Вступить в группу</join_group>
+  <leave_group>Покинуть группу</leave_group>
 </resources>

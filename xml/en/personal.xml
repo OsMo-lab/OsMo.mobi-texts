@@ -10,16 +10,16 @@
   <b2d>When you start sending coordinates, generated links of the form https://osmo.mobi/s/**_***_** it is valid until you complete the trip</b2d>
   
   <b3t>Permalink</b3t>
-  <b3d>If you need to give permanent access to your location, you can create a Permalink. The link will always show your location (current or saved)</b3d>
+  <b3d>If you need to give permanent access to your location you can create a Permalink. The link will always show your location (current or saved). Please note that we also see your online status.</b3d>
   
   <good_to_know>Good to know</good_to_know>
   <gtk0>Every time you start and stop monitoring creates a "trip", which is then stored in history</gtk0>
   <gtk1>At the same time not one authorized device or one account can have only one trip</gtk1>
   <gtk2>Once travel has commenced, within 6 hours, should be sent at least one coordinate, otherwise it is considered empty and will be removed</gtk2>
-  <gtk3>The maximum number of the sent coordinates for the trip ~200 000, then it can be forcibly terminated</gtk3>
-  <gtk4>If not authorized, the device does not send coordinates within 4 hours, the trip will automatically end</gtk4>
+  <gtk3>The maximum number of sent coordinate for the trip ~25 000, after exceeding the limit point it may be forcibly terminated</gtk3>
+  <gtk4>If you are not an authorized device does not send coordinates within a few hours, the trip will automatically end</gtk4>
   <gtk5>If the account is not received coordinate within 8 hours, the trip will automatically end</gtk5>
-  <gtk6>If the majority of the points sent in the last 24 hours will be with zero speed - the drive is considered useless, and the device can be locked</gtk6>
+  <gtk6>If the majority of the points sent in the last 24 hours, with zero speed - the drive is considered useless and will not be saved</gtk6>
   
   <session_ended>The trip has already ended</session_ended>
   <session_ended_description>To continue to observe this unit you can ask for a link to a new session, the permanent link or log in with a user in one group</session_ended_description>
