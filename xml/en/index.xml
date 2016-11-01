@@ -3,8 +3,12 @@
   <personal>Personal</personal>
   <personal_description>You can share your location with anyone's quick, easy and anonymous</personal_description>
   <group>Groups</group>
-  <group_description>Create and join groups, to see (and be seen) by other group members on the map. We have not limited number of members.<br />Group administrator can publish the track, which will be available to all automatically.</group_description>
-  <together>Together</together>
-  <together_description>You can combine the usual monitoring, the use of links and exchanges in groups</together_description>
+  <group_description>Group monitoring allows all group members to share location, waypoints and tracks from a variety of devices and applications in real-time. Create groups for family, camping, or competitions, other events.</group_description>
+  <family>Family</family>
+  <family_description>Special groups for use every day. You will always know where your husband and children.</family_description>
+  <journey>Journey</journey>
+  <journey_description>New types of groups, convenient for travel. Shows all history of your movements from beginning to end.</journey_description>
+  <contest>Contest</contest>
+  <contest_description>A new group specially for various competitions related to navigation or moving over long distances.</contest_description>
   <intro>OsMo uses tens of thousands of people, someone every day, someone in need. Our service allows you to be closer to each other :)</intro>
 </resources>
