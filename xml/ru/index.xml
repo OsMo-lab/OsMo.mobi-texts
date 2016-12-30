@@ -1,5 +1,5 @@
 <resources language="ru">
-  <index_description>OsMo – сервис мобильного GPS-мониторинга для человека, группы людей, семьи.</index_description>
+  <index_description>OsMo – мобильный GPS-мониторинг</index_description>
   <personal>Мониторинг</personal>
   <personal_description>Вот такой картой с вашим текущим местоположением и пройденным маршрутом вы можете поделиться с друзьями, родным и коллегам. Для этого:<br />1. Установите и запустите приложение OsMoDroid.<br />2. Нажмите кнопку «Запустить» мониторинг.<br />3. Поделитесь образовавшейся ссылкой.</personal_description>
   <group>Группы</group>
