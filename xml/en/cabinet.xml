@@ -44,7 +44,7 @@
   <group_rules_2>If the group name is an acronym or the name of an organization please complete the description so that you understand who and why uses this group</group_rules_2>
   <group_rules_3>Be sure to enter the email group we can send a test email. Keep this address always up to date, in the case of not receiving a response to our request with this email, the group can be locked</group_rules_3>
   <group_rules_4>We do not approve of round the clock monitoring stationary most of the time, objects in groups</group_rules_4>
-  <group_rules_5>Do not use group by only one party for a long time (except for the POI group and Event)</group_rules_5>
+  <group_rules_5>Do not use group by only one party for a long time (except for the POI group and Event, Travel)</group_rules_5>
   <group_rules_6>It is forbidden to create groups takes and create fake groups and spread spam through groups</group_rules_6>
   <group_user_add_tip>To add a user to a group, you must fill in all fields: user name, tracker ID from the device and url of monitoring (at the time of addition should be active)</group_user_add_tip> 
   <map_center>The center of the map for the site</map_center>
