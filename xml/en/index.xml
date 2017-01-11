@@ -1,13 +1,13 @@
 <resources language="en">
-  <index_description>Powerful GPS-monitoring for your smartphone</index_description>
+  <index_description>Mobile GPS-monitoring</index_description>
   <personal>Personal</personal>
-  <personal_description>You can share your location with anyone's quick, easy and anonymous</personal_description>
+  <personal_description>You can share your location with anyone's quick, easy and anonymously using disposable or permanent link received in the application</personal_description>
   <group>Groups</group>
-  <group_description>Group monitoring allows all group members to share location, waypoints and tracks from a variety of devices and applications in real-time. Create groups for family, camping, or competitions, other events.</group_description>
+  <group_description>Group monitoring allows all group members to share locations and points of interest in real time. The administrator can place additional routes and create geofences. In groups, have a chat and notification system. Use groups for clubs, families, travel, competitions or other events.</group_description>
   <family>Family</family>
-  <family_description>Special groups for use every day. You will always know where your husband and children.</family_description>
-  <journey>Journey</journey>
-  <journey_description>New types of groups, convenient for travel. Shows all history of your movements from beginning to end.</journey_description>
+  <family_description>Special groups for use every day. You will always know where your husband and children. In addition to standard functions, you will always know the battery level of the devices of the family members to have the ability to control monitoring other family member and the signal SOS.</family_description>
+  <journey>Trip/Travel</journey>
+  <journey_description>If you went on a long journey, you'll appreciate this type of groups. Specify the start and end dates of your trip and the system will automatically publish your way every day, so the observer can see the entire path of your journey online.</journey_description>
   <contest>Contest</contest>
   <contest_description>A new group specially for various competitions related to navigation or moving over long distances.</contest_description>
   <intro>OsMo uses tens of thousands of people, someone every day, someone in need. Our service allows you to be closer to each other :)</intro>
