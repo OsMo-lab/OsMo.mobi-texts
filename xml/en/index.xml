@@ -9,6 +9,7 @@
   <journey>Trip/Travel</journey>
   <journey_description>If you went on a long journey, you'll appreciate this type of groups. Specify the start and end dates of your trip and the system will automatically publish your way every day, so the observer can see the entire path of your journey online.</journey_description>
   <contest>Contest</contest>
-  <contest_description>A new group specially for various competitions related to navigation or moving over long distances.</contest_description>
-  <intro>OsMo uses tens of thousands of people, someone every day, someone in need. Our service allows you to be closer to each other :)</intro>
+  <contest_description>Group created specifically for the various events related to navigation.</contest_description>
+  <event>Event</event>
+  <event_description>Group with automatic control of start of monitoring for the period of the action.</event_description>
 </resources>
