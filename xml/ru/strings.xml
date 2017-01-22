@@ -130,8 +130,8 @@
   <show>Показать</show>
   <group_type>Тип группы</group_type>
   <users>Пользователи</users>
-  <sunset>Рассвет</sunset>
-  <sunrise>Закат</sunrise>
+  <sunset>Закат</sunset>
+  <sunrise>Рассвет</sunrise>
   <next>Далее</next>
   <short_name>OsMo</short_name>
 </resources>
