@@ -37,4 +37,9 @@ You can plan a trip with the whole group: place in group points and tracks for e
   <group_restricted>Participants in this group, only administrators can add</group_restricted>
   <users_active>Active</users_active>
   <users_viewers>Audience</users_viewers>
+  <weather_temperature>Temperature</weather_temperature>
+  <weather_wind>Wind</weather_wind>
+  <weather_humidity>Humidity</weather_humidity>
+  <weather_clouds>Clouds</weather_clouds>
+  <weather_pressure>Pressure</weather_pressure>
 </resources>

@@ -130,4 +130,7 @@
   <show>Показать</show>
   <group_type>Тип группы</group_type>
   <users>Пользователи</users>
+  <sunset>Рассвет</sunset>
+  <sunrise>Закат</sunrise>
+  <next>Далее</next>
 </resources>

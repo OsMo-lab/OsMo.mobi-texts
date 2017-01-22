@@ -37,4 +37,9 @@
   <group_restricted>Участников в данную группу могут добавлять только администраторы</group_restricted>
   <users_active>Активные</users_active>
   <users_viewers>Зрители</users_viewers>
+  <weather_temperature>Температура</weather_temperature>
+  <weather_wind>Ветер</weather_wind>
+  <weather_humidity>Влажность</weather_humidity>
+  <weather_clouds>Осадки</weather_clouds>
+  <weather_pressure>Атм. Давление</weather_pressure>
 </resources>

@@ -1,5 +1,20 @@
 <resources language="en">
-  <index_description>Mobile GPS-monitoring</index_description>
+  <index_title_1>OpenStreetMap Monitoring</index_title_1>
+  <index_desc_1>Mobile GPS-monitoring allows you to easily share geo-data: coordinates, points, tracks</index_desc_1>
+  <index_title_2>OsMo &mdash; the best solution for mobile GPS monitoring</index_title_2>
+  <index_desc_2>Creating a group of friends in OsMo, you'll be able to quickly find each other. It is very comfortable in the woods and in the city!</index_desc_2>
+  <index_title_3>Types of monitoring</index_title_3>
+  <index_title_3_1>With the organization</index_title_3_1>
+  <index_title_3_2>Family</index_title_3_2>
+  <index_title_3_3>During the journey</index_title_3_3>
+  <index_title_3_4>Securely</index_title_3_4>
+  <index_desc_3_1>Sled dog race, or a taxi company - our solution is very flexible</index_desc_3_1>
+  <index_desc_3_2>Why the child stayed in school? Accurate information with minimal power consumption</index_desc_3_2>
+  <index_desc_3_3>Share your experiences or organize a convoy of cars on the track. Drive through the countryside or tour around the world :)</index_desc_3_3>
+  <index_desc_3_4>We care about the peace of mind your loved ones every day for more than 2 years</index_desc_3_4>
+  <index_title_4>Download our app right now:</index_title_4>
+  <index_desc_4>And watch through the website</index_desc_4>
+  
   <personal>Personal</personal>
   <personal_description>You can share your location with anyone's quick, easy and anonymously using disposable or permanent link received in the application</personal_description>
   <group>Groups</group>
