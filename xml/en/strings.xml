@@ -105,6 +105,9 @@
   <rc_34>Alert Disable</rc_34>
   <rc_41>Vibrate</rc_41>
   <rc_42>Kill app</rc_42>
+  <rc_47>Light on</rc_47>
+  <rc_48>Flash light</rc_48>
+  <rc_49>Light off</rc_49>
   <rc_990>"Answer to call"</rc_990>
   <rc_991>Test SOS signal</rc_991>
   <day>Day</day>
