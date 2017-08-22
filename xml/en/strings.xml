@@ -138,4 +138,12 @@
   <next>Next</next>
   <short_name>OsMo</short_name>
   <creator>Creator</creator>
+  <until>until</until>
+  <active_from>Active from</until>
+  <model_or_trackerid>Model or TrackerId</model_or_trackerid>
+  <subscribes>Subscribes</subscribes>
+  <auths>Authorizations</auths>
+  <duration>Duration</duration>
+  <cost>Cost</cost>
+  <coins>Coins</coins>
 </resources>
