@@ -139,7 +139,7 @@
   <short_name>OsMo</short_name>
   <creator>Создатель</creator>
   <until>до</until>
-  <active_from>Активен с</until>
+  <active_from>Активен с</active_from>
   <model_or_trackerid>Модель или TrackerId</model_or_trackerid>
   <subscribes>Подписки</subscribes>
   <auths>Авторизации</auths>
