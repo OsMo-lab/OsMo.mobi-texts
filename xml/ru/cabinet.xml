@@ -80,4 +80,5 @@
   <group_rc>Послать команду группе</group_rc>
   <device_notify>Уведомление устройству</device_notify>
   <group_notify>Уведомление группе</group_notify>
+  <parameter>Параметр</parameter>
 </resources>
