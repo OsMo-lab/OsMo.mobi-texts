@@ -71,4 +71,13 @@
   <triggered_charge>Trigger CHARGE</triggered_charge>
   <next_attempt>Next attempt</next_attempt>
   <until_attempt>Remaining attempt</until_attempt>
+  <http_query>HTTP-query</http_query>
+  <chat_message>Message to chat</chat_message>
+  <user_status>Change user status</user_status>
+  <send_sms>Send SMS</send_sms>
+  <send_email>Send EMail</send_email>
+  <device_rc>Device remote control</device_rc>
+  <group_rc>Device remote control</group_rc>
+  <device_notify>Notify for device</device_notify>
+  <group_notify>Notify for group</group_notify>
 </resources>

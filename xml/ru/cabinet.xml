@@ -71,4 +71,13 @@
   <triggered_charge>Сработал CHARGE</triggered_charge>
   <next_attempt>Следующее срабатывание</next_attempt>
   <until_attempt>Осталось срабатываний</until_attempt>
+  <http_query>HTTP-запрос</http_query>
+  <chat_message>Сообщение в чат</chat_message>
+  <user_status>Изменить статус пользователя</user_status>
+  <send_sms>Отправить SMS</send_sms>
+  <send_email>Отправить EMail</send_email>
+  <device_rc>Послать команду устройству</device_rc>
+  <group_rc>Послать команду группе</group_rc>
+  <device_notify>Уведомление устройству</device_notify>
+  <group_notify>Уведомление группе</group_notify>
 </resources>
