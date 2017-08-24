@@ -147,4 +147,11 @@
   <cost>Цена</cost>
   <coins>Монеты</coins>
   <activate>Активировать</activate>
+  <less_to>Менее чем</less_to>
+  <network>Тип сети</network>
+  <mobile>Мобильная</mobile>
+  <wifi>WIFI</wifi>
+  <started>Запущен</started>
+  <stopped>Остановлен</stopped>
+  <timeout>Таймаут</timeout>
 </resources>

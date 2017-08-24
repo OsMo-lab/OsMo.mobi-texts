@@ -61,4 +61,14 @@
   <first_group>Создайте свою первую группу или вступите в уже существующую</first_group>
   <join_group>Вступить в группу</join_group>
   <leave_group>Покинуть группу</leave_group>
+  <scenario_add>Создание сценария</scenario_add>
+  <condition>Условие</condition>
+  <time_or_interval>Время или интервал</time_or_interval>
+  <online_status>Онлайн статус</online_status>
+  <monitoring_status>Статус мониторинга</monitoring_status>
+  <triggered_sos>Сработал SOS</triggered_sos>
+  <triggered_near>Сработал NEAR</triggered_near>
+  <triggered_charge>Сработал CHARGE</triggered_charge>
+  <next_attempt>Следующее срабатывание</next_attempt>
+  <until_attempt>Осталось срабатываний</until_attempt>
 </resources>

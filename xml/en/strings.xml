@@ -147,4 +147,11 @@
   <cost>Cost</cost>
   <coins>Coins</coins>
   <activate>Activate</activate>
+  <less_to>Less to</less_to>
+  <network>Network type</network>
+  <mobile>Mobile</mobile>
+  <wifi>Wifi</wifi>
+  <started>Started</started>
+  <stopped>Stopped</stopped>
+  <timeout>Timeout</timeout>
 </resources>

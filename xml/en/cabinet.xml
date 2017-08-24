@@ -61,4 +61,14 @@
   <first_group>Create your first group or join an existing</first_group>
   <join_group>Join group</join_group>
   <leave_group>Leave the group</leave_group>
+  <scenario_add>Creating a script</scenario_add>
+  <condition>Condition</condition>
+  <time_or_interval>Time or interval</time_or_interval>
+  <online_status>Online status</online_status>
+  <monitoring_status>Status of tracking</monitoring_status>
+  <triggered_sos>Trigger SOS</triggered_sos>
+  <triggered_near>Trigger NEAR</triggered_near>
+  <triggered_charge>Trigger CHARGE</triggered_charge>
+  <next_attempt>Next attempt</next_attempt>
+  <until_attempt>Remaining attempt</until_attempt>
 </resources>
