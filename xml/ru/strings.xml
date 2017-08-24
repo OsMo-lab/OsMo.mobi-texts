@@ -154,4 +154,5 @@
   <started>Запущен</started>
   <stopped>Остановлен</stopped>
   <timeout>Таймаут</timeout>
+  <timezone>Часовой пояс</timezone>
 </resources>

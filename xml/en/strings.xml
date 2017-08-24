@@ -154,4 +154,5 @@
   <started>Started</started>
   <stopped>Stopped</stopped>
   <timeout>Timeout</timeout>
+  <timezone>Timezone</timezone>
 </resources>
