@@ -155,4 +155,6 @@
   <stopped>Stopped</stopped>
   <timeout>Timeout</timeout>
   <timezone>Timezone</timezone>
+  <time>Time</time>
+  <interval>Interval</interval>
 </resources>
