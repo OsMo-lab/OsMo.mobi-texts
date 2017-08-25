@@ -168,4 +168,11 @@
   <group_type_9>Premium</group_type_9>
   <days>Days</days>
   <minutes>Minutes</minutes>
+  <week_1>Monday</week_1>
+  <week_2>Tuesday</week_2>
+  <week_3>Wednesday</week_3>
+  <week_4>Thursday</week_4>
+  <week_5>Friday</week_5>
+  <week_6>Saturday</week_6>
+  <week_7>Sunday</week_7>
 </resources>

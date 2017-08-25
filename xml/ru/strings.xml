@@ -168,4 +168,11 @@
   <group_type_9>Премиум</group_type_9>
   <days>Дни</days>
   <minutes>Минуты</minutes>
+  <week_1>Понедельник</week_1>
+  <week_2>Вторник</week_2>
+  <week_3>Среда</week_3>
+  <week_4>Четверг</week_4>
+  <week_5>Пятница</week_5>
+  <week_6>Суббота</week_6>
+  <week_7>Воскресение</week_7>
 </resources>
