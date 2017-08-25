@@ -157,4 +157,13 @@
   <timezone>Часовой пояс</timezone>
   <time>Время</time>
   <interval>Интервал</interval>
+  <group_type_1>Простая</group_type_1>
+  <group_type_2>Семья</group_type_2>
+  <group_type_3>Стандарт</group_type_3>
+  <group_type_4>None</group_type_4>
+  <group_type_5>ПОИ</group_type_5>
+  <group_type_6>Поездка/Путешествие</group_type_6>
+  <group_type_7>Соревнование</group_type_7>
+  <group_type_8>Семья+</group_type_8>
+  <group_type_9>Премиум</group_type_9>
 </resources>

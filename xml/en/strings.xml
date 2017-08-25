@@ -157,4 +157,13 @@
   <timezone>Timezone</timezone>
   <time>Time</time>
   <interval>Interval</interval>
+  <group_type_1>Simple</group_type_1>
+  <group_type_2>Family</group_type_2>
+  <group_type_3>Standart</group_type_3>
+  <group_type_4>None</group_type_4>
+  <group_type_5>POI</group_type_5>
+  <group_type_6>Trip/Travel</group_type_6>
+  <group_type_7>Challenge</group_type_7>
+  <group_type_8>Family+</group_type_8>
+  <group_type_9>Premium</group_type_9>
 </resources>
