@@ -81,4 +81,7 @@
   <device_notify>Уведомление устройству</device_notify>
   <group_notify>Уведомление группе</group_notify>
   <parameter>Параметр</parameter>
+  <announcement>Обьявление</announcement>
+  <announcements>Обьявления</announcements>
+  <admins>Администраторы</admins>
 </resources>

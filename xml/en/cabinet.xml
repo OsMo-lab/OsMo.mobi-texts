@@ -81,4 +81,7 @@
   <device_notify>Notify for device</device_notify>
   <group_notify>Notify for group</group_notify>
   <parameter>Option</parameter>
+  <announcement>Announcement</announcement>
+  <announcements>Announcements</announcements>
+  <admins>Administrators</admins>
 </resources>
