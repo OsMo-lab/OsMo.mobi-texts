@@ -175,4 +175,6 @@
   <week_5>Friday</week_5>
   <week_6>Saturday</week_6>
   <week_7>Sunday</week_7>
+  <level>Level</level>
+  <select>Select</select>
 </resources>
