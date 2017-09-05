@@ -85,5 +85,23 @@
   <announcement>Announcement</announcement>
   <announcements>Announcements</announcements>
   <users_allowed>Connected members</users_allowed>
-  <users_active>Active members</users_active>  
+  <users_active>Active members</users_active>
+  <default_user_color>Default user color</default_user_color>
+  <sos_mode>SOS mode</sos_mode>
+  <sos_phrase_activate>SOS phrase of activate</sos_phrase_activate>
+  <sos_phrase_deactivate>SOS phrase of deactivate</sos_phrase_deactivate>
+  <group_admin_contact>Group admin contact</group_admin_contact>
+  <group_seo>Group SEO</group_seo>
+  <max_distance_fc>Maximum distance from center of group</max_distance_fc>
+  <user_show_timeout>User show timeout</user_show_timeout>
+  <user_track_length>User track length</user_track_length>
+  <broken_user_timeout>Broken user show timeout</broken_user_timeout>
+  <group_user_points>User points</group_user_points>
+  <group_user_points_timeout>User points timeout</group_user_points_timeout>
+  <group_user_points_com>User points / chat on the map</group_user_points_com>
+  <group_user_status>User personal status</group_user_status>
+  <group_alarm>Alarm service</group_alarm>
+  <group_geozone>Geozone service</group_geozone>
+  <group_near>Near service</group_near>
+  <group_users_notification>Notify about join/leave to group</group_users_notification>
 </resources>

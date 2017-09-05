@@ -178,4 +178,9 @@
   <level>Уровень</level>
   <select>Выберите</select>
   <command>Команда</command>
+  <off>Выключен</off>
+  <on>Включен</on>
+  <allow>Разрешить</allow>
+  <disallow>Запретить</disallow>
+  <keywords>Ключевые слова</keywords>
 </resources>

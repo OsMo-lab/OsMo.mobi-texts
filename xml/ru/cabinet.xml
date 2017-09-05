@@ -85,5 +85,23 @@
   <announcement>Обьявление</announcement>
   <announcements>Обьявления</announcements>
   <users_allowed>Подключенные участники</users_allowed>
-  <users_active>Активные участники</users_active>  
+  <users_active>Активные участники</users_active>
+  <default_user_color>Цвет пользователя по умолчанию</default_user_color>
+  <sos_mode>Режим SOS</sos_mode>
+  <sos_phrase_activate>SOS фраза при активации</sos_phrase_activate>
+  <sos_phrase_deactivate>SOS фраза при деактивации</sos_phrase_deactivate>
+  <group_admin_contact>Контакт администратора</group_admin_contact>
+  <group_seo>Групповой SEO</group_seo>
+  <max_distance_fc>Максимальная дистанция от центра группы</max_distance_fc>
+  <user_show_timeout>Задержка показа пользователя</user_show_timeout>
+  <user_track_length>Длина следа пользователя</user_track_length>
+  <broken_user_timeout>Задержка показа потерянного пользователя</broken_user_timeout>
+  <group_user_points>Пользовательские точки</group_user_points>
+  <group_user_points_timeout>Время жизни пользовательской точки</group_user_points_timeout>
+  <group_user_points_com>Пользовательские точки / чат на карте</group_user_points_com>
+  <group_user_status>Персональные статусы пользователя</group_user_status>
+  <group_alarm>Служба "Сигнализация"</group_alarm>
+  <group_geozone>Служба "Геозоны"</group_geozone>
+  <group_near>Служба "Сближение"</group_near>
+  <group_users_notification>Уведомление о вступлении/выходе из группы</group_users_notification>
 </resources>

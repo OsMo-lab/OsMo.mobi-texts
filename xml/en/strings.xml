@@ -178,4 +178,9 @@
   <level>Level</level>
   <select>Select</select>
   <command>Command</command>
+  <off>Off</off>
+  <on>On</on>
+  <allow>Allow</allow>
+  <disallow>Disallow</disallow>
+  <keywords>Keywords</keywords>
 </resources>
