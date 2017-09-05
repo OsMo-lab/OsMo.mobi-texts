@@ -88,6 +88,9 @@
   <users_active>Active members</users_active>
   <default_user_color>Default user color</default_user_color>
   <sos_mode>SOS mode</sos_mode>
+  <group_sos_1>Normal</group_sos_1>
+  <group_sos_2>Administrative</group_sos_2>
+  <group_sos_3>Maximum</group_sos_3>
   <sos_phrase_activate>SOS phrase of activate</sos_phrase_activate>
   <sos_phrase_deactivate>SOS phrase of deactivate</sos_phrase_deactivate>
   <group_admin_contact>Group admin contact</group_admin_contact>

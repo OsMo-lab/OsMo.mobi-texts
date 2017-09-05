@@ -88,6 +88,9 @@
   <users_active>Активные участники</users_active>
   <default_user_color>Цвет пользователя по умолчанию</default_user_color>
   <sos_mode>Режим SOS</sos_mode>
+  <group_sos_1>Нормальный</group_sos_1>
+  <group_sos_2>Административный</group_sos_2>
+  <group_sos_3>Максимальный</group_sos_3>
   <sos_phrase_activate>SOS фраза при активации</sos_phrase_activate>
   <sos_phrase_deactivate>SOS фраза при деактивации</sos_phrase_deactivate>
   <group_admin_contact>Контакт администратора</group_admin_contact>
