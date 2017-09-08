@@ -60,8 +60,8 @@
   <trigger_any>Any</trigger_any>
   <geozone_events>Geozone event`s</geozone_events>
   <first_group>Create your first group or join an existing</first_group>
-  <join_group>Join group</join_group>
-  <leave_group>Leave the group</leave_group>
+  <join_group>Join to the group</join_group>
+  <leave_group>Leave from the group</leave_group>
   <scenario_add>Creating a script</scenario_add>
   <condition>Condition</condition>
   <time_or_interval>Time or interval</time_or_interval>
