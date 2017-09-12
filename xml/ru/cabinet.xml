@@ -107,4 +107,9 @@
   <group_geozone>Служба "Геозоны"</group_geozone>
   <group_near>Служба "Сближение"</group_near>
   <group_users_notification>Уведомление о вступлении/выходе из группы</group_users_notification>
+  <date_from>Дата от</date_from>
+  <date_to>Дата от</date_to>
+  <km_per_day_by_week>Километраж на неделе</km_per_day_by_week>
+  <km_per_day_by_month>Километраж по дням за месяц</km_per_day_by_month>
+  <km_per_hour_by_month>Почасовой километраж за месяц</km_per_hour_by_month>
 </resources>
