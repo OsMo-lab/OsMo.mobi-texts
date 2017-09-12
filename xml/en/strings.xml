@@ -184,4 +184,9 @@
   <disallow>Disallow</disallow>
   <keywords>Keywords</keywords>
   <search>Search</search>
+  <date_from>Date from</date_from>
+  <date_to>Date to</date_to>
+  <km_per_day_by_week>Mileage for the week</km_per_day_by_week>
+  <km_per_day_by_month>Mileage per day for a month</km_per_day_by_month>
+  <km_per_hour_by_month>Hourly mileage for the month</km_per_hour_by_month>
 </resources>

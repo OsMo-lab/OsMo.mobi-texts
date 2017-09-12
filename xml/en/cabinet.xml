@@ -107,9 +107,4 @@
   <group_geozone>Geozone service</group_geozone>
   <group_near>Near service</group_near>
   <group_users_notification>Notify about join/leave to group</group_users_notification>
-  <date_from>Date from</date_from>
-  <date_to>Date to</date_to>
-  <km_per_day_by_week>Mileage for the week</km_per_day_by_week>
-  <km_per_day_by_month>Mileage per day for a month</km_per_day_by_month>
-  <km_per_hour_by_month>Hourly mileage for the month</km_per_hour_by_month>
 </resources>
