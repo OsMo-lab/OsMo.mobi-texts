@@ -189,4 +189,7 @@
   <km_per_day_by_week>Километраж на неделе</km_per_day_by_week>
   <km_per_day_by_month>Ежедневный километраж за 30 дней</km_per_day_by_month>
   <km_per_hour_by_month>Почасовой километраж за месяц</km_per_hour_by_month>
+  <logo>Лого</logo>
+  <follow_no>Не наблюдать</follow_no>
+  <follow_all>Наблюдать за всеми</follow_all>
 </resources>
