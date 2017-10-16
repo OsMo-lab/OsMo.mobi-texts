@@ -108,4 +108,5 @@
   <group_near>Служба "Сближение"</group_near>
   <group_users_notification>Уведомление о вступлении/выходе из группы</group_users_notification>
   <group_active>Активация группы</group_active>
+  <geoevent>Гео-События</geoevent>
 </resources>
