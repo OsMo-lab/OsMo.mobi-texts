@@ -109,4 +109,5 @@
   <group_users_notification>Уведомление о вступлении/выходе из группы</group_users_notification>
   <group_active>Активация группы</group_active>
   <geoevent>Гео-События</geoevent>
+  <group_delete_restriction>Данную группу невозможно удалить, свяжитесь со службой поддержки</group_delete_restriction>
 </resources>
