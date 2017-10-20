@@ -193,4 +193,6 @@
   <follow_no>No follow</follow_no>
   <follow_all>Follow all</follow_all>
   <geozone>Geozone</geozone>
+  <date>Date</date>
+  <pays>Pays</pays>
 </resources>
