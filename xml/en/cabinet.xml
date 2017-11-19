@@ -110,4 +110,6 @@
   <group_active>Group active</group_active>
   <geoevent>Geo-event`s</geoevent>
   <group_delete_restriction>This group can not be deleted, please contact support</group_delete_restriction>
+  <block>Ban</block>
+  <unblock>Unban</unblock>
 </resources>

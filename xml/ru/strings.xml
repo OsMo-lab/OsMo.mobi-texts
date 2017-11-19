@@ -195,4 +195,5 @@
   <geozone>Геозона</geozone>
   <date>Дата</date>
   <pays>Платежи</pays>
+  <banned>Заблокирован</banned>
 </resources>

@@ -110,4 +110,6 @@
   <group_active>Активация группы</group_active>
   <geoevent>Гео-События</geoevent>
   <group_delete_restriction>Данную группу невозможно удалить, свяжитесь со службой поддержки</group_delete_restriction>
+  <block>Блок.</block>
+  <unblock>Разблок.</unblock>
 </resources>
