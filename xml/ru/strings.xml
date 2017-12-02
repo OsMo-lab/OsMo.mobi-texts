@@ -195,5 +195,7 @@
   <geozone>Геозона</geozone>
   <date>Дата</date>
   <pays>Платежи</pays>
-  <banned>Заблокирован</banned>
+  <hours>Часов</hours>
+  <minutes>Минут</minutes>
+  <seconds>Секунд</seconds>
 </resources>

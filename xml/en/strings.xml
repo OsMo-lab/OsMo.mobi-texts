@@ -196,4 +196,7 @@
   <date>Date</date>
   <pays>Pays</pays>
   <banned>Banned</banned>
+  <hours>Hours</hours>
+  <minutes>Minutes</minutes>
+  <seconds>Seconds</seconds>
 </resources>
