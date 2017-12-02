@@ -112,4 +112,6 @@
   <group_delete_restriction>This group can not be deleted, please contact support</group_delete_restriction>
   <block>Ban</block>
   <unblock>Unban</unblock>
+  <group_fast_fix_timeount>Fast Fix timeout</group_fast_fix_timeount>
+  <group_geozone_retry_timeout>Group geozone retry timeout</group_geozone_retry_timeout>
 </resources>

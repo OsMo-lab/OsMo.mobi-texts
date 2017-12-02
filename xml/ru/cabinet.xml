@@ -112,4 +112,6 @@
   <group_delete_restriction>Данную группу невозможно удалить, свяжитесь со службой поддержки</group_delete_restriction>
   <block>Блок.</block>
   <unblock>Разблок.</unblock>
+  <group_fast_fix_timeount>Таймаут быстрого определения</group_fast_fix_timeount>
+  <group_geozone_retry_timeout>Задержка повторного входа/выхода в группу</group_geozone_retry_timeout>
 </resources>
