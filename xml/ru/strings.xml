@@ -195,7 +195,6 @@
   <geozone>Геозона</geozone>
   <date>Дата</date>
   <pays>Платежи</pays>
-  <hours>Часов</hours>
-  <minutes>Минут</minutes>
-  <seconds>Секунд</seconds>
+  <hours>Часы</hours>
+  <seconds>Секунды</seconds>
 </resources>
