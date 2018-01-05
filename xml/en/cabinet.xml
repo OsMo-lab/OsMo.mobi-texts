@@ -113,5 +113,6 @@
   <block>Ban</block>
   <unblock>Unban</unblock>
   <group_fast_fix_timeount>Fast Fix timeout</group_fast_fix_timeount>
-  <group_geozone_retry_timeout>Group geozone retry timeout</group_geozone_retry_timeout>
+  <group_geozone_retry_timeout>Geozone event retry timeout</group_geozone_retry_timeout>
+  <group_geozone_notify>Group geozone notify</group_geozone_notify>
 </resources>
