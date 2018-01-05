@@ -103,9 +103,10 @@
   <group_user_points_timeout>User points timeout</group_user_points_timeout>
   <group_user_points_com>User points / chat on the map</group_user_points_com>
   <group_user_status>User personal status</group_user_status>
-  <group_alarm>Alarm service</group_alarm>
-  <group_geozone>Geozone service</group_geozone>
-  <group_near>Near service</group_near>
+  <group_alarm>Service "Alarm"</group_alarm>
+  <group_geozone>Service "Geozone"</group_geozone>
+  <group_near>Service "Near"</group_near>
+  <group_view>Service "View"</group_view>
   <group_users_notification>Notify about join/leave to group</group_users_notification>
   <group_active>Group active</group_active>
   <geoevent>Geo-event`s</geoevent>
