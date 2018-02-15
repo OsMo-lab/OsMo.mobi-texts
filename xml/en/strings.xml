@@ -21,6 +21,7 @@
   <sessions>Trips</sessions>
   <trip>Trip</trip>
   <unknown>Unknown</unknown>
+  <events>Events</events>
   <add>Add</add>
   <edit>Edit</edit>
   <delete>Delete</delete>
