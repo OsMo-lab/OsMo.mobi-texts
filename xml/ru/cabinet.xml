@@ -114,7 +114,8 @@
   <block>Блок.</block>
   <unblock>Разблок.</unblock>
   <group_fast_fix_timeount>Таймаут быстрого определения</group_fast_fix_timeount>
-  <group_geozone_retry_timeout>Задержка повторного входа/выхода в геозону</group_geozone_retry_timeout>
-  <group_geozone_notify>Срочные уведомления о событиях геозон</group_geozone_notify>
+  <group_geozone_retry_timeout>Задержка повторного события геозоны</group_geozone_retry_timeout>
+  <group_geozone_event>Уведомления о событиях геозон</group_geozone_event>
+  <group_geozone_event_important>Важные уведомления о событиях геозон</group_geozone_event_important>
   <link_add>Создать ссылку</link_add>
 </resources>
