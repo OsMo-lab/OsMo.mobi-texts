@@ -5,7 +5,7 @@
   <password>Password</password>
   <retry_password>Retry password</retry_password>
   <remember>Remember me</remember>
-  <forgot>Forgot?</forgot>
+  <forgot>Forgot password?</forgot>
   <terms>Terms</terms>
   <privacy>Privacy</privacy>
   <gender>Gender</gender>
