@@ -145,7 +145,7 @@
   <auths>Авторизации</auths>
   <duration>Период действия</duration>
   <cost>Цена</cost>
-  <coins>Монеты</coins>
+  <coins>Бонусы</coins>
   <activate>Активировать</activate>
   <less_to>Менее чем</less_to>
   <network>Тип сети</network>
@@ -198,4 +198,5 @@
   <hours>Часы</hours>
   <seconds>Секунды</seconds>
   <send>Отправить</send>
+  <donate>Поддержать</donate>
 </resources>

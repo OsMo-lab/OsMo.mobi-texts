@@ -145,7 +145,7 @@
   <auths>Authorizations</auths>
   <duration>Duration</duration>
   <cost>Cost</cost>
-  <coins>Coins</coins>
+  <coins>Bonuses</coins>
   <activate>Activate</activate>
   <less_to>Less to</less_to>
   <network>Network type</network>
@@ -199,4 +199,5 @@
   <hours>Hours</hours>
   <seconds>Seconds</seconds>
   <send>Send</send>
+  <donate>Donate</donate>
 </resources>
