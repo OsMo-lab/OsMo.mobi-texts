@@ -5,7 +5,6 @@
   <signin>Sign In</signin>
   <signout>Sign Out</signout>
   <more_info>More info</more_info>
-  <thisistest>This site is a test, and may be unstable</thisistest>
   <email>Email</email>
   <password>Password</password>
   <telephone>Telephone number</telephone>
@@ -38,6 +37,7 @@
   <access_private>Private</access_private>
   <access_restricted>Restricted</access_restricted>
   <upload>Upload</upload>
+  <loading>Loading</loading>
   <download>Download</download>
   <gpx_track>GPX-track</gpx_track>
   <color>Color</color>

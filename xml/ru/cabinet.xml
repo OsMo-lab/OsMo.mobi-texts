@@ -117,5 +117,6 @@
   <group_geozone_retry_timeout>Задержка повторного события геозоны</group_geozone_retry_timeout>
   <group_geozone_event>Уведомления о событиях геозон</group_geozone_event>
   <group_geozone_event_important>Важные уведомления о событиях геозон</group_geozone_event_important>
+  <group_geozone_event_point>Создавать точки на месте события геозоны</group_geozone_event_point>
   <link_add>Создать ссылку</link_add>
 </resources>

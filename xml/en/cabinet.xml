@@ -117,5 +117,6 @@
   <group_geozone_retry_timeout>Geozone event retry timeout</group_geozone_retry_timeout>
   <group_geozone_event>Geozone event</group_geozone_event>
   <group_geozone_event_important>Geozone event important</group_geozone_event_important>
+  <group_geozone_event_point>Создавать точки на месте события геозоны</group_geozone_event_point>
   <link_add>Create link</link_add>
 </resources>

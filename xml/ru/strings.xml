@@ -1,11 +1,10 @@
 <resources language="ru">
-  <project>OsMo Мониторинг</project>
+  <project>ОсМо Мониторинг</project>
   <language>Язык</language>
   <signup>Регистрация</signup>
   <signin>Войти</signin>
   <signout>Выйти</signout>
   <more_info>Подробнее</more_info>
-  <thisistest>Этот сайт тестовый, может быть нестабилен</thisistest>
   <email>Email</email>
   <password>Пароль</password>
   <telephone>Номер телефона</telephone>
@@ -38,6 +37,7 @@
   <access_private>Ограниченный</access_private>
   <access_restricted>Закрытый</access_restricted>
   <upload>Загрузить</upload>
+  <loading>Загрузка</loading>
   <download>Скачать</download>
   <gpx_track>GPX-трек</gpx_track>
   <color>Цвет</color>
