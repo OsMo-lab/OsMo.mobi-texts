@@ -186,9 +186,8 @@
   <search>Search</search>
   <date_from>Date from</date_from>
   <date_to>Date to</date_to>
-  <km_per_day_by_week>Mileage for the week</km_per_day_by_week>
-  <km_per_day_by_month>Daily mileage is 30 days</km_per_day_by_month>
-  <km_per_hour_by_month>Hourly mileage for the month</km_per_hour_by_month>
+  <km_per_day>Passed per day</km_per_day>
+  <km_per_hour>Passed in an hour</km_per_hour>
   <logo>Logo</logo>
   <follow_no>No follow</follow_no>
   <follow_all>Follow all</follow_all>
