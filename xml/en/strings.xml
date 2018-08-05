@@ -164,7 +164,6 @@
   <group_type_5>POI</group_type_5>
   <group_type_6>Trip/Travel</group_type_6>
   <group_type_7>Challenge</group_type_7>
-  <group_type_8>Family+</group_type_8>
   <group_type_9>Premium</group_type_9>
   <days>Days</days>
   <minutes>Minutes</minutes>
@@ -199,4 +198,5 @@
   <seconds>Seconds</seconds>
   <send>Send</send>
   <donate>Donate</donate>
+  <weather>Weather</weather>
 </resources>

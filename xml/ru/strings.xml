@@ -164,7 +164,6 @@
   <group_type_5>ПОИ</group_type_5>
   <group_type_6>Поездка/Путешествие</group_type_6>
   <group_type_7>Соревнование</group_type_7>
-  <group_type_8>Семья+</group_type_8>
   <group_type_9>Премиум</group_type_9>
   <days>Дни</days>
   <minutes>Минуты</minutes>
@@ -198,4 +197,5 @@
   <seconds>Секунды</seconds>
   <send>Отправить</send>
   <donate>Поддержать</donate>
+  <weather>Погода</weather>
 </resources>
