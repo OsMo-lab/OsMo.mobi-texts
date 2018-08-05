@@ -31,7 +31,8 @@
   <action>Действие</action>
   <view>Просмотр</view>
   <save>Сохранить</save>
-  <leave>Покинуть</leave>
+  <enter>Вход</enter>
+  <leave>Выход</leave>
   <access>Доступ</access>
   <access_free>Свободный</access_free>
   <access_private>Ограниченный</access_private>
@@ -114,6 +115,7 @@
   <day>День</day>
   <week>Неделя</week>
   <month>Месяц</month>
+  <quarter>Квартал</quarter>
   <type>Тип</type>
   <members>Участники</members>
   <members_new>Новые участники</members_new>
@@ -140,7 +142,6 @@
   <creator>Создатель</creator>
   <until>до</until>
   <active_from>Активен с</active_from>
-  <model_or_trackerid>Модель или TrackerId</model_or_trackerid>
   <subscribes>Подписки</subscribes>
   <auths>Авторизации</auths>
   <duration>Период действия</duration>
@@ -164,6 +165,7 @@
   <group_type_5>ПОИ</group_type_5>
   <group_type_6>Поездка/Путешествие</group_type_6>
   <group_type_7>Соревнование</group_type_7>
+  <group_type_8>Семья+</group_type_8>
   <group_type_9>Премиум</group_type_9>
   <days>Дни</days>
   <minutes>Минуты</minutes>
@@ -194,8 +196,17 @@
   <date>Дата</date>
   <pays>Платежи</pays>
   <hours>Часы</hours>
+  <minute>Минутa</minute>
+  <minuts>Минут</minuts>
   <seconds>Секунды</seconds>
   <send>Отправить</send>
-  <donate>Поддержать</donate>
+  <bonuses>Бонусов</bonuses>
+  <your_bonuses>Бонусов</your_bonuses>
+  <donate>Поддержать проект</donate>
+  <menu_groups>Группы</menu_groups>
+  <menu_groups_my>Мои группы</menu_groups_my>
+  <menu_groups_archive>Мои группы (архивные)</menu_groups_archive>
+  <menu_groups_poi>Точки интереса</menu_groups_poi>
+  <menu_groups_trip>Поездки</menu_groups_trip>
   <weather>Погода</weather>
 </resources>

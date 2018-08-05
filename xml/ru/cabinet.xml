@@ -119,4 +119,13 @@
   <group_geozone_event_important>Важные уведомления о событиях геозон</group_geozone_event_important>
   <group_geozone_event_point>Создавать точки на месте события геозоны</group_geozone_event_point>
   <link_add>Создать ссылку</link_add>
+  <active_trip_track_size>Размер показываемого следа в активной поездке</active_trip_track_size>
+  <default_trip_privacy>Приватность поездки по умолчанию</default_trip_privacy>
+  <maximum_trip_duration>Максимальная длительность поездки</maximum_trip_duration>
+  <maximum_trip_idle>Максимальное время бездействия устройства в поездке</maximum_trip_idle>
+  <notify_when_trip_look>Уведомлять, когда вашу поездку смотрят</notify_when_trip_look>
+  <notify_when_link_look>Уведомлять, когда вашу постоянную ссылку смотрят</notify_when_link_look>
+  <unlogin_all>Удалить все, кроме текущей</unlogin_all>
+  <profile_private_see>Кто может просматривать ваш профиль</profile_private_see>
+  <profile_private_feed>Кто может подписываться на ваш профиль</profile_private_feed>
 </resources>

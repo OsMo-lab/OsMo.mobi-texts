@@ -31,6 +31,7 @@
   <action>Action</action>
   <view>View</view>
   <save>Save</save>
+  <enter>Enter</enter>
   <leave>Leave</leave>
   <access>Access</access>
   <access_free>Free</access_free>
@@ -114,6 +115,7 @@
   <day>Day</day>
   <week>Week</week>
   <month>Month</month>
+  <quarter>Quarter</quarter>
   <type>Type</type>
   <members>Members</members>
   <members_new>New members</members_new>
@@ -140,7 +142,6 @@
   <creator>Creator</creator>
   <until>until</until>
   <active_from>Active from</active_from>
-  <model_or_trackerid>Model or TrackerId</model_or_trackerid>
   <subscribes>Subscribes</subscribes>
   <auths>Authorizations</auths>
   <duration>Duration</duration>
@@ -164,6 +165,7 @@
   <group_type_5>POI</group_type_5>
   <group_type_6>Trip/Travel</group_type_6>
   <group_type_7>Challenge</group_type_7>
+  <group_type_8>Family+</group_type_8>
   <group_type_9>Premium</group_type_9>
   <days>Days</days>
   <minutes>Minutes</minutes>
@@ -195,8 +197,17 @@
   <pays>Pays</pays>
   <banned>Banned</banned>
   <hours>Hours</hours>
+  <minute>Minute</minute>
+  <minuts>Minuts</minuts>
   <seconds>Seconds</seconds>
   <send>Send</send>
+  <bonuses>Bonuses</bonuses>
+  <your_bonuses>Your bonuses</your_bonuses>
   <donate>Donate</donate>
+  <menu_groups>Groups</menu_groups>
+  <menu_groups_my>My groups</menu_groups_my>
+  <menu_groups_archive>My groups (archive)</menu_groups_archive>
+  <menu_groups_poi>POI</menu_groups_poi>
+  <menu_groups_trip>Trip`s</menu_groups_trip>
   <weather>Weather</weather>
 </resources>
