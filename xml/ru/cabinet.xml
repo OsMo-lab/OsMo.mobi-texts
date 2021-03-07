@@ -1,132 +1,156 @@
 <resources language="ru">
-  <last_auth>Последняя авторизация</last_auth>
-  <last_point>Последняя точка</last_point>
-  <members>Участники</members>
-  <nick>Ник</nick>
-  <joined>Присоединился</joined>
-  <online>В сети</online>
-  <was_online>Был в сети</was_online>
-  <last_sending>Последняя координата</last_sending>
-  <connected_devices>Подключенные устройства</connected_devices>
-  <tracks>Треки</tracks>
-  <no_tracks>Нет загруженных треков</no_tracks>
-  <points>Точки</points>
-  <no_points>Нет добавленных точек</no_points>
-  <geozones>Геозоны</geozones>
-  <statistics>Статистика</statistics>
-  <description>Описание</description>
-  <policy>Правила</policy>
-  <group_delete>Удалить группу</group_delete>
-  <danger_zone>Опасная зона</danger_zone>
-  <add_track>Добавление трека</add_track>
-  <add_point>Добавление точки</add_point>
-  <add_geozone>Добавление геозоны</add_geozone>
-  <session_started>Поездка началась</session_started>
-  <group_access_description>Приватной может быть группа у которой менее 8 устройств или Premium. Приватность заключается в том, что такую группу можно найти только по ID и её не смогут видеть пользователи не состоящие в группе. Просмотр через сайт будет доступен только авторизованным участникам.</group_access_description>
-  <group_id>ID группы</group_id>
-  <group_stat>Статистика о группе</group_stat>
-  <group_stat_all>Всего</group_stat_all>
-  <group_stat_active>Активных</group_stat_active>
-  <group_stat_online>Онлайн</group_stat_online>
-  <group_stat_normal>Обычных</group_stat_normal>
-  <group_stat_inactive>Неактивных</group_stat_inactive>
-  <group_stat_registered>Зарегистрированных</group_stat_registered>
-  <manage>Управление</manage>
-  <session>Поездка</session>
-  <preview>Превью</preview>
-  <distance>Дистанция</distance>
-  <start>Начало</start>
-  <finish>Окончание</finish>
-  <active_session>Текущая поездка</active_session>
-  <group_creating>Создание группы</group_creating>
-  <group_rules_warn>Обратите внимание на правила создания групп:</group_rules_warn>
-  <group_rules_1>Название группы должно быть понятным</group_rules_1>
-  <group_rules_2>Если название группы является аббревиатурой или например названием организации пожалуйста заполните описание так, чтобы можно было понять кто и зачем использует данную группу</group_rules_2>
-  <group_rules_3>Обязательно укажите контактный email группы, на него мы можем выслать проверочное письмо. Держите этот адрес всегда актуальным, в случае не получения ответа на наш запрос с этого email, группа может быть заблокирована</group_rules_3>
-  <group_rules_4>Мы не одобряем круглосуточный мониторинг неподвижных, большую часть времени, обьектов через группы</group_rules_4>
-  <group_rules_5>Недопускается использование группы только одним участником длительное время (кроме групп POI, Event, Travel)</group_rules_5>
-  <group_rules_6>Запрещается создавать группы дубли, поддельные группы и распространять спам через группы</group_rules_6>
-  <group_user_add>Добавление участника</group_user_add>
-  <group_user_add_tip>Чтобы добавить пользователя в группу, необходимо заполнить поля: ник и TrackerId (он меняется при каждом соединении с сервером)</group_user_add_tip> 
-  <map_center>Центр карты для сайта</map_center>
-  <editable_for_public>Доступно только для открытой группы</editable_for_public>
-  <warning_id_change>Предупреждение! Когда вы изменяете этот параметр - ID группы будет изменен!</warning_id_change>
-  <startfinish>Старт-Финиш</startfinish>
-  <events>События</events>
-  <event_add>Добавление события</event_add>
-  <trigger_type>Тип триггера</trigger_type>
-  <trigger_in>Вход в зону</trigger_in>
-  <trigger_out>Выход из зоны</trigger_out>
-  <trigger_any>Любой</trigger_any>
-  <geozone_events>События геозоны</geozone_events>
-  <first_group>Создайте свою первую группу или вступите в уже существующую</first_group>
-  <join_group>Вступить в группу</join_group>
-  <leave_group>Покинуть группу</leave_group>
-  <scenario_add>Создание сценария</scenario_add>
-  <condition>Условие</condition>
-  <time_or_interval>Время или интервал</time_or_interval>
-  <online_status>Онлайн статус</online_status>
-  <monitoring_status>Статус мониторинга</monitoring_status>
-  <triggered_sos>Сработал SOS</triggered_sos>
-  <triggered_near>Сработал NEAR</triggered_near>
-  <triggered_charge>Сработал CHARGE</triggered_charge>
-  <next_attempt>Следующее срабатывание</next_attempt>
-  <until_attempt>Осталось срабатываний</until_attempt>
-  <http_query>HTTP-запрос</http_query>
-  <chat_message>Сообщение в чат</chat_message>
-  <user_status>Изменить статус пользователя</user_status>
-  <send_sms>Отправить SMS</send_sms>
-  <send_email>Отправить E-Mail</send_email>
-  <device_rc>Послать команду устройству</device_rc>
-  <group_rc>Послать команду группе</group_rc>
-  <device_notify>Уведомление устройству</device_notify>
-  <group_notify>Уведомление группе</group_notify>
-  <parameter>Параметр</parameter>
-  <announcement>Обьявление</announcement>
-  <announcements>Обьявления</announcements>
-  <users_allowed>Подключенные участники</users_allowed>
-  <users_active>Активные участники</users_active>
-  <default_user_color>Цвет пользователя по умолчанию</default_user_color>
-  <sos_mode>Режим SOS</sos_mode>
-  <group_sos_1>Нормальный</group_sos_1>
-  <group_sos_2>Административный</group_sos_2>
-  <group_sos_3>Максимальный</group_sos_3>
-  <group_sos_4>Интелектуальный</group_sos_4>
-  <sos_phrase_activate>SOS фраза при активации</sos_phrase_activate>
-  <sos_phrase_deactivate>SOS фраза при деактивации</sos_phrase_deactivate>
-  <group_admin_contact>Контакт администратора</group_admin_contact>
-  <group_seo>Групповой SEO</group_seo>
-  <max_distance_fc>Максимальная дистанция от центра группы</max_distance_fc>
-  <user_show_timeout>Задержка показа пользователя</user_show_timeout>
-  <user_track_length>Длина следа пользователя</user_track_length>
-  <broken_user_timeout>Задержка показа потерянного пользователя</broken_user_timeout>
-  <group_user_points>Пользовательские точки</group_user_points>
-  <group_user_points_timeout>Время жизни пользовательской точки</group_user_points_timeout>
-  <group_user_points_com>Пользовательские точки / чат на карте</group_user_points_com>
-  <group_user_status>Персональные статусы пользователя</group_user_status>
-  <group_alarm>Служба "Сигнализация"</group_alarm>
-  <group_geozone>Служба "Геозоны"</group_geozone>
-  <group_near>Служба "Сближение"</group_near>
-  <group_view>Служба "Просмотры"</group_view>
-  <group_users_notification>Уведомление о вступлении/выходе из группы</group_users_notification>
-  <group_active>Активация группы</group_active>
-  <geoevent>Гео-События</geoevent>
-  <group_delete_restriction>Данную группу невозможно удалить, свяжитесь со службой поддержки</group_delete_restriction>
-  <block>Блок.</block>
-  <unblock>Разблок.</unblock>
-  <group_fast_fix_timeount>Таймаут быстрого определения</group_fast_fix_timeount>
-  <group_geozone_retry_timeout>Задержка повторного события геозоны</group_geozone_retry_timeout>
-  <group_geozone_event>Уведомления о событиях геозон</group_geozone_event>
-  <group_geozone_event_important>Важные уведомления о событиях геозон</group_geozone_event_important>
-  <group_geozone_event_point>Создавать точки на месте события геозоны</group_geozone_event_point>
-  <link_add>Создать ссылку</link_add>
-  <active_trip_track_size>Размер показываемого следа в активной поездке</active_trip_track_size>
-  <default_trip_privacy>Приватность поездки по умолчанию</default_trip_privacy>
-  <maximum_trip_duration>Максимальная длительность поездки</maximum_trip_duration>
-  <maximum_trip_idle>Максимальное время бездействия устройства в поездке</maximum_trip_idle>
-  <notify_when_trip_look>Уведомлять, когда вашу поездку смотрят</notify_when_trip_look>
-  <notify_when_link_look>Уведомлять, когда вашу постоянную ссылку смотрят</notify_when_link_look>
-  <unlogin_all>Удалить все, кроме текущей</unlogin_all>
-  <profile_private_see>Кто может просматривать ваш профиль</profile_private_see>
-  <profile_private_feed>Кто может подписываться на ваш профиль</profile_private_feed>
+    <last_auth>Последняя авторизация</last_auth>
+    <last_point>Последняя точка</last_point>
+    <members>Участники</members>
+    <nick>Ник</nick>
+    <joined>Присоединился</joined>
+    <online>В сети</online>
+    <was_online>Был в сети</was_online>
+    <last_sending>Последняя координата</last_sending>
+    <connected_devices>Подключенные устройства</connected_devices>
+    <tracks>Треки</tracks>
+    <no_tracks>Нет загруженных треков</no_tracks>
+    <points>Точки</points>
+    <no_points>Нет добавленных точек</no_points>
+    <geozones>Геозоны</geozones>
+    <statistics>Статистика</statistics>
+    <group_delete>Удалить группу</group_delete>
+    <danger_zone>Опасная зона</danger_zone>
+    <add_track>Добавление трека</add_track>
+    <add_point>Добавление точки</add_point>
+    <add_geozone>Добавление геозоны</add_geozone>
+    <session_started>Поездка началась</session_started>
+    <group_access_description>Приватной может быть группа у которой менее 8 устройств или Premium. Приватность заключается в том, что такую группу можно найти только по ID и её не смогут видеть пользователи не состоящие в группе. Просмотр через сайт будет доступен только авторизованным участникам.</group_access_description>
+    <group_id>ID группы</group_id>
+    <group_stat>Статистика о группе</group_stat>
+    <group_stat_all>Всего</group_stat_all>
+    <group_stat_active>Активных</group_stat_active>
+    <group_stat_online>Онлайн</group_stat_online>
+    <group_stat_normal>Обычных</group_stat_normal>
+    <group_stat_inactive>Неактивных</group_stat_inactive>
+    <group_stat_registered>Зарегистрированных</group_stat_registered>
+    <manage>Управление</manage>
+    <session>Поездка</session>
+    <preview>Превью</preview>
+    <active_session>Текущая поездка</active_session>
+    <group_creating>Создание группы</group_creating>
+    <group_rules_warn>Обратите внимание на правила создания групп:</group_rules_warn>
+    <group_rules_1>Название группы должно быть понятным</group_rules_1>
+    <group_rules_2>Если название группы является аббревиатурой или например названием организации пожалуйста заполните описание так, чтобы можно было понять кто и зачем использует данную группу</group_rules_2>
+    <group_rules_3>Обязательно укажите контактный email группы, на него мы можем выслать проверочное письмо. Держите этот адрес всегда актуальным, в случае не получения ответа на наш запрос с этого email, группа может быть заблокирована</group_rules_3>
+    <group_rules_4>Мы не одобряем круглосуточный мониторинг неподвижных, большую часть времени, обьектов через группы</group_rules_4>
+    <group_rules_5>Недопускается использование группы только одним участником длительное время (кроме групп POI, Event, Travel)</group_rules_5>
+    <group_rules_6>Запрещается создавать группы дубли, поддельные группы и распространять спам через группы</group_rules_6>
+    <group_user_add>Добавление участника</group_user_add>
+    <group_user_add_tip>Чтобы добавить пользователя в группу, необходимо заполнить поля: ник и TrackerId (он меняется при каждом соединении с сервером)</group_user_add_tip>
+    <map_center>Центр карты для сайта</map_center>
+    <editable_for_public>Доступно только для открытой группы</editable_for_public>
+    <warning_id_change>Предупреждение! Когда вы изменяете этот параметр - ID группы будет изменен!</warning_id_change>
+    <start_finish>Старт &amp; Финиш</start_finish>
+    <show_hide>Показать &amp; Скрыть</show_hide>
+    <show>Показать</show>
+    <hide>Скрыть</hide>
+    <events>События</events>
+    <event_add>Добавление события</event_add>
+    <trigger_type>Тип триггера</trigger_type>
+    <trigger_in>Вход в зону</trigger_in>
+    <trigger_out>Выход из зоны</trigger_out>
+    <trigger_any>Любой</trigger_any>
+    <geozone_events>События геозоны</geozone_events>
+    <first_group>Создайте свою первую группу или вступите в уже существующую</first_group>
+    <join_group>Вступить в группу</join_group>
+    <leave_group>Покинуть группу</leave_group>
+    <scenario_add>Создание сценария</scenario_add>
+    <condition>Условие</condition>
+    <time_or_interval>Время или интервал</time_or_interval>
+    <online_status>Онлайн статус</online_status>
+    <monitoring_status>Статус мониторинга</monitoring_status>
+    <triggered_sos>Сработал SOS</triggered_sos>
+    <triggered_near>Сработал NEAR</triggered_near>
+    <triggered_charge>Сработал CHARGE</triggered_charge>
+    <next_attempt>Следующее срабатывание</next_attempt>
+    <until_attempt>Осталось срабатываний</until_attempt>
+    <http_query>HTTP-запрос</http_query>
+    <chat_message>Сообщение в чат</chat_message>
+    <user_status>Изменить статус пользователя</user_status>
+    <send_sms>Отправить SMS</send_sms>
+    <send_email>Отправить E-Mail</send_email>
+    <device_rc>Послать команду устройству</device_rc>
+    <group_rc>Послать команду группе</group_rc>
+    <device_notify>Уведомление устройству</device_notify>
+    <group_notify>Уведомление группе</group_notify>
+    <parameter>Параметр</parameter>
+    <announcement>Обьявление</announcement>
+    <announcements>Обьявления</announcements>
+    <users_allowed>Подключенные участники</users_allowed>
+    <users_active>Активные участники</users_active>
+    <default_user_color>Цвет пользователя по умолчанию</default_user_color>
+    <sos_mode>Режим SOS</sos_mode>
+    <group_sos_1>Нормальный</group_sos_1>
+    <group_sos_2>Административный</group_sos_2>
+    <group_sos_3>Максимальный</group_sos_3>
+    <group_sos_4>Интелектуальный</group_sos_4>
+    <sos_phrase_activate>SOS фраза при активации</sos_phrase_activate>
+    <sos_phrase_deactivate>SOS фраза при деактивации</sos_phrase_deactivate>
+    <group_admin_contact>Контакт администратора</group_admin_contact>
+    <group_seo>Групповой SEO</group_seo>
+    <max_distance_fc>Максимальная дистанция от центра группы</max_distance_fc>
+    <user_show_timeout>Задержка показа пользователя</user_show_timeout>
+    <user_track_length>Длина следа пользователя</user_track_length>
+    <broken_user_timeout>Задержка показа потерянного пользователя</broken_user_timeout>
+    <group_user_points>Пользовательские точки</group_user_points>
+    <group_user_points_timeout>Время жизни пользовательской точки</group_user_points_timeout>
+    <group_user_points_com>Пользовательские точки / чат на карте</group_user_points_com>
+    <group_user_status>Персональные статусы пользователя</group_user_status>
+    <group_alarm>Служба "Сигнализация"</group_alarm>
+    <group_geozone>Служба "Геозоны"</group_geozone>
+    <group_near>Служба "Сближение"</group_near>
+    <group_view>Служба "Просмотры"</group_view>
+    <group_users_notification>Уведомление о вступлении/выходе из группы</group_users_notification>
+    <group_active>Активация группы</group_active>
+    <geoevent>Гео-События</geoevent>
+    <group_delete_restriction>Данную группу невозможно удалить, свяжитесь со службой поддержки</group_delete_restriction>
+    <block>Блок.</block>
+    <unblock>Разблок.</unblock>
+    <group_fast_fix_timeount>Таймаут быстрого определения</group_fast_fix_timeount>
+    <group_geozone_retry_timeout>Задержка повторного события геозоны</group_geozone_retry_timeout>
+    <group_geozone_event>Уведомления о событиях геозон</group_geozone_event>
+    <group_geozone_event_important>Важные уведомления о событиях геозон</group_geozone_event_important>
+    <group_geozone_event_point>Создавать точки на месте события геозоны</group_geozone_event_point>
+    <link_add>Создание ссылки</link_add>
+    <link_edit>Изменение ссылки</link_edit>
+    <link_delete>Удаление ссылки</link_delete>
+    <link_view>Просмотры ссылки</link_view>
+    <transport_add>Добавление инвентаря</transport_add>
+    <transport_edit>Изменение инвентаря</transport_edit>
+    <transport_delete>Удаление инвентаря</transport_delete>
+    <transport_detail_add>Добавление детали транспорта</transport_detail_add>
+    <transport_detail_edit>Изменение детали транспорта</transport_detail_edit>
+    <link_without_password>Ссылка без пароля будет доступна всем у кого она есть, она может остаться в истории браузера или её посетит поисковая система</link_without_password>
+    <active_trip_track_size>Размер показываемого следа в активной поездке</active_trip_track_size>
+    <default_trip_privacy>Приватность поездки по умолчанию</default_trip_privacy>
+    <maximum_trip_duration>Максимальная длительность поездки</maximum_trip_duration>
+    <maximum_trip_idle>Максимальное время бездействия устройства в поездке</maximum_trip_idle>
+    <notify_when_trip_look>Push-уведомление, когда вашу поездку просматривают</notify_when_trip_look>
+    <notify_when_link_look>Push-уведомление, когда ссылку просматривают</notify_when_link_look>
+    <unlogin_all>Выйти со всех браузеров, кроме этого</unlogin_all>
+    <profile_private_see>Кто может просматривать ваш профиль</profile_private_see>
+    <profile_private_feed>Кто может подписываться на ваш профиль</profile_private_feed>
+    <edit_success>Редактирование успешно</edit_success>
+    <referer>Точка перехода</referer>
+    <user_agent>Браузер</user_agent>
+    <update_app_notify>Обновите приложение</update_app_notify>
+    <update_app_notify_description>Чтобы продолжать записывать поездки, установите актуальную версию OsMoDroid на свой смартфон</update_app_notify_description>
+    <invite_description>Приглашайте своих друзей и получайте дополнительные баллы активности</invite_description>
+    <wait_until_moderator_check>проверяется модераторами, ожидайте</wait_until_moderator_check>
+    <account_not_plus>У нас нет Plus</account_not_plus>
+    <account_not_plus_description>У вашего аккаунта нет активной подписки Plus, поэтому опции отмеченные звездочкой будут недоступны вам</account_not_plus_description>
+    <account_is_weak>Ваш аккаунт слишком слаб</account_is_weak>
+    <account_is_weak_description>Чтобы получить лучший пользовательский опыт, регулярно записывайте поездки - это откроет доступ к дополнительным функциям сервиса</account_is_weak_description>
+    <ride_first_trip>Запишите свою первую поездку с помощью</ride_first_trip>
+    <ride_first_trip_with_app>приложения</ride_first_trip_with_app>
+    <notify_transport_add>При регулярных поездках, мы рекомендуем добавить, используемый транспорт. Вы сможете вести подробный учёт износа деталей и тех.обслуживания, а также получить оценочную стоимость поездок</notify_transport_add>
+    <notify_link_add>Чтобы за вами могли наблюдать во множестве поездок, без регистрации и установки приложений, создайте постоянную ссылку на свои поездки</notify_link_add>
+    <notify_group_enter>Здесь будут показаны включенные группы, в которые вы вступите или создадите</notify_group_enter>
+    <notify_friend_action></notify_friend_action>
 </resources>

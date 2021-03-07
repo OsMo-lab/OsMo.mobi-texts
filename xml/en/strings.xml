@@ -1,213 +1,298 @@
 <resources language="en">
-  <project>OsMo Monitoring</project>
-  <language>Language</language>
-  <signup>Sign Up</signup>
-  <signin>Sign In</signin>
-  <signout>Sign Out</signout>
-  <more_info>More info</more_info>
-  <email>Email</email>
-  <password>Password</password>
-  <telephone>Telephone number</telephone>
-  <pnf_title>Error 404</pnf_title>
-  <pnf_description>Page not found</pnf_description>
-  <pnf_link>Return to the home page</pnf_link>
-  <error>There has been an error</error>
-  <coming>Coming soon</coming>
-  <properties>Properties</properties>
-  <devices>Devices</devices>
-  <groups>Groups</groups>
-  <links>Links</links>
-  <sessions>Trips</sessions>
-  <trip>Trip</trip>
-  <unknown>Unknown</unknown>
-  <events>Events</events>
-  <add>Add</add>
-  <edit>Edit</edit>
-  <delete>Delete</delete>
-  <reset>Reset</reset>
-  <name>Name</name>
-  <updated>Updated</updated>
-  <actions>Actions</actions>
-  <action>Action</action>
-  <view>View</view>
-  <save>Save</save>
-  <enter>Enter</enter>
-  <leave>Leave</leave>
-  <access>Access</access>
-  <access_free>Free</access_free>
-  <access_private>Private</access_private>
-  <access_restricted>Restricted</access_restricted>
-  <upload>Upload</upload>
-  <loading>Loading</loading>
-  <download>Download</download>
-  <gpx_track>GPX-track</gpx_track>
-  <color>Color</color>
-  <lat>Latitude</lat>
-  <lon>Lontitude</lon>
-  <submit>Submit</submit>
-  <set>Set</set>
-  <cabinet>Dashboard</cabinet>
-  <url>Url</url>
-  <menu>Menu</menu>
-  <news>News</news>
-  <view_website>Go to the website</view_website>
-  <website>Website</website>
-  <limit>Limit</limit>
-  <created>Date of creation</created>
-  <tm_apps>Apps</tm_apps>
-  <tm_personal>Personal</tm_personal>
-  <tm_group>Group</tm_group>
-  <tm_meet>Meet</tm_meet>
-  <tm_community>Community</tm_community>
-  <bm_about>About</bm_about>
-  <bm_customization>Customization</bm_customization>
-  <bm_donate>Donate</bm_donate>
-  <bm_privacy>Privacy policy</bm_privacy>
-  <bm_terms>Terms of use</bm_terms>
-  <bm_feedback>Contact support</bm_feedback>
-  <begin>Begin</begin>
-  <map>Map</map>
-  <admins>Admins</admins>
-  <tuning>Tuning</tuning>
-  <scenario>Scenario</scenario>
-  <announcement>Announcement</announcement>
-  <history>History</history>
-  <share>Share</share>
-  <contact>Contact</contact>
-  <chat>Chat</chat>
-  <users_online>Users online</users_online>
-  <send_link>You can manually send the link</send_link>
-  <insert_frame>Or insert a frame into your website or blog</insert_frame>
-  <text>Text</text>
-  <apply>Apply</apply>
-  <need_register>Registration required</need_register>
-  <find>Find</find>
-  <settings>Settings</settings>
-  <control>Remote control</control>
-  <remote_control>Remote control</remote_control>
-  <need_pro>Need PRO</need_pro>
-  <only_for_you>Only for you</only_for_you>
-  <and>and</and>
-  <online>Online</online>
-  <active>Active</active>
-  <auth>Authorization</auth>
-  <rc_01>Start tracker</rc_01>
-  <rc_02>Stop tracker</rc_02>
-  <rc_11>Battery info</rc_11>
-  <rc_12>Where you are?</rc_12>
-  <rc_13>Satelites information</rc_13>
-  <rc_14>System information</rc_14>
-  <rc_20>Wifi status</rc_20>
-  <rc_21>Wifi Enable</rc_21>
-  <rc_22>Wifi Disable</rc_22>
-  <rc_30>Alarm status</rc_30>
-  <rc_31>Alarm Enable</rc_31>
-  <rc_32>Alarm Disable</rc_32>
-  <rc_33>Alert Enable</rc_33>
-  <rc_34>Alert Disable</rc_34>
-  <rc_41>Vibrate</rc_41>
-  <rc_42>Kill app</rc_42>
-  <rc_47>Light on</rc_47>
-  <rc_48>Flash light</rc_48>
-  <rc_49>Light off</rc_49>
-  <rc_990>"Answer to call"</rc_990>
-  <rc_991>Test SOS signal</rc_991>
-  <day>Day</day>
-  <week>Week</week>
-  <month>Month</month>
-  <quarter>Quarter</quarter>
-  <type>Type</type>
-  <members>Members</members>
-  <members_new>New members</members_new>
-  <counts>Counts</counts>
-  <mymap>My OsMo</mymap>
-  <family>Family</family>
-  <last_update>Last update</last_update>
-  <battery>Battery</battery>
-  <back>Back</back>
-  <have_question>If you have question</have_question>
-  <contact_us>contact us</contact_us>
-  <device>Device</device>
-  <site>Site</site>
-  <guest>Guest</guest>
-  <user>User</user>
-  <ws>ws</ws>
-  <show>Show</show>
-  <group_type>Type of group</group_type>
-  <users>Users</users>
-  <sunset>Sunset</sunset>
-  <sunrise>Sunrise</sunrise>
-  <next>Next</next>
-  <short_name>OsMo</short_name>
-  <creator>Creator</creator>
-  <until>until</until>
-  <active_from>Active from</active_from>
-  <subscribes>Subscribes</subscribes>
-  <auths>Authorizations</auths>
-  <duration>Duration</duration>
-  <cost>Cost</cost>
-  <coins>Bonuses</coins>
-  <activate>Activate</activate>
-  <less_to>Less to</less_to>
-  <network>Network type</network>
-  <mobile>Mobile</mobile>
-  <wifi>Wifi</wifi>
-  <started>Started</started>
-  <stopped>Stopped</stopped>
-  <timeout>Timeout</timeout>
-  <timezone>Timezone</timezone>
-  <time>Time</time>
-  <interval>Interval</interval>
-  <group_type_1>Simple</group_type_1>
-  <group_type_2>Family</group_type_2>
-  <group_type_3>Standart</group_type_3>
-  <group_type_4>None</group_type_4>
-  <group_type_5>POI</group_type_5>
-  <group_type_6>Trip/Travel</group_type_6>
-  <group_type_7>Challenge</group_type_7>
-  <group_type_8>Family+</group_type_8>
-  <group_type_9>Premium</group_type_9>
-  <days>Days</days>
-  <minutes>Minutes</minutes>
-  <week_1>Monday</week_1>
-  <week_2>Tuesday</week_2>
-  <week_3>Wednesday</week_3>
-  <week_4>Thursday</week_4>
-  <week_5>Friday</week_5>
-  <week_6>Saturday</week_6>
-  <week_7>Sunday</week_7>
-  <level>Level</level>
-  <select>Select</select>
-  <command>Command</command>
-  <off>Off</off>
-  <on>On</on>
-  <allow>Allow</allow>
-  <disallow>Disallow</disallow>
-  <keywords>Keywords</keywords>
-  <search>Search</search>
-  <date_from>Date from</date_from>
-  <date_to>Date to</date_to>
-  <km_per_day>Passed per day</km_per_day>
-  <km_per_hour>Passed in an hour</km_per_hour>
-  <logo>Logo</logo>
-  <follow_no>No follow</follow_no>
-  <follow_all>Follow all</follow_all>
-  <geozone>Geozone</geozone>
-  <date>Date</date>
-  <pays>Pays</pays>
-  <banned>Banned</banned>
-  <hours>Hours</hours>
-  <minute>Minute</minute>
-  <minuts>Minuts</minuts>
-  <seconds>Seconds</seconds>
-  <send>Send</send>
-  <bonuses>Bonuses</bonuses>
-  <your_bonuses>Your bonuses</your_bonuses>
-  <donate>Donate</donate>
-  <menu_groups>Groups</menu_groups>
-  <menu_groups_my>My groups</menu_groups_my>
-  <menu_groups_archive>My groups (archive)</menu_groups_archive>
-  <menu_groups_poi>POI</menu_groups_poi>
-  <menu_groups_trip>Trip`s</menu_groups_trip>
-  <weather>Weather</weather>
+    <project>OsMo — Tracker</project>
+    <language>Language</language>
+    <signup>Sign Up</signup>
+    <signin>Sign In</signin>
+    <signout>Sign Out</signout>
+    <login>Sign in</login>
+    <more_info>More info</more_info>
+    <email>Email</email>
+    <password>Password</password>
+    <telephone>Telephone number</telephone>
+    <pnf_title>Error 404</pnf_title>
+    <pnf_description>Page not found</pnf_description>
+    <pnf_link>Return to the home page</pnf_link>
+    <error>There has been an error</error>
+    <coming>Coming soon</coming>
+    <properties>Properties</properties>
+    <devices>Devices</devices>
+    <groups>Groups</groups>
+    <tags>Tags</tags>
+    <links>Links</links>
+    <kb>Knowledge base</kb>
+    <routes>Routes</routes>
+    <route>Route</route>
+    <trips>Trips</trips>
+    <history>History</history>
+    <your_trips>Your trips</your_trips>
+    <trips_not_found>Trips not found, soften the filter conditions</trips_not_found>
+    <trips_not_recorded>You do not have a single entry in history, take the first walk with our application and it will appear here</trips_not_recorded>
+    <trip>Trip</trip>
+    <unknown>Unknown</unknown>
+    <events>Events</events>
+    <add>Add</add>
+    <edit>Edit</edit>
+    <delete>Delete</delete>
+    <reset>Reset</reset>
+    <name>Name</name>
+    <updated>Updated</updated>
+    <actions>Actions</actions>
+    <action>Action</action>
+    <view>View</view>
+    <save>Save</save>
+    <enter>Enter</enter>
+    <leave>Leave</leave>
+    <access>Access</access>
+    <access_free>Free</access_free>
+    <access_private>Private</access_private>
+    <access_restricted>Restricted</access_restricted>
+    <upload>Upload</upload>
+    <loading>Loading</loading>
+    <download>Download</download>
+    <gpx_track>gpx track</gpx_track>
+    <color>Color</color>
+    <lat>Latitude</lat>
+    <lon>Longitude</lon>
+    <submit>Submit</submit>
+    <set>Set</set>
+    <overview>Overview</overview>
+    <url>Url</url>
+    <menu>Menu</menu>
+    <news>News</news>
+    <view_website>Go to the website</view_website>
+    <website>Website</website>
+    <limit>Limit</limit>
+    <created>Date of creation</created>
+    <tm_apps>Apps</tm_apps>
+    <tm_personal>Personal</tm_personal>
+    <tm_group>Group</tm_group>
+    <tm_meet>Meet</tm_meet>
+    <tm_community>Community</tm_community>
+    <bm_about>About</bm_about>
+    <bm_donate>Donate</bm_donate>
+    <bm_privacy>Privacy policy</bm_privacy>
+    <bm_terms>Terms of use</bm_terms>
+    <bm_legal>Legal info</bm_legal>
+    <bm_feedback>Support</bm_feedback>
+    <begin>Begin</begin>
+    <map>Map</map>
+    <admins>Admins</admins>
+    <tuning>Tuning</tuning>
+    <scenario>Scenario</scenario>
+    <add_first>Add first</add_first>
+    <share>Share</share>
+    <contact>Contact</contact>
+    <chat>Chat</chat>
+    <users_online>Users online</users_online>
+    <send_link>You can manually send the link</send_link>
+    <insert_frame>Or insert a frame into your website or blog</insert_frame>
+    <text>Text</text>
+    <apply>Apply</apply>
+    <need_register>Registration required</need_register>
+    <find>Find</find>
+    <settings>Settings</settings>
+    <control>Remote control</control>
+    <remote_control>Remote control</remote_control>
+    <need_pro>Need Pro-status or subscribe on Plus</need_pro>
+    <only_for_you>Only for you</only_for_you>
+    <and>and</and>
+    <online>Online</online>
+    <active>Active</active>
+    <auth>Authorization</auth>
+    <rc_01>Start tracker</rc_01>
+    <rc_02>Stop tracker</rc_02>
+    <rc_11>Battery info</rc_11>
+    <rc_12>Where you are?</rc_12>
+    <rc_13>Satellites information</rc_13>
+    <rc_14>System information</rc_14>
+    <rc_20>Wifi status</rc_20>
+    <rc_21>Wifi Enable</rc_21>
+    <rc_22>Wifi Disable</rc_22>
+    <rc_30>Alarm status</rc_30>
+    <rc_31>Alarm Enable</rc_31>
+    <rc_32>Alarm Disable</rc_32>
+    <rc_33>Alert Enable</rc_33>
+    <rc_34>Alert Disable</rc_34>
+    <rc_42>Kill app</rc_42>
+    <day>Day</day>
+    <week>Week</week>
+    <month>Month</month>
+    <quarter>Quarter</quarter>
+    <type>Type</type>
+    <members>Members</members>
+    <members_new>New members</members_new>
+    <counts>Counts</counts>
+    <family>Family</family>
+    <friend>Friend</friend>
+    <friends>Friends</friends>
+    <last_update>Last update</last_update>
+    <power>Power</power>
+    <back>Back</back>
+    <have_question>If you have question</have_question>
+    <contact_us>contact us</contact_us>
+    <device>Device</device>
+    <site>Site</site>
+    <guest>Guest</guest>
+    <user>User</user>
+    <vs>vs</vs>
+    <group_type>Type of group</group_type>
+    <users>Users</users>
+    <sunset>Sunset</sunset>
+    <sunrise>Sunrise</sunrise>
+    <next>Next</next>
+    <creator>Creator</creator>
+    <until>until</until>
+    <active_from>Installed</active_from>
+    <active_to>Removed</active_to>
+    <subscribes>Subscribes</subscribes>
+    <auths>Authorizations</auths>
+    <duration>Duration</duration>
+    <cost>Cost</cost>
+    <coins>Bonuses</coins>
+    <activate>Activate</activate>
+    <less_to>Less to</less_to>
+    <network>Network type</network>
+    <mobile>Mobile</mobile>
+    <wifi>Wifi</wifi>
+    <started>Started</started>
+    <stopped>Stopped</stopped>
+    <timeout>Timeout</timeout>
+    <timezone>Timezone</timezone>
+    <time>Time</time>
+    <interval>Interval</interval>
+    <group_type_1>Simple</group_type_1>
+    <group_type_2>Family</group_type_2>
+    <group_type_3>Standard</group_type_3>
+    <group_type_4>None</group_type_4>
+    <group_type_5>POI</group_type_5>
+    <group_type_6>Trip/Travel</group_type_6>
+    <group_type_7>Challenge</group_type_7>
+    <group_type_8>None</group_type_8>
+    <group_type_9>Power</group_type_9>
+    <days>Days</days>
+    <minutes>Minutes</minutes>
+    <week_1>Monday</week_1>
+    <week_2>Tuesday</week_2>
+    <week_3>Wednesday</week_3>
+    <week_4>Thursday</week_4>
+    <week_5>Friday</week_5>
+    <week_6>Saturday</week_6>
+    <week_7>Sunday</week_7>
+    <level>Level</level>
+    <select>Select</select>
+    <command>Command</command>
+    <off>Off</off>
+    <on>On</on>
+    <allow>Allow</allow>
+    <disallow>Disallow</disallow>
+    <keywords>Keywords</keywords>
+    <search>Search</search>
+    <date_from>Date from</date_from>
+    <date_to>Date to</date_to>
+    <km_per_day>Passed per day</km_per_day>
+    <km_per_hour>Passed in an hour</km_per_hour>
+    <logo>Logo</logo>
+    <follow_no>No follow</follow_no>
+    <follow_all>Follow all</follow_all>
+    <geozone>Geozone</geozone>
+    <date>Date</date>
+    <pays>Pays</pays>
+    <banned>Banned</banned>
+    <hours>Hours</hours>
+    <minute>Minute</minute>
+    <minuts>Minutes</minuts>
+    <seconds>Seconds</seconds>
+    <send>Send</send>
+    <donate>Donate</donate>
+    <weather>Weather</weather>
+    <start>Start</start>
+    <stop>Halt</stop>
+    <finish>Finish</finish>
+    <link_user_location_not_found>Location of user not found</link_user_location_not_found>
+    <link_user_location_not_found_description>User not active, we can`t get actual location</link_user_location_not_found_description>
+    <menu_leaders>Leaders</menu_leaders>
+    <menu_routes>Routes</menu_routes>
+    <menu_groups>Groups</menu_groups>
+    <score>Points</score>
+    <yes>Yes</yes>
+    <no>No</no>
+    <activity>Activity</activity>
+    <trips_score>Trips points</trips_score>
+    <user_top_title>Leaderboard</user_top_title>
+    <user_top_description>This is a list of public active users of the service for the last month. Their activity indicators are calculated based on the number of trips, distance traveled, and total trip rating</user_top_description>
+    <group_top_title>List of active groups</group_top_title>
+    <group_top_description>Here you can find public groups that have recently been active in the OsMo Tracker service</group_top_description>
+    <trip_top_title>OsMo route feed</trip_top_title>
+    <trip_top_description>Here are collected public and high-quality routes automatically selected by the system from the list of routes of users of the OsMo Tracker service lately</trip_top_description>
+    <top_all_km>Distance km</top_all_km>
+    <trip_private>Trip privacy</trip_private>
+    <trip_private_0>Visible to all</trip_private_0>
+    <trip_private_1>Visible on the link/friends</trip_private_1>
+    <trip_private_2>Only you can see</trip_private_2>
+    <km>km</km>
+    <kmph>km/h</kmph>
+    <mps>m/s</mps>
+    <invite>Invite</invite>
+    <expenses>Expenses (add. cost)</expenses>
+    <transport>Transport</transport>
+    <transport_type_0>Undefined</transport_type_0>
+    <transport_type_1>Foot</transport_type_1>
+    <transport_type_2>Transport</transport_type_2>
+    <transport_type_3>Bicycle</transport_type_3>
+    <transport_type_4>Car/Moto</transport_type_4>
+    <transport_type_5>Run/Ski</transport_type_5>
+    <transport_type_6>Boat</transport_type_6>
+    <transport_type_7>Electric</transport_type_7>
+    <transport_type_8>Skateboard/Scooter/Roller skates</transport_type_8>
+    <transport_type_9>Other</transport_type_9>
+    <price>Price</price>
+    <price_per_km>Price per km</price_per_km>
+    <date_start>Date start use</date_start>
+    <date_end>Date end use</date_end>
+    <mileage>Mileage</mileage>
+    <mileage_threshold>Mileage correction</mileage_threshold>
+    <summary_mileage>Mileage summary</summary_mileage>
+    <summary_time>Summary operating time</summary_time>
+    <from>from</from>
+    <via>via</via>
+    <iot>Internet of Things</iot>
+    <trip_scale>Scale of trip</trip_scale>
+    <trip_scale_local>Local</trip_scale_local>
+    <trip_scale_ring>Ring</trip_scale_ring>
+    <trip_scale_intercity>Intercity</trip_scale_intercity>
+    <trip_scale_international>International</trip_scale_international>
+    <description>Description</description>
+    <policy>Policy</policy>
+    <rules>Rules</rules>
+    <model>Model</model>
+    <buy_price>Buy price</buy_price>
+    <resource>Resource</resource>
+    <ip>IP</ip>
+    <position>Position</position>
+    <link_stop_accuracy>Exact stopping point</link_stop_accuracy>
+    <link_stop_accuracy_description>The stopping point is shown with maximum accuracy, this may violate your privacy</link_stop_accuracy_description>
+    <link_permanent>Continuous monitoring</link_permanent>
+    <link_permanent_description>Background update of your location when the ride is not running</link_permanent_description>
+    <link_power_info>Power information</link_power_info>
+    <link_power_info_description>Show information about the charging status of the smartphone</link_power_info_description>
+    <pro>Pro</pro>
+    <distance>Distance</distance>
+    <distance_true>True distance</distance_true>
+    <speed>Speed</speed>
+    <speed_short>Sp.</speed_short>
+    <speed_avg>Avg.</speed_avg>
+    <speed_average>Average speed</speed_average>
+    <speed_avg_best>Best.Avg.</speed_avg_best>
+    <speed_average_best>Best average speed</speed_average_best>
+    <speed_max>Max</speed_max>
+    <speed_maximum>Maximum speed</speed_maximum>
+    <achievement>Achievement</achievement>
+    <penalty>Penalty</penalty>
+    <al>All</al>
+    <drv>Drv.</drv>
+    <time_all>Trip time</time_all>
+    <time_drive>Drive time</time_drive>
+    <trip_score>A summary assessment of the quality of the trip by a specialized analyzer</trip_score>
+    <private>Private</private>
+    <continue>Continue</continue>
 </resources>

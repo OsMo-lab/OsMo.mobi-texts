@@ -1,132 +1,156 @@
 <resources language="en">
-  <last_auth>Last login</last_auth>
-  <last_point>The last point</last_point>
-  <members>Members</members>
-  <nick>Nick</nick>
-  <joined>Joined</joined>
-  <online>Online</online>
-  <was_online>Was online</was_online>
-  <last_sending>Last point send</last_sending>
-  <connected_devices>Connected devices</connected_devices>
-  <tracks>Track`s</tracks>
-  <no_tracks>No tracks added</no_tracks>
-  <points>Point`s</points>
-  <no_points>No points added</no_points>
-  <geozones>Geozone`s</geozones>
-  <statistics>Statistics</statistics>
-  <description>Description</description>
-  <policy>Policy</policy>
-  <group_delete>Delete a group</group_delete>
-  <danger_zone>Danger zone</danger_zone>
-  <add_track>Adding a track</add_track>
-  <add_point>Adding a point</add_point>
-  <add_geozone>Adding a geozone</add_geozone>
-  <session_started>Trip started</session_started>
-  <group_access_description>Private may be the group with less than 8 devices or Premium. Privacy is that such a group can only find ID and it will not be able to see users not part of the group. Browsing through the site will be available only to authorized users.</group_access_description>
-  <group_id>Group ID</group_id>
-  <group_stat>Statistics about the group</group_stat>
-  <group_stat_all>Total</group_stat_all>
-  <group_stat_active>Active</group_stat_active>
-  <group_stat_online>Online</group_stat_online>
-  <group_stat_normal>Regular</group_stat_normal>
-  <group_stat_inactive>Inactive</group_stat_inactive>
-  <group_stat_registered>Registered</group_stat_registered>
-  <manage>Manage</manage>
-  <session>Trip</session>
-  <preview>Preview</preview>
-  <distance>Distance</distance>
-  <start>Start time</start>
-  <finish>End time</finish>
-  <active_session>Current trip</active_session>
-  <group_creating>Create a group</group_creating>
-  <group_rules_warn>Please note the rules for creating groups:</group_rules_warn>
-  <group_rules_1>The group name should be intuitive</group_rules_1>
-  <group_rules_2>If the group name is an acronym or the name of an organization please complete the description so that you understand who and why uses this group</group_rules_2>
-  <group_rules_3>Be sure to enter the email group we can send a test email. Keep this address always up to date, in the case of not receiving a response to our request with this email, the group can be locked</group_rules_3>
-  <group_rules_4>We do not approve of round the clock monitoring stationary most of the time, objects in groups</group_rules_4>
-  <group_rules_5>Do not use group by only one party for a long time (except for the POI group and Event, Travel)</group_rules_5>
-  <group_rules_6>It is forbidden to create groups takes and create fake groups and spread spam through groups</group_rules_6>
-  <group_user_add>Add member to group</group_user_add>
-  <group_user_add_tip>To add a user to the group, you need to fill in the fields: nickname and Tracker Id (it changes every time you connect to the server)</group_user_add_tip> 
-  <map_center>The center of the map for the site</map_center>
-  <editable_for_public>Editable only for public group</editable_for_public>
-  <warning_id_change>Warning! When you change this option - ID of group was changed!</warning_id_change>
-  <startfinish>Start-Finish</startfinish>
-  <events>Events</events>
-  <event_add>Event add</event_add>
-  <trigger_type>Trigger type</trigger_type>
-  <trigger_in>Enter to zone</trigger_in>
-  <trigger_out>Get out from zone</trigger_out>
-  <trigger_any>Any</trigger_any>
-  <geozone_events>Geozone event`s</geozone_events>
-  <first_group>Create your first group or join an existing</first_group>
-  <join_group>Join to the group</join_group>
-  <leave_group>Leave from the group</leave_group>
-  <scenario_add>Creating a script</scenario_add>
-  <condition>Condition</condition>
-  <time_or_interval>Time or interval</time_or_interval>
-  <online_status>Online status</online_status>
-  <monitoring_status>Status of tracking</monitoring_status>
-  <triggered_sos>Trigger SOS</triggered_sos>
-  <triggered_near>Trigger NEAR</triggered_near>
-  <triggered_charge>Trigger CHARGE</triggered_charge>
-  <next_attempt>Next attempt</next_attempt>
-  <until_attempt>Remaining attempt</until_attempt>
-  <http_query>HTTP-query</http_query>
-  <chat_message>Message to chat</chat_message>
-  <user_status>Change user status</user_status>
-  <send_sms>Send SMS</send_sms>
-  <send_email>Send E-Mail</send_email>
-  <device_rc>Device remote control</device_rc>
-  <group_rc>Device remote control</group_rc>
-  <device_notify>Notify for device</device_notify>
-  <group_notify>Notify for group</group_notify>
-  <parameter>Option</parameter>
-  <announcement>Announcement</announcement>
-  <announcements>Announcements</announcements>
-  <users_allowed>Connected members</users_allowed>
-  <users_active>Active members</users_active>
-  <default_user_color>Default user color</default_user_color>
-  <sos_mode>SOS mode</sos_mode>
-  <group_sos_1>Normal</group_sos_1>
-  <group_sos_2>Administrative</group_sos_2>
-  <group_sos_3>Maximum</group_sos_3>
-  <group_sos_4>Intellectual</group_sos_4>
-  <sos_phrase_activate>SOS phrase of activate</sos_phrase_activate>
-  <sos_phrase_deactivate>SOS phrase of deactivate</sos_phrase_deactivate>
-  <group_admin_contact>Group admin contact</group_admin_contact>
-  <group_seo>Group SEO</group_seo>
-  <max_distance_fc>Maximum distance from center of group</max_distance_fc>
-  <user_show_timeout>User show timeout</user_show_timeout>
-  <user_track_length>User track length</user_track_length>
-  <broken_user_timeout>Broken user show timeout</broken_user_timeout>
-  <group_user_points>User points</group_user_points>
-  <group_user_points_timeout>User points timeout</group_user_points_timeout>
-  <group_user_points_com>User points / chat on the map</group_user_points_com>
-  <group_user_status>User personal status</group_user_status>
-  <group_alarm>Service "Alarm"</group_alarm>
-  <group_geozone>Service "Geozone"</group_geozone>
-  <group_near>Service "Near"</group_near>
-  <group_view>Service "View"</group_view>
-  <group_users_notification>Notify about join/leave to group</group_users_notification>
-  <group_active>Group active</group_active>
-  <geoevent>Geo-event`s</geoevent>
-  <group_delete_restriction>This group can not be deleted, please contact support</group_delete_restriction>
-  <block>Ban</block>
-  <unblock>Unban</unblock>
-  <group_fast_fix_timeount>Fast Fix timeout</group_fast_fix_timeount>
-  <group_geozone_retry_timeout>Geozone event retry timeout</group_geozone_retry_timeout>
-  <group_geozone_event>Geozone event</group_geozone_event>
-  <group_geozone_event_important>Geozone event important</group_geozone_event_important>
-  <group_geozone_event_point>Создавать точки на месте события геозоны</group_geozone_event_point>
-  <link_add>Create link</link_add>
-  <active_trip_track_size>The size of the track shown in the active trip</active_trip_track_size>
-  <default_trip_privacy>Default trip privacy</default_trip_privacy>
-  <maximum_trip_duration>The maximum duration of the trip</maximum_trip_duration>
-  <maximum_trip_idle>Maximum idle time of the device during the trip</maximum_trip_idle>
-  <notify_when_trip_look>Notify when your trip is watching</notify_when_trip_look>
-  <notify_when_link_look>Notify when your link is watching</notify_when_link_look>
-  <unlogin_all>Delete all but the current one</unlogin_all>
-  <profile_private_see>Who can see your profile</profile_private_see>
-  <profile_private_feed>Who can subscribe to your profile</profile_private_feed>
+    <last_auth>Last login</last_auth>
+    <last_point>The last point</last_point>
+    <members>Members</members>
+    <nick>Nick</nick>
+    <joined>Joined</joined>
+    <online>Online</online>
+    <was_online>Was online</was_online>
+    <last_sending>Last point send</last_sending>
+    <connected_devices>Connected devices</connected_devices>
+    <tracks>Track`s</tracks>
+    <no_tracks>No tracks added</no_tracks>
+    <points>Point`s</points>
+    <no_points>No points added</no_points>
+    <geozones>Geozone`s</geozones>
+    <statistics>Statistics</statistics>
+    <group_delete>Delete a group</group_delete>
+    <danger_zone>Danger zone</danger_zone>
+    <add_track>Adding a track</add_track>
+    <add_point>Adding a point</add_point>
+    <add_geozone>Adding a geozone</add_geozone>
+    <session_started>Trip started</session_started>
+    <group_access_description>Private may be the group with less than 8 devices or Premium. Privacy is that such a group can only find ID and it will not be able to see users not part of the group. Browsing through the site will be available only to authorized users.</group_access_description>
+    <group_id>Group ID</group_id>
+    <group_stat>Statistics about the group</group_stat>
+    <group_stat_all>Total</group_stat_all>
+    <group_stat_active>Active</group_stat_active>
+    <group_stat_online>Online</group_stat_online>
+    <group_stat_normal>Regular</group_stat_normal>
+    <group_stat_inactive>Inactive</group_stat_inactive>
+    <group_stat_registered>Registered</group_stat_registered>
+    <manage>Manage</manage>
+    <session>Trip</session>
+    <preview>Preview</preview>
+    <active_session>Current trip</active_session>
+    <group_creating>Create a group</group_creating>
+    <group_rules_warn>Please note the rules for creating groups:</group_rules_warn>
+    <group_rules_1>The group name should be intuitive</group_rules_1>
+    <group_rules_2>If the group name is an acronym or the name of an organization please complete the description so that you understand who and why uses this group</group_rules_2>
+    <group_rules_3>Be sure to enter the email group we can send a test email. Keep this address always up to date, in the case of not receiving a response to our request with this email, the group can be locked</group_rules_3>
+    <group_rules_4>We do not approve of round the clock monitoring stationary most of the time, objects in groups</group_rules_4>
+    <group_rules_5>Do not use group by only one party for a long time (except for the POI group and Event, Travel)</group_rules_5>
+    <group_rules_6>It is forbidden to create groups takes and create fake groups and spread spam through groups</group_rules_6>
+    <group_user_add>Add member to group</group_user_add>
+    <group_user_add_tip>To add a user to the group, you need to fill in the fields: nickname and Tracker Id (it changes every time you connect to the server)</group_user_add_tip>
+    <map_center>The center of the map for the site</map_center>
+    <editable_for_public>Editable only for public group</editable_for_public>
+    <warning_id_change>Warning! When you change this option - ID of group was changed!</warning_id_change>
+    <start_finish>Start &amp; Finish</start_finish>
+    <show_hide>Show &amp; Hide</show_hide>
+    <show>Show</show>
+    <hide>Hide</hide>
+    <events>Events</events>
+    <event_add>Event add</event_add>
+    <trigger_type>Trigger type</trigger_type>
+    <trigger_in>Enter to zone</trigger_in>
+    <trigger_out>Get out from zone</trigger_out>
+    <trigger_any>Any</trigger_any>
+    <geozone_events>Geozone event`s</geozone_events>
+    <first_group>Create your first group or join an existing</first_group>
+    <join_group>Join to the group</join_group>
+    <leave_group>Leave from the group</leave_group>
+    <scenario_add>Creating a script</scenario_add>
+    <condition>Condition</condition>
+    <time_or_interval>Time or interval</time_or_interval>
+    <online_status>Online status</online_status>
+    <monitoring_status>Status of tracking</monitoring_status>
+    <triggered_sos>Trigger SOS</triggered_sos>
+    <triggered_near>Trigger NEAR</triggered_near>
+    <triggered_charge>Trigger CHARGE</triggered_charge>
+    <next_attempt>Next attempt</next_attempt>
+    <until_attempt>Remaining attempt</until_attempt>
+    <http_query>HTTP-query</http_query>
+    <chat_message>Message to chat</chat_message>
+    <user_status>Change user status</user_status>
+    <send_sms>Send SMS</send_sms>
+    <send_email>Send E-Mail</send_email>
+    <device_rc>Device remote control</device_rc>
+    <group_rc>Device remote control</group_rc>
+    <device_notify>Notify for device</device_notify>
+    <group_notify>Notify for group</group_notify>
+    <parameter>Option</parameter>
+    <announcement>Announcement</announcement>
+    <announcements>Announcements</announcements>
+    <users_allowed>Connected members</users_allowed>
+    <users_active>Active members</users_active>
+    <default_user_color>Default user color</default_user_color>
+    <sos_mode>SOS mode</sos_mode>
+    <group_sos_1>Normal</group_sos_1>
+    <group_sos_2>Administrative</group_sos_2>
+    <group_sos_3>Maximum</group_sos_3>
+    <group_sos_4>Intellectual</group_sos_4>
+    <sos_phrase_activate>SOS phrase of activate</sos_phrase_activate>
+    <sos_phrase_deactivate>SOS phrase of deactivate</sos_phrase_deactivate>
+    <group_admin_contact>Group admin contact</group_admin_contact>
+    <group_seo>Group SEO</group_seo>
+    <max_distance_fc>Maximum distance from center of group</max_distance_fc>
+    <user_show_timeout>User show timeout</user_show_timeout>
+    <user_track_length>User track length</user_track_length>
+    <broken_user_timeout>Broken user show timeout</broken_user_timeout>
+    <group_user_points>User points</group_user_points>
+    <group_user_points_timeout>User points timeout</group_user_points_timeout>
+    <group_user_points_com>User points / chat on the map</group_user_points_com>
+    <group_user_status>User personal status</group_user_status>
+    <group_alarm>Service "Alarm"</group_alarm>
+    <group_geozone>Service "Geozone"</group_geozone>
+    <group_near>Service "Near"</group_near>
+    <group_view>Service "View"</group_view>
+    <group_users_notification>Notify about join/leave to group</group_users_notification>
+    <group_active>Group active</group_active>
+    <geoevent>Geo-event`s</geoevent>
+    <group_delete_restriction>This group can not be deleted, please contact support</group_delete_restriction>
+    <block>Ban</block>
+    <unblock>Unban</unblock>
+    <group_fast_fix_timeount>Fast Fix timeout</group_fast_fix_timeount>
+    <group_geozone_retry_timeout>Geozone event retry timeout</group_geozone_retry_timeout>
+    <group_geozone_event>Geozone event</group_geozone_event>
+    <group_geozone_event_important>Geozone event important</group_geozone_event_important>
+    <group_geozone_event_point>Create points at the location of a geofence event</group_geozone_event_point>
+    <link_add>Link creating</link_add>
+    <link_edit>Link editing</link_edit>
+    <link_delete>Link deleting</link_delete>
+    <link_view>Link views</link_view>
+    <transport_add>Transport creating</transport_add>
+    <transport_edit>Transport editing</transport_edit>
+    <transport_delete>Transport deleting</transport_delete>
+    <transport_detail_add>Create detail of transport</transport_detail_add>
+    <transport_detail_edit>Edit detail of transport</transport_detail_edit>
+    <link_without_password>The link without a password will be available to everyone who has it, it can remain in the browser history or it will be visited by a search engine</link_without_password>
+    <active_trip_track_size>The size of the track shown in the active trip</active_trip_track_size>
+    <default_trip_privacy>Default trip privacy</default_trip_privacy>
+    <maximum_trip_duration>The maximum duration of the trip</maximum_trip_duration>
+    <maximum_trip_idle>Maximum idle time of the device during the trip</maximum_trip_idle>
+    <notify_when_trip_look>Push notification when your trip is viewed</notify_when_trip_look>
+    <notify_when_link_look>Push notification when link is viewed</notify_when_link_look>
+    <unlogin_all>Log out from all browsers except this one</unlogin_all>
+    <profile_private_see>Who can see your profile</profile_private_see>
+    <profile_private_feed>Who can subscribe to your profile</profile_private_feed>
+    <edit_success>Edit is success</edit_success>
+    <referer>Referer link</referer>
+    <user_agent>User agent</user_agent>
+    <update_app_notify>Update the app</update_app_notify>
+    <update_app_notify_description>To continue recording your trips, install the latest OsMoDroid version on your smartphone</update_app_notify_description>
+    <invite_description>Invite your friends and get extra activity points</invite_description>
+    <wait_until_moderator_check>checked by moderators, expect</wait_until_moderator_check>
+    <account_not_plus>You don`t have Plus</account_not_plus>
+    <account_not_plus_description>Your account does not have an active Plus subscription, so options marked with an asterisk will not be available to you</account_not_plus_description>
+    <account_is_weak>Your account is too weak</account_is_weak>
+    <account_is_weak_description>To get the best user experience, regularly record your trips - this will open access to additional features of the service</account_is_weak_description>
+    <ride_first_trip>Record your first trip using</ride_first_trip>
+    <ride_first_trip_with_app>the app</ride_first_trip_with_app>
+    <notify_transport_add>For regular trips, we recommend adding the transport used. You will be able to keep a detailed record of the wear and tear of parts and maintenance, as well as get an estimated cost of trips</notify_transport_add>
+    <notify_link_add>So that you can be watched on a variety of trips, without registering and installing apps, create a permanent link to your trips</notify_link_add>
+    <notify_group_enter>Here you will see the included groups that you will join or create.</notify_group_enter>
+    <notify_friend_action></notify_friend_action>
 </resources>

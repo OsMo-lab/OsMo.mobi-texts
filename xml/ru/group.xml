@@ -6,9 +6,9 @@
   <group_add>Создать группу</group_add>
   <group_find>Найти группу</group_find>
   <group_no_latlon>Не заданы начальные координаты группы</group_no_latlon>
-  <activity>Последняя активность</activity>
+  <last_activity>Последняя активность</last_activity>
   <leave_group>Покинуть группу</leave_group>
-  <join_note>Откройте ссылку для вступления с помощью своего мобильного устройства</join_note>
+  <join_note>Откройте ссылку для вступления с помощью своего смартфона</join_note>
   <you_in_group>Вы в группе</you_in_group>
   <you_joined>Дата вступления</you_joined>
   <b1t>Создайте группу</b1t>
@@ -39,6 +39,6 @@
   <weather_temperature>Температура</weather_temperature>
   <weather_wind>Ветер</weather_wind>
   <weather_humidity>Влажность</weather_humidity>
-  <weather_clouds>Осадки</weather_clouds>
-  <weather_pressure>Атм. Давление</weather_pressure>
+  <weather_clouds>Облачность</weather_clouds>
+  <weather_pressure>Атм. давление</weather_pressure>
 </resources>

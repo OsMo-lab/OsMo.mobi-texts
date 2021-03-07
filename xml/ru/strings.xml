@@ -1,212 +1,298 @@
 <resources language="ru">
-  <project>ОсМо Мониторинг</project>
-  <language>Язык</language>
-  <signup>Регистрация</signup>
-  <signin>Войти</signin>
-  <signout>Выйти</signout>
-  <more_info>Подробнее</more_info>
-  <email>Email</email>
-  <password>Пароль</password>
-  <telephone>Номер телефона</telephone>
-  <pnf_title>Ошибка 404</pnf_title>
-  <pnf_description>К сожалению страница не найдена</pnf_description>
-  <pnf_link>Попробуйте начать с главной страницы</pnf_link>
-  <error>Произошла ошибка</error>
-  <coming>Скоро</coming>
-  <properties>Свойства</properties>
-  <devices>Устройства</devices>
-  <groups>Группы</groups>
-  <links>Ссылки</links>
-  <sessions>Поездки</sessions>
-  <trip>Поездка</trip>
-  <unknown>Неизвестно</unknown>
-  <events>События</events>
-  <add>Добавить</add>
-  <edit>Редактировать</edit>
-  <delete>Удалить</delete>
-  <reset>Сбросить</reset>
-  <name>Название</name>
-  <updated>Обновлено</updated>
-  <actions>Действия</actions>
-  <action>Действие</action>
-  <view>Просмотр</view>
-  <save>Сохранить</save>
-  <enter>Вход</enter>
-  <leave>Выход</leave>
-  <access>Доступ</access>
-  <access_free>Свободный</access_free>
-  <access_private>Ограниченный</access_private>
-  <access_restricted>Закрытый</access_restricted>
-  <upload>Загрузить</upload>
-  <loading>Загрузка</loading>
-  <download>Скачать</download>
-  <gpx_track>GPX-трек</gpx_track>
-  <color>Цвет</color>
-  <lat>Широта</lat>
-  <lon>Долгота</lon>
-  <submit>Отправить</submit>
-  <set>Задать</set>
-  <cabinet>Личный кабинет</cabinet>
-  <url>Url-адрес</url>
-  <menu>Меню</menu>
-  <news>Новости проекта</news>
-  <view_website>Перейти на сайт</view_website>
-  <website>Cайт</website>
-  <limit>Ограничение</limit>
-  <created>Дата создания</created>
-  <tm_apps>Приложения</tm_apps>
-  <tm_personal>Мониторинг</tm_personal>
-  <tm_group>Группы</tm_group>
-  <tm_meet>Встречи</tm_meet>
-  <tm_community>Сообщества</tm_community>
-  <bm_about>О проекте</bm_about>
-  <bm_customization>Доработка</bm_customization>
-  <bm_donate>Помочь проекту</bm_donate>
-  <bm_privacy>Конфиденциальность</bm_privacy>
-  <bm_terms>Условия</bm_terms>
-  <bm_feedback>Поддержка</bm_feedback>
-  <begin>Начало</begin>
-  <map>Карта</map>
-  <admins>Администраторы</admins>
-  <tuning>Тонкая настройка</tuning>
-  <scenario>Сценарии</scenario>
-  <announcement>Объявления</announcement>
-  <history>История</history>
-  <share>Поделиться</share>
-  <contact>Контакт</contact>
-  <chat>Чат</chat>
-  <users_online>Пользователи онлайн</users_online>
-  <send_link>Вы можете вручную отправить ссылку</send_link>
-  <insert_frame>Или вставить фрейм в свой сайт или блог</insert_frame>
-  <text>Текст</text>
-  <apply>Применить</apply>
-  <need_register>Требуется регистрация</need_register>
-  <find>Найти</find>
-  <settings>Настройки</settings>
-  <control>Управление</control>
-  <remote_control>Удалённое управление</remote_control>
-  <need_pro>Нужен PRO</need_pro>
-  <only_for_you>Только для вас</only_for_you>
-  <and>и</and>
-  <online>Онлайн</online>
-  <active>Активен</active>
-  <auth>Авторизация</auth>
-  <rc_01>Запустить трекер</rc_01>
-  <rc_02>Остановить трекер</rc_02>
-  <rc_11>Информация о питании</rc_11>
-  <rc_12>Где ты?</rc_12>
-  <rc_13>Информация о спутниках</rc_13>
-  <rc_14>Системная информация</rc_14>
-  <rc_20>Статус Wifi</rc_20>
-  <rc_21>Включить Wifi</rc_21>
-  <rc_22>Выключить Wifi</rc_22>
-  <rc_30>Статус сигнализации</rc_30>
-  <rc_31>Включить сигнализацию</rc_31>
-  <rc_32>Выключить сигнализацию</rc_32>
-  <rc_33>Включить сирену</rc_33>
-  <rc_34>Выключить сирену</rc_34>
-  <rc_41>Вибрировать</rc_41>
-  <rc_42>Закрыть приложение</rc_42>
-  <rc_47>Включить фонарик</rc_47>
-  <rc_48>Мигать фонариком</rc_48>
-  <rc_49>Выключить фонарик</rc_49>
-  <rc_990>"Ответь на звонок"</rc_990>
-  <rc_991>Проверить сигнал SOS</rc_991>
-  <day>День</day>
-  <week>Неделя</week>
-  <month>Месяц</month>
-  <quarter>Квартал</quarter>
-  <type>Тип</type>
-  <members>Участники</members>
-  <members_new>Новые участники</members_new>
-  <counts>Показатели</counts>
-  <mymap>Мой OsMo</mymap>
-  <family>Семья</family>
-  <last_update>Последнее обновление</last_update>
-  <battery>Аккумулятор</battery>
-  <back>Назад</back>
-  <have_question>Если у вас есть вопросы</have_question>
-  <contact_us>свяжитесь с нами</contact_us>
-  <device>Устройство</device>
-  <site>Сайт</site>
-  <guest>Гость</guest>
-  <user>Пользователь</user>
-  <ws>Против</ws>
-  <show>Показать</show>
-  <group_type>Тип группы</group_type>
-  <users>Пользователи</users>
-  <sunset>Закат</sunset>
-  <sunrise>Рассвет</sunrise>
-  <next>Далее</next>
-  <short_name>OsMo</short_name>
-  <creator>Создатель</creator>
-  <until>до</until>
-  <active_from>Активен с</active_from>
-  <subscribes>Подписки</subscribes>
-  <auths>Авторизации</auths>
-  <duration>Период действия</duration>
-  <cost>Цена</cost>
-  <coins>Бонусы</coins>
-  <activate>Активировать</activate>
-  <less_to>Менее чем</less_to>
-  <network>Тип сети</network>
-  <mobile>Мобильная</mobile>
-  <wifi>WIFI</wifi>
-  <started>Запущен</started>
-  <stopped>Остановлен</stopped>
-  <timeout>Таймаут</timeout>
-  <timezone>Часовой пояс</timezone>
-  <time>Время</time>
-  <interval>Интервал</interval>
-  <group_type_1>Простая</group_type_1>
-  <group_type_2>Семья</group_type_2>
-  <group_type_3>Стандарт</group_type_3>
-  <group_type_4>None</group_type_4>
-  <group_type_5>ПОИ</group_type_5>
-  <group_type_6>Поездка/Путешествие</group_type_6>
-  <group_type_7>Соревнование</group_type_7>
-  <group_type_8>Семья+</group_type_8>
-  <group_type_9>Премиум</group_type_9>
-  <days>Дни</days>
-  <minutes>Минуты</minutes>
-  <week_1>Понедельник</week_1>
-  <week_2>Вторник</week_2>
-  <week_3>Среда</week_3>
-  <week_4>Четверг</week_4>
-  <week_5>Пятница</week_5>
-  <week_6>Суббота</week_6>
-  <week_7>Воскресение</week_7>
-  <level>Уровень</level>
-  <select>Выберите</select>
-  <command>Команда</command>
-  <off>Выключено</off>
-  <on>Включено</on>
-  <allow>Разрешить</allow>
-  <disallow>Запретить</disallow>
-  <keywords>Ключевые слова</keywords>
-  <search>Искать</search>
-  <date_from>Дата от</date_from>
-  <date_to>Дата до</date_to>
-  <km_per_day>Пройдено за день</km_per_day>
-  <km_per_hour>Пройдено за час</km_per_hour>
-  <logo>Лого</logo>
-  <follow_no>Не наблюдать</follow_no>
-  <follow_all>Наблюдать за всеми</follow_all>
-  <geozone>Геозона</geozone>
-  <date>Дата</date>
-  <pays>Платежи</pays>
-  <hours>Часы</hours>
-  <minute>Минутa</minute>
-  <minuts>Минут</minuts>
-  <seconds>Секунды</seconds>
-  <send>Отправить</send>
-  <bonuses>Бонусов</bonuses>
-  <your_bonuses>Бонусов</your_bonuses>
-  <donate>Поддержать проект</donate>
-  <menu_groups>Группы</menu_groups>
-  <menu_groups_my>Мои группы</menu_groups_my>
-  <menu_groups_archive>Мои группы (архивные)</menu_groups_archive>
-  <menu_groups_poi>Точки интереса</menu_groups_poi>
-  <menu_groups_trip>Поездки</menu_groups_trip>
-  <weather>Погода</weather>
+    <project>OsMo — Трекер</project>
+    <language>Язык</language>
+    <signup>Регистрация</signup>
+    <signin>Войти</signin>
+    <signout>Выйти</signout>
+    <login>Вход</login>
+    <more_info>Подробнее</more_info>
+    <email>Email</email>
+    <password>Пароль</password>
+    <telephone>Номер телефона</telephone>
+    <pnf_title>Ошибка 404</pnf_title>
+    <pnf_description>К сожалению страница не найдена</pnf_description>
+    <pnf_link>Попробуйте начать с главной страницы</pnf_link>
+    <error>Произошла ошибка</error>
+    <coming>Скоро</coming>
+    <properties>Свойства</properties>
+    <devices>Устройства</devices>
+    <groups>Группы</groups>
+    <tags>Теги</tags>
+    <links>Ссылки</links>
+    <kb>База знаний</kb>
+    <routes>Маршруты</routes>
+    <route>Маршрут</route>
+    <trips>Поездки</trips>
+    <history>История</history>
+    <your_trips>Ваши поездки</your_trips>
+    <trips_not_found>Поездки не найдены, смягчите условия фильтрации</trips_not_found>
+    <trips_not_recorded>У вас нет ни одной записи в истории, совершите первую прогулку с нашим приложением и она появится здесь</trips_not_recorded>
+    <trip>Поездка</trip>
+    <unknown>Неизвестно</unknown>
+    <events>События</events>
+    <add>Добавить</add>
+    <edit>Редактировать</edit>
+    <delete>Удалить</delete>
+    <reset>Сбросить</reset>
+    <name>Название</name>
+    <updated>Обновлено</updated>
+    <actions>Действия</actions>
+    <action>Действие</action>
+    <view>Просмотр</view>
+    <save>Сохранить</save>
+    <enter>Вход</enter>
+    <leave>Выход</leave>
+    <access>Доступ</access>
+    <access_free>Свободный</access_free>
+    <access_private>Ограниченный</access_private>
+    <access_restricted>Закрытый</access_restricted>
+    <upload>Загрузить</upload>
+    <loading>Загрузка</loading>
+    <download>Скачать</download>
+    <gpx_track>GPX-трек</gpx_track>
+    <color>Цвет</color>
+    <lat>Широта</lat>
+    <lon>Долгота</lon>
+    <submit>Отправить</submit>
+    <set>Задать</set>
+    <overview>Обзор</overview>
+    <url>Url-адрес</url>
+    <menu>Меню</menu>
+    <news>Новости проекта</news>
+    <view_website>Перейти на сайт</view_website>
+    <website>Сайт</website>
+    <limit>Ограничение</limit>
+    <created>Дата создания</created>
+    <tm_apps>Приложения</tm_apps>
+    <tm_personal>Мониторинг</tm_personal>
+    <tm_group>Группы</tm_group>
+    <tm_meet>Встречи</tm_meet>
+    <tm_community>Сообщества</tm_community>
+    <bm_about>О проекте</bm_about>
+    <bm_donate>Помочь проекту</bm_donate>
+    <bm_privacy>Политика конфиденциальности</bm_privacy>
+    <bm_terms>Условия использования</bm_terms>
+    <bm_legal>Правовая информация</bm_legal>
+    <bm_feedback>Поддержка</bm_feedback>
+    <begin>Начало</begin>
+    <map>Карта</map>
+    <admins>Администраторы</admins>
+    <tuning>Тонкая настройка</tuning>
+    <scenario>Сценарии</scenario>
+    <add_first>Добавить первый</add_first>
+    <share>Поделиться</share>
+    <contact>Контакт</contact>
+    <chat>Чат</chat>
+    <users_online>Пользователи онлайн</users_online>
+    <send_link>Вы можете вручную отправить ссылку</send_link>
+    <insert_frame>Или вставить фрейм в свой сайт или блог</insert_frame>
+    <text>Текст</text>
+    <apply>Применить</apply>
+    <need_register>Требуется регистрация</need_register>
+    <find>Найти</find>
+    <settings>Настройки</settings>
+    <control>Управление</control>
+    <remote_control>Удалённое управление</remote_control>
+    <need_pro>Нужен Pro-статус или подписка Plus</need_pro>
+    <only_for_you>Только для вас</only_for_you>
+    <and>и</and>
+    <online>Онлайн</online>
+    <active>Активен</active>
+    <auth>Авторизация</auth>
+    <rc_01>Запустить трекер</rc_01>
+    <rc_02>Остановить трекер</rc_02>
+    <rc_11>Информация о питании</rc_11>
+    <rc_12>Где ты?</rc_12>
+    <rc_13>Информация о спутниках</rc_13>
+    <rc_14>Системная информация</rc_14>
+    <rc_20>Статус Wifi</rc_20>
+    <rc_21>Включить Wifi</rc_21>
+    <rc_22>Выключить Wifi</rc_22>
+    <rc_30>Статус сигнализации</rc_30>
+    <rc_31>Включить сигнализацию</rc_31>
+    <rc_32>Выключить сигнализацию</rc_32>
+    <rc_33>Включить сирену</rc_33>
+    <rc_34>Выключить сирену</rc_34>
+    <rc_42>Закрыть приложение</rc_42>
+    <day>День</day>
+    <week>Неделя</week>
+    <month>Месяц</month>
+    <quarter>Квартал</quarter>
+    <type>Тип</type>
+    <members>Участники</members>
+    <members_new>Новые участники</members_new>
+    <counts>Показатели</counts>
+    <family>Семья</family>
+    <friend>Друг</friend>
+    <friends>Друзья</friends>
+    <last_update>Последнее обновление</last_update>
+    <power>Питание</power>
+    <back>Назад</back>
+    <have_question>Если у вас есть вопросы</have_question>
+    <contact_us>свяжитесь с нами</contact_us>
+    <device>Устройство</device>
+    <site>Сайт</site>
+    <guest>Гость</guest>
+    <user>Пользователь</user>
+    <vs>Против</vs>
+    <group_type>Тип группы</group_type>
+    <users>Пользователи</users>
+    <sunset>Закат</sunset>
+    <sunrise>Рассвет</sunrise>
+    <next>Далее</next>
+    <creator>Создатель</creator>
+    <until>до</until>
+    <active_from>Установлено</active_from>
+    <active_to>Снято</active_to>
+    <subscribes>Подписки</subscribes>
+    <auths>Авторизации</auths>
+    <duration>Период действия</duration>
+    <cost>Цена</cost>
+    <coins>Бонусы</coins>
+    <activate>Активировать</activate>
+    <less_to>Менее чем</less_to>
+    <network>Тип сети</network>
+    <mobile>Мобильная</mobile>
+    <wifi>Wifi</wifi>
+    <started>Запущен</started>
+    <stopped>Остановлен</stopped>
+    <timeout>Таймаут</timeout>
+    <timezone>Часовой пояс</timezone>
+    <time>Время</time>
+    <interval>Интервал</interval>
+    <group_type_1>Простая</group_type_1>
+    <group_type_2>Семья</group_type_2>
+    <group_type_3>Стандарт</group_type_3>
+    <group_type_4>None</group_type_4>
+    <group_type_5>ПОИ</group_type_5>
+    <group_type_6>None</group_type_6>
+    <group_type_7>Соревнование</group_type_7>
+    <group_type_8>None</group_type_8>
+    <group_type_9>Сила</group_type_9>
+    <days>Дни</days>
+    <minutes>Минуты</minutes>
+    <week_1>Понедельник</week_1>
+    <week_2>Вторник</week_2>
+    <week_3>Среда</week_3>
+    <week_4>Четверг</week_4>
+    <week_5>Пятница</week_5>
+    <week_6>Суббота</week_6>
+    <week_7>Воскресение</week_7>
+    <level>Уровень</level>
+    <select>Выберите</select>
+    <command>Команда</command>
+    <off>Выключено</off>
+    <on>Включено</on>
+    <allow>Разрешить</allow>
+    <disallow>Запретить</disallow>
+    <keywords>Ключевые слова</keywords>
+    <search>Искать</search>
+    <date_from>Дата от</date_from>
+    <date_to>Дата до</date_to>
+    <km_per_day>Пройдено за день</km_per_day>
+    <km_per_hour>Пройдено за час</km_per_hour>
+    <logo>Лого</logo>
+    <follow_no>Не наблюдать</follow_no>
+    <follow_all>Наблюдать за всеми</follow_all>
+    <geozone>Геозона</geozone>
+    <date>Дата</date>
+    <pays>Платежи</pays>
+    <hours>Часы</hours>
+    <minute>Минутa</minute>
+    <minuts>Минут</minuts>
+    <seconds>Секунды</seconds>
+    <send>Отправить</send>
+    <donate>Поддержать проект</donate>
+    <weather>Погода</weather>
+    <start>Старт</start>
+    <stop>Привал</stop>
+    <finish>Финиш</finish>
+    <link_user_location_not_found>Местоположение неизвестно</link_user_location_not_found>
+    <link_user_location_not_found_description>Пользователь давно не выходил на связь, мы не знаем его местоположение</link_user_location_not_found_description>
+    <menu_leaders>Лидеры</menu_leaders>
+    <menu_routes>Маршруты</menu_routes>
+    <menu_groups>Группы</menu_groups>
+    <score>Баллы</score>
+    <yes>Да</yes>
+    <no>Нет</no>
+    <activity>Активность</activity>
+    <trips_score>Оценка поездок</trips_score>
+    <user_top_title>Таблица лидеров</user_top_title>
+    <user_top_description>Это список публичных активных пользователей сервиса за последний месяц. Их показатели активности рассчитываются на основе количества поездок, пройденной дистанции, суммарной оценке поездок</user_top_description>
+    <group_top_title>Активные группы</group_top_title>
+    <group_top_description>Здесь собраны публичные группы, активные, в последнее время в сервисе OsMo Трекер</group_top_description>
+    <trip_top_title>Лента маршрутов OsMo</trip_top_title>
+    <trip_top_description>Здесь собраны публичные и качественные маршруты автоматически отобранные системой из списка маршрутов пользователей сервиса OsMo Трекер за последнее время</trip_top_description>
+    <top_all_km>Пройдено км</top_all_km>
+    <trip_private>Приватность поездки</trip_private>
+    <trip_private_0>Видно всем</trip_private_0>
+    <trip_private_1>Видно по ссылке/друзьям</trip_private_1>
+    <trip_private_2>Видно только вам</trip_private_2>
+    <km>км</km>
+    <kmph>км/ч</kmph>
+    <mps>м/c</mps>
+    <invite>Инвайт</invite>
+    <expenses>Расходы (доп. амортизация)</expenses>
+    <transport>Транспорт</transport>
+    <transport_type_0>Не выбран</transport_type_0>
+    <transport_type_1>Пешком</transport_type_1>
+    <transport_type_2>Транспорт</transport_type_2>
+    <transport_type_3>Велосипед</transport_type_3>
+    <transport_type_4>Авто/Мото</transport_type_4>
+    <transport_type_5>Бег/Лыжи</transport_type_5>
+    <transport_type_6>Лодка</transport_type_6>
+    <transport_type_7>Электро</transport_type_7>
+    <transport_type_8>Скейт/Самокат/Ролики</transport_type_8>
+    <transport_type_9>Иной</transport_type_9>
+    <price>Стоимость</price>
+    <price_per_km>Цена на км</price_per_km>
+    <date_start>Дата начала использования</date_start>
+    <date_end>Дата окончания использования</date_end>
+    <mileage>Пробег</mileage>
+    <mileage_threshold>Коррекция пробега</mileage_threshold>
+    <summary_mileage>Общий пробег</summary_mileage>
+    <summary_time>Общая наработка</summary_time>
+    <from>из</from>
+    <via>через</via>
+    <iot>Интернет Вещей</iot>
+    <trip_scale>Масштаб поездки</trip_scale>
+    <trip_scale_local>Местная</trip_scale_local>
+    <trip_scale_ring>Кольцевая</trip_scale_ring>
+    <trip_scale_intercity>Междугородняя</trip_scale_intercity>
+    <trip_scale_international>Международная</trip_scale_international>
+    <description>Описание</description>
+    <policy>Правила</policy>
+    <rules>Правила</rules>
+    <model>Модель</model>
+    <buy_price>Цена покупки</buy_price>
+    <resource>Ресурс</resource>
+    <ip>IP</ip>
+    <position>Позиция</position>
+    <link_stop_accuracy>Точное место остановки</link_stop_accuracy>
+    <link_stop_accuracy_description>Место остановки показывается с максимальной точностью, это может нарушить вашу приватность</link_stop_accuracy_description>
+    <link_permanent>Постоянный мониторинг</link_permanent>
+    <link_permanent_description>Фоновое обновление вашего местоположения, когда поездка не запущена</link_permanent_description>
+    <link_power_info>Информация о питании</link_power_info>
+    <link_power_info_description>Показывать информацию о статусе зарядки смартфона</link_power_info_description>
+    <pro>Про</pro>
+    <distance>Дистанция</distance>
+    <distance_true>Истинная дистанция</distance_true>
+    <speed>Скорость</speed>
+    <speed_short>Ск.</speed_short>
+    <speed_avg>Ср.</speed_avg>
+    <speed_average>Средняя скорость</speed_average>
+    <speed_avg_best>Лучш.Ср.</speed_avg_best>
+    <speed_average_best>Лучшая средняя скорость</speed_average_best>
+    <speed_max>Макс.</speed_max>
+    <speed_maximum>Максимальная скорость</speed_maximum>
+    <achievement>Награды</achievement>
+    <penalty>Замечания</penalty>
+    <al>Общее</al>
+    <drv>Дв.</drv>
+    <time_all>Общее время</time_all>
+    <time_drive>Время в движении</time_drive>
+    <trip_score>Сводная оценка качества поездки специализированным анализатором</trip_score>
+    <trip_type>Вид транспорта</trip_type>
+    <private>Приватная</private>
+    <continue>Далее</continue>
 </resources>

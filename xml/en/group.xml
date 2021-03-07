@@ -6,9 +6,9 @@ You can plan a trip with the whole group: place in group points and tracks for e
   <group_add>Create group</group_add>
   <group_find>Find group</group_find>
   <group_no_latlon>Do not set the initial coordinates of the group</group_no_latlon>
-  <activity>Last activity</activity>
+  <last_activity>Last activity</last_activity>
   <leave_group>Leave group</leave_group>
-  <join_note>Open the join link via your mobile device</join_note>
+  <join_note>Open the join link via your smartphone</join_note>
   <you_in_group>Are you in the group</you_in_group>
   <you_joined>You joined</you_joined>
   <b1t>Create a group</b1t>

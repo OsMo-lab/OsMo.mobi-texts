@@ -1,14 +1,23 @@
 <resources language="en">
   <nick>Nick</nick>
-  <signup_and_agree>I agree all terms, do register</signup_and_agree>
+  <status>Status</status>
+  <signup>Register</signup>
   <email>E-mail</email>
   <password>Password</password>
   <retry_password>Retry password</retry_password>
-  <remember>Remember me</remember>
-  <forgot>Forgot password?</forgot>
+  <remember>Remember this device</remember>
+  <forgot>Forgot password</forgot>
   <terms>Terms</terms>
   <privacy>Privacy</privacy>
   <gender>Gender</gender>
   <gender_male>Male</gender_male>
   <gender_female>Female</gender_female>
+  <code>Code</code>
+  <password_strong>The password must contain at least 10 characters, uppercase and lowercase letters, and numbers.</password_strong>
+  <signup_success>You are registered successfully! The registration letter has been sent to you by email.</signup_success>
+  <wait_email_close_page>Wait for a letter to the mail. This tab can be closed</wait_email_close_page>
+  <signin_email>Login via email</signin_email>
+  <signin_app>Login via app</signin_app>
+  <enter_email>Enter your email address</enter_email>
+  <create_account>Create account</create_account>
 </resources>

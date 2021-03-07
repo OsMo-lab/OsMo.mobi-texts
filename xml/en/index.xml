@@ -1,30 +1,44 @@
 <resources language="en">
-  <index_title_1>OsMo Monitoring</index_title_1>
-  <index_desc_1>Mobile GPS monitoring makes it easy to share geo-data: your coordinates, points, tracks</index_desc_1>
-  <index_title_2>The best solution for mobile GPS monitoring</index_title_2>
-  <index_desc_2>By creating a group in OsMo, you can quickly find each other on the ground. It is very convenient both in the quiet wood, and in the large megalopolis</index_desc_2>
-  <index_title_3>Types of monitoring</index_title_3>
-  <index_title_3_1>With the organization</index_title_3_1>
-  <index_title_3_2>Family</index_title_3_2>
-  <index_title_3_3>During the journey</index_title_3_3>
-  <index_title_3_4>Securely</index_title_3_4>
-  <index_desc_3_1>Sled dog race, or a taxi company - our solution is very flexible</index_desc_3_1>
-  <index_desc_3_2>Why did the child stay at school? Accurate location information with minimal power consumption</index_desc_3_2>
-  <index_desc_3_3>Share your impressions or organize a whole column of cars on the track. A trip out of town or a tour across the country? Unimportantly!</index_desc_3_3>
-  <index_desc_3_4>We care about the peace of your loved ones every day, for more than 3 years</index_desc_3_4>
-  <index_title_4>Download our apps now</index_title_4>
-  <index_desc_4>You can watch open groups without registration, view permanent and temporary links through the site</index_desc_4>
-  
-  <personal>Personal</personal>
-  <personal_description>You can share your location with anyone's quick, easy and anonymously using disposable or permanent link received in the application</personal_description>
-  <group>Groups</group>
-  <group_description>Group monitoring allows all group members to share locations and points of interest in real time. The administrator can place additional routes and create geofences. In groups, have a chat and notification system. Use groups for clubs, families, travel, competitions or other events.</group_description>
-  <family>Family</family>
-  <family_description>Special groups for use every day. You will always know where your husband and children. In addition to standard functions, you will always know the battery level of the devices of the family members to have the ability to control monitoring other family member and the signal SOS.</family_description>
-  <journey>Trip/Travel</journey>
-  <journey_description>If you went on a long journey, you'll appreciate this type of groups. Specify the start and end dates of your trip and the system will automatically publish your way every day, so the observer can see the entire path of your journey online.</journey_description>
-  <contest>Contest</contest>
-  <contest_description>Group created specifically for the various events related to navigation.</contest_description>
-  <event>Event</event>
-  <event_description>Group with automatic control of start of monitoring for the period of the action.</event_description>
+    <index_title>OsMo — Tracker</index_title>
+    <index_desc>Our service helps you record your trips, workouts and walks every day for further analysis.
+        The OsMoDroid app records a high-precision track with a frequency of 1 Hz online, thereby capturing the dynamics of your path as accurately as possible.
+        Thanks to online trip recording, you can share your location with the whole world or specific people.
+    </index_desc>
+
+    <menu_1>Begin</menu_1>
+    <menu_2>Features</menu_2>
+    <menu_3>Review</menu_3>
+    <menu_4>Help</menu_4>
+
+
+    <feature>Key features</feature>
+
+    <feature1_title>Trip recording</feature1_title>
+    <feature1_description>Install the app, click "Run". That's all it takes to start recording your trip and showing your location on a temporary link with the highest possible accuracy.</feature1_description>
+
+    <feature2_title>Permanent</feature2_title>
+    <feature2_description>Create a personal link in the app and you can be watched daily by a fixed link. You can close the link with a password or publish it as a frame inside your site</feature2_description>
+
+    <feature3_title>Group</feature3_title>
+    <feature3_description>Create a group in one minute and invite members of your community. When participants are to start monitoring, their location would be visible to all who have access to the group via the mobile app and the website. Ideal for public group bike rides or car rides</feature3_description>
+
+    <feature4_title>Family</feature4_title>
+    <feature4_description>Create a special "Family" group and invite your relatives to join it. All family members will see each other's location, constantly, through apps or a website with minimal power consumption and no need to turn on the tracker manually</feature4_description>
+
+
+    <reviews>Reviews (from Play Store)</reviews>
+
+    <review1_author>Grab Guh</review1_author>
+    <review1_profession>Driver</review1_profession>
+    <review1_text>Excellent for everyone who work with Grab, Uber, Go-Car or any taxi/mobile service. Especially when you have a group and need to monitor everyone's position. Also good for monitoring family location.</review1_text>
+
+    <review2_author>Kiti Thengtrirat</review2_author>
+    <review2_profession>Father</review2_profession>
+    <review2_text>Great app to track your child give them a cell phone and you don't worry much.  Dangerous app to give to your wife, you can't go any where...love it, live it ... especially when traffic jam and you wait for someone back home.</review2_text>
+
+    <review3_author>Randy Schnedler</review3_author>
+    <review3_profession>User</review3_profession>
+    <review3_text>No registration required to use it, though registration does give you even more power. Great stuff, frequent updates. Just keeps getting better! Thank you, dev!</review3_text>
+
+    <support>If you have any questions, please contact us</support>
 </resources>

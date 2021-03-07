@@ -3,10 +3,8 @@
 interface howto {
     /*
      * 
-    To create some language please fork this repository
-    or contact us: support@osmo.mobi
+     * To create some language please make commits and pull request
+     * We help you: osmo.mobi@gmail.com
      * 
      */
 }
-
-?>

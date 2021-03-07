@@ -21,8 +21,8 @@
   <gtk5>If the account is not received coordinate within 8 hours, the trip will automatically end</gtk5>
   <gtk6>If the majority of the points sent in the last 24 hours, with zero speed - the drive is considered useless and will not be saved</gtk6>
   
-  <session_ended>The trip has already ended</session_ended>
-  <session_ended_description>To continue to observe this unit you can ask for a link to a new session, the permanent link or log in with a user in one group</session_ended_description>
+  <session_ended>Trip completed</session_ended>
+  <session_ended_description>To continue monitoring this person, you can ask them for a new link, a permanent link, add them to friends, or create a group</session_ended_description>
   
   <personal_not_found>This link leads nowhere</personal_not_found>
   <personal_not_found_description>You may ask whoever you sent it new</personal_not_found_description>

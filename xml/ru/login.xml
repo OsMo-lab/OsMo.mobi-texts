@@ -1,14 +1,27 @@
 <resources language="ru">
   <nick>Ник</nick>
-  <signup_and_agree>Я принимаю условия, регистрация</signup_and_agree>
+  <status>Статус</status>
+  <signup>Зарегистрироваться</signup>
   <email>E-mail</email>
   <password>Пароль</password>
   <retry_password>Повторите пароль</retry_password>
-  <remember>Запомнить меня</remember>
-  <forgot>Забыли пароль?</forgot>
+  <remember>Запомнить это устройство</remember>
+  <forgot>Забыли пароль</forgot>
+  <password_reset>сброс пароля</password_reset>
   <terms>Условия</terms>
   <privacy>Конфиденциальность</privacy>
   <gender>Пол</gender>
   <gender_male>Мужской</gender_male>
   <gender_female>Женский</gender_female>
+  <code>Код</code>
+  <password_strong>Пароль должен содержать не менее 10 символов, заглавные и строчные буквы, цифры.</password_strong>
+  <signup_success>Вы успешно зарегистрированы! Письмо о регистрации отправлено вам на email.</signup_success>
+  <wait_email_close_page>Ожидайте письма на почту. Эту вкладку можно закрыть</wait_email_close_page>
+  <signin_email>Войти через письмо</signin_email>
+  <signin_app>Войти через приложение</signin_app>
+  <code_sended>Мы отправили код на ваше устройство</code_sended>
+  <check_password>Прежде чем обновить пароль, проверьте его с помощью</check_password>
+  <password_change_need>Вам требуется обновить свой пароль</password_change_need>
+  <enter_email>Введите свой email</enter_email>
+  <create_account>Создать аккаунт</create_account>
 </resources>
